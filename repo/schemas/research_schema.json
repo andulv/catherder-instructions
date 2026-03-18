@@ -1,0 +1,79 @@
+{
+  "name": "research_result",
+  "strict": true,
+  "schema": {
+    "type": "object",
+    "properties": {
+      "query": {
+        "type": "string",
+        "description": "The original research query."
+      },
+      "summary": {
+        "type": "string",
+        "description": "A concise summary of the research findings (max ~500 characters)."
+      },
+      "key_findings": {
+        "type": "array",
+        "description": "Array of distinct findings, each backed by at least one source.",
+        "items": {
+          "type": "object",
+          "properties": {
+            "statement": {
+              "type": "string",
+              "description": "A single factual finding."
+            },
+            "confidence": {
+              "type": "number",
+              "description": "Confidence score from 0.0 (no confidence) to 1.0 (certain)."
+            },
+            "sources": {
+              "type": "array",
+              "description": "Sources supporting this finding. At least one required.",
+              "items": {
+                "type": "object",
+                "properties": {
+                  "title": {
+                    "type": "string",
+                    "description": "Title of the source page or document."
+                  },
+                  "url": {
+                    "type": "string",
+                    "description": "URL of the source."
+                  },
+                  "date": {
+                    "type": "string",
+                    "description": "Publication or last-updated date (ISO 8601 preferred, empty string if unknown)."
+                  },
+                  "publisher": {
+                    "type": "string",
+                    "description": "Publisher or site name (empty string if unknown)."
+                  }
+                },
+                "required": ["title", "url", "date", "publisher"],
+                "additionalProperties": false
+              }
+            }
+          },
+          "required": ["statement", "confidence", "sources"],
+          "additionalProperties": false
+        }
+      },
+      "conflicting_information": {
+        "type": "array",
+        "description": "Statements where sources disagree. Empty array if none.",
+        "items": {
+          "type": "string"
+        }
+      },
+      "open_questions": {
+        "type": "array",
+        "description": "Questions that remain unanswered by the research. Empty array if none.",
+        "items": {
+          "type": "string"
+        }
+      }
+    },
+    "required": ["query", "summary", "key_findings", "conflicting_information", "open_questions"],
+    "additionalProperties": false
+  }
+}

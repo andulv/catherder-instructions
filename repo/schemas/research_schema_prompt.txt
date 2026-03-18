@@ -1,0 +1,31 @@
+STRICT OUTPUT RULES:
+- Output MUST be a single JSON object.
+- Output MUST be parseable JSON (no markdown fences, no extra text).
+- Include EVERY required field. Use empty arrays when needed.
+
+REQUIRED JSON SHAPE (all fields required):
+
+{
+  "query": "<echo the user query>",
+  "summary": "<concise summary, ideally <= 500 characters>",
+  "key_findings": [
+    {
+      "statement": "<one distinct factual finding>",
+      "confidence": <number 0.0..1.0>,
+      "sources": [
+        {
+          "title": "<source title>",
+          "url": "<https://...>",
+          "date": "<ISO 8601 date or empty string>",
+          "publisher": "<publisher/site or empty string>"
+        }
+      ]
+    }
+  ],
+  "conflicting_information": [],
+  "open_questions": []
+}
+
+CONSTRAINTS:
+- At least 1 key_findings item.
+- At least 1 source per finding.

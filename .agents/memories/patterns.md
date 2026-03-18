@@ -1,0 +1,1 @@
+- Blazor CSS isolation + MudBlazor: use `::deep` to style child component internals (e.g., `.mud-expand-panel-header`), otherwise scoped selectors may not match generated Mud markup.
