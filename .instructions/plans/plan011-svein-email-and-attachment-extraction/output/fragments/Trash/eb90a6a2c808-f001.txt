@@ -1,0 +1,16 @@
+message_id:  <b25c46f0fbc74f7c8c2e942fcedd9f1e@SVZP279MB0750.NORP279.PROD.OUTLOOK.COM>
+source_path: reference/mailbox-anders-plantedamp/Trash/cur/1774229846.210405_4480.tp-anders,U=1143:2,S
+mailbox_folder: Trash
+top_level_from: Svein Skorpen <svein@byrknes.no>
+fragment_id: f001
+fragment_type: direct_primary
+confidence: high
+evidence_codes: FROM_EMAIL_MATCH, FROM_EXACT, FROM_NAME_MATCH
+
+## PRIMARY_TEXT
+Jeg er på ferie i perioden 2.juli 2025 til og med 3 .august 2025 . Jeg leser email sporadisk og hvis ting haster så send meg en SMS , så tar jeg kontakt ved første anledning . Jeg ønsker dere alle en fin ferie og god sommer .
+
+Jeg er i USA fra 3.juli 2025 til og med 22.juli 2025. Det er en tidsforskjell på 6 timer ( 6 time før Norsk tid ) i USA .
+
+
+Svein

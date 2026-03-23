@@ -1,0 +1,37 @@
+message_id:  <OLAP279MB02169B82507871727352A9FCC8319@OLAP279MB0216.NORP279.PROD.OUTLOOK.COM>
+source_path: reference/mailbox-anders-plantedamp/Inbox/cur/1774229759.210405_13.tp-anders,U=13:2,S
+mailbox_folder: Inbox
+top_level_from: Svein Skorpen <svein@byrknes.no>
+fragment_id: f001
+fragment_type: direct_primary
+confidence: high
+evidence_codes: FROM_EMAIL_MATCH, FROM_EXACT, FROM_NAME_MATCH, QUOTED_CONTEXT_PRESENT
+
+## PRIMARY_TEXT
+Hei, Anders !
+
+Da er Plantedamp AS endelig registrert i Foretaksregisteret . SPV får nok melding om at selskapet er registrert og vil da åpne konto for utbetalinger. Tror imidlertid det kan være fornuftig av deg og videresende
+denne email til din kontakt i banken og be de om å åpne konto .
+
+Hører fra deg hvis det er noen spørsmål i sakens anledning, Anders !
+
+
+Mvh
+
+Svein Skorpen
+
+Email: svein@byrknes.no<mailto:svein@byrknes.no>
+Telefon:  48281280
+
+## QUOTED_CONTEXT
+Fra: Altinn for SVEIN SKORPEN <noreply@altinn.no>
+Sendt: tirsdag 25. oktober 2022 11:24
+Til: Svein Skorpen <svein@byrknes.no>
+Emne: Samordnet registermelding er godkjent - PLANTEDAMP AS - 930 078 158
+
+
+Brønnøysundregistrene har behandlet og godkjent Samordnet registermelding.
+
+Viktig informasjon til nyregistrerte virksomheter<https://www.brreg.no/andre-tema/informasjon-til-nyregistrerte-virksomheter/>
+
+Gratis veiledning om å starte og drive bedrift<https://www.altinn.no/gratulerer>

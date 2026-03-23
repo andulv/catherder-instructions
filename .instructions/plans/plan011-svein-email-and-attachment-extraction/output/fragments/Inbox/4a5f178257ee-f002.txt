@@ -1,0 +1,44 @@
+message_id:  <OLAP279MB021632F983469A2F5C78E29CC85A9@OLAP279MB0216.NORP279.PROD.OUTLOOK.COM>
+source_path: reference/mailbox-anders-plantedamp/Inbox/cur/1774229759.210405_9.tp-anders,U=9:2,S
+mailbox_folder: Inbox
+top_level_from: Svein Skorpen <svein@byrknes.no>
+fragment_id: f002
+fragment_type: quoted_context
+confidence: medium
+evidence_codes: QUOTED_CONTEXT_PRESENT
+
+## TEXT
+Fra: Anders Ulveseth <anders.ulveseth@plantedamp.no>
+Sendt: tirsdag 4. oktober 2022 11:38
+Til: Svein Skorpen <svein@byrknes.no>
+Emne: Fwd: Bekreftelse av aksjekapital ID:0109402472
+
+
+Sendt fra min iPad
+
+Videresendt melding:
+Fra: Sparebanken Vest <Afs@spv.no<mailto:Afs@spv.no>>
+Dato: 4. oktober 2022 kl. 10:41:20 CEST
+Til: Plantedamp AS SUS <anders.ulveseth@plantedamp.no<mailto:anders.ulveseth@plantedamp.no>>
+Emne: Bekreftelse av aksjekapital ID:0109402472
+﻿
+Hei.
+
+Vedlagt følger bekreftelse av innbetalt aksjekapital til Enhetsregisteret.
+
+Ved registrering i Altinn, benytt vårt organisasjonsnummer 832 554 332.
+
+Det er ikke nødvendig å legge inn bankens epost under registreringen.
+
+Sparebanken Vest signerer i Altinn når registrering av Samordnet registermelding er foretatt av dere.
+
+Vi gjør oppmerksom på at kontoen vil være sperret for utgående transaksjoner inntil selskapet har fått tildelt organisasjonsnummer samt har registret og returnert kontoavtaler mv.
+
+Kontoavtaler vil bli tilsendt når selskapet er registret i Enhetsregisteret.
+
+Ønsker deg en flott dag!
+
+
+Med vennlig hilsen
+Benedicte
+Sparebanken Vest, Bedrift

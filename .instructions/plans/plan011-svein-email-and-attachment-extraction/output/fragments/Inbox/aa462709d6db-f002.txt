@@ -1,0 +1,118 @@
+message_id:  <OLAP279MB021633BD32250509D4210DBCC8AD9@OLAP279MB0216.NORP279.PROD.OUTLOOK.COM>
+source_path: reference/mailbox-anders-plantedamp/Inbox/cur/1774229763.210405_219.tp-anders,U=219:2,S
+mailbox_folder: Inbox
+top_level_from: Svein Skorpen <svein@byrknes.no>
+fragment_id: f002
+fragment_type: quoted_context
+confidence: medium
+evidence_codes: QUOTED_CONTEXT_PRESENT
+
+## TEXT
+Fra: Frode Kronstad <Frode@definit.no>
+Sendt: tirsdag 28. februar 2023 09:03
+Til: Svein Ove Kvalsund <sveinove@fueled.no>; Svein Skorpen <svein@byrknes.no>
+Kopi: Even Jespersen <even@definit.no>
+Emne: SV: Har dere satt et tidspunkt for eventuelt styremøte neste uke ? Jeg reiser på ferie neste fredag og blir da borte 1 uke . Hvordan gikk møte med SU SOFT i går ?? God helg til deg , Frode !
+
+Hei
+
+Det er riktig som Svein Ove sier at jeg har sett på hvilke kostnadstiltak som er aktuell, og som er av en viss størrelsesorden.
+Som vi alle vet, så er kostnadsnivået i selskapet veldig lavt.  Unntaket fra dette er personalkostnader.
+
+Aktuelle kostnadsreduserende tiltak:
+
+Bemanningsreduksjon
+Reduksjon i pensjonsordning (denne er i dag 7 % - lovpålagt er 2 %).
+Permitteringer høsten 23
+
+Det vil selvfølgelig også være noen poster i budsjettet som også kan være med å bidra inn i det store bildet.
+
+I forbindelse med vintereferie for Svein, foreslår jeg styremøte i uke 11 (13-17 mars).  Kommer dere med innspill på dag/tidspunkt.
+
+
+Frode Kronstad
+Daglig Leder
+
+[cid:image001.jpg@01D94B53.65C30A30]
+____________________________________________________
+Definit AS
+- It-løsninger for butikkdrift og kjedestyring
+E-Mail: frode@definit.no<mailto:frode@definit.no>,  Mob: +47  932 20 560, www.definit.no<http://www.definit.no/>
+
+
+
+
+
+
+
+
+
+Fra: Svein Ove Kvalsund <sveinove@fueled.no<mailto:sveinove@fueled.no>>
+Sendt: mandag 27. februar 2023 11:17
+Til: Svein Skorpen <svein@byrknes.no<mailto:svein@byrknes.no>>
+Kopi: Frode Kronstad <Frode@definit.no<mailto:Frode@definit.no>>; Even Jespersen <even@definit.no<mailto:even@definit.no>>
+Emne: Re: Har dere satt et tidspunkt for eventuelt styremøte neste uke ? Jeg reiser på ferie neste fredag og blir da borte 1 uke . Hvordan gikk møte med SU SOFT i går ?? God helg til deg , Frode !
+
+Hei dere,
+
+Liten supplering fra meg. Frode har skissert en del potensielle kostnadstiltak, de kan du gjerne sirkulere på e-post Frode?
+
+Samtalen jeg hadde med Anders gikk bra, og han er åpen for å diskutere løsninger. Han bekrefter også at han er beredt på å gjøre det som trengs for å løse Sunkost. Vi er klare for å diskutere konkrete alternativer på neste styremøte og der er flere alternativer.
+
+1) Anders ikke lenger lønnes av Definit, men det inngås en avtale om at han mottar en andel av lisensinntektene + evt et beløp hvor han er standby som konsulent i en periode. Varighet uvisst - kommer an på Sunkost og hvor lang tid det tar. Anders er ikke udelt positiv til å gå ned i lønn på nåværende tidspunkt.
+
+2) Anders tar med seg rettighetene til Omnishop ut i et eget selskap med en avtale til Definit på drift/service/support, og Definit formelt avvikler det å drive softwareutvikling. Anders står fritt til å gjøre andre prosjekter, men forplikter seg til å levere på oppgradering av Sunkost. I et slikt alternativ må vi også se på bemanningen og evt gjøre tilpasninger av denne.
+
+Frode, vi kan forberede disse alternativene mer konkret?
+
+Svein Ove Kvalsund
+t: 995 22 870
+e: sveinove@fueled.no<mailto:sveinove@fueled.no>
+
+
+man. 27. feb. 2023 kl. 08:51 skrev Svein Skorpen <svein@byrknes.no<mailto:svein@byrknes.no>>:
+Hei , Frode !
+
+Ok , Frode !
+
+Forstår deg da slik at vi må bruke mars til å komme frem til en konklusjon rundt videre drift og kostnadsreduserende tiltak .  Ref. styrevedtak datert 070223 så skulle det fremlegges en plan for kostnadsreduserende tiltak for 2023 innen utløpet av februar.
+
+Antar at dette da at plan og gjennomføring blir utsatt til utløp mars 2023 ? .  Fint med en liten oppdatering etter samtaler med Anders og SU Soft AS når du har tid , Frode !  Hadde ikke forventet noen avklaring med Su Soft AS etter første møte.
+
+Jeg er til din orientering på ferie fra 3.mars 2023 til 11.mars 2023 og er da ikke tilgjengelig for styremøte .
+
+Svein
+
+Fra: Frode Kronstad <Frode@definit.no<mailto:Frode@definit.no>>
+Sendt: mandag 27. februar 2023 08:20
+Til: Svein Skorpen <svein@byrknes.no<mailto:svein@byrknes.no>>
+Emne: SV: Har dere satt et tidspunkt for eventuelt styremøte neste uke ? Jeg reiser på ferie neste fredag og blir da borte 1 uke . Hvordan gikk møte med SU SOFT i går ?? God helg til deg , Frode !
+
+Hei Svein
+
+Får ikke til styremøte denne uken.
+
+Må bli neste uke.
+
+Møtet med Susoft gikk bra, men våre tanker har de nok ikke hatt og må nok synke inn.
+
+Forhåpentligvis har vi fått satt i gang noen «tankeprosesser» hos Susoft.
+
+Uansett ingen løsning på kort sikt.
+
+
+Frode
+
+Fra: Svein Skorpen <svein@byrknes.no<mailto:svein@byrknes.no>>
+Sendt: fredag 24. februar 2023 15:03
+Til: Frode Kronstad <Frode@definit.no<mailto:Frode@definit.no>>
+Emne: Har dere satt et tidspunkt for eventuelt styremøte neste uke ? Jeg reiser på ferie neste fredag og blir da borte 1 uke . Hvordan gikk møte med SU SOFT i går ?? God helg til deg , Frode !
+
+
+
+Mvh
+
+Svein Skorpen
+
+Email: svein@byrknes.no<mailto:svein@byrknes.no>
+Telefon:  48281280

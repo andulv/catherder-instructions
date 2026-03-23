@@ -1,0 +1,40 @@
+message_id:  <OLAP279MB021674CB8EA438D6BC9400ACC8D09@OLAP279MB0216.NORP279.PROD.OUTLOOK.COM>
+source_path: reference/mailbox-anders-plantedamp/Inbox/cur/1774229762.210405_132.tp-anders,U=132:2,PS
+mailbox_folder: Inbox
+top_level_from: Svein Skorpen <svein@byrknes.no>
+fragment_id: f001
+fragment_type: direct_primary
+confidence: high
+evidence_codes: FROM_EMAIL_MATCH, FROM_EXACT, FROM_NAME_MATCH, QUOTED_CONTEXT_PRESENT
+
+## PRIMARY_TEXT
+Takker for det, Anders ! Fint at du får satt deg litt inn i Fiken også .  Har vært begrenset med tid så langt , men sammen er vi dynamitt, så dette skal vi få på plass , Anders !
+
+Når deg gjelder Definit AS så har jeg på følelsen at vi må på banen om ikke for lenge. Vi holder dialogen og snakkes etter styremøte på torsdag. Jeg regner med å ha klar formalia rundt Yadgar sin inngang i selskapet i løpet av morgendagen , hvis ting går som planlagt og det gjør det sjelden , ha ha !
+
+Svein
+
+## QUOTED_CONTEXT
+Fra: Anders Ulveseth <anders.ulveseth@plantedamp.no>
+Sendt: tirsdag 31. januar 2023 14:45
+Til: Svein Skorpen <svein@byrknes.no>
+Emne: Re: Har sendt deg invitasjon til tilgan Fiken for Plantedamp AS - Ringer deg i morgen for videre løp Anders - koker både her og der nå .
+
+Jeg har fått logget inn i Fiken. 😁
+
+Ikke noe som brenner. Hensikten med å logge inn i Fiken er å avlaste deg, ikke stresse deg.
+
+Når det gjelder Kinsarvik var det som forventet.  Har lenge sagt at vi kan velge å handle før det skjer, eller vente til det faktisk har skjedd.
+Sendt fra min iPad
+
+
+31. jan. 2023 kl. 14:39 skrev Svein Skorpen <svein@byrknes.no<mailto:svein@byrknes.no>>:
+﻿
+
+
+Mvh
+
+Svein Skorpen
+
+Email: svein@byrknes.no<mailto:svein@byrknes.no>
+Telefon:  48281280

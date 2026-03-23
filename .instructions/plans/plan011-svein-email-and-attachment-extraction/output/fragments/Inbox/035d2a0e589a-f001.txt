@@ -1,0 +1,116 @@
+message_id: <D2B88AFD-7BFD-4716-9CDB-B27E1CC66028@byrknes.no>
+source_path: reference/mailbox-anders-plantedamp/Inbox/cur/1774229776.210405_750.tp-anders,U=750:2,S
+mailbox_folder: Inbox
+top_level_from: Svein Skorpen <svein@byrknes.no>
+fragment_id: f001
+fragment_type: direct_primary
+confidence: high
+evidence_codes: FROM_EMAIL_MATCH, FROM_EXACT, FROM_NAME_MATCH
+
+## PRIMARY_TEXT
+Hei,Anders😀 Dette var en god oppsummering fra møtene i København . Dette gikk raskere enn hva jeg trodde i forkant av turen.
+
+Med 2 000 maskiner ute Word wide så har jeg tro på at dere vil få nok å gjøre i tiden som kommer . Ikke sikkert det blir så mye salg, men dere må forberede dere på at det kan bli mye support fra hele verden og den jobb dere gjør her vil kunne være avgjørende for potensiale i neste fase . Dere vil via dette knytte kontakter med bÅde sluttkurser og forhandlere som kan bli meget nyttig i neste fase .
+
+Spennende å høre responsen fra Peter på denne oppsummering .
+
+Vi snakkes ,Anders , mest sannsynlig torsdag ved lunchtider hos dere 😀
+
+Svein
+Sendt fra min iPad
+
+20. apr. 2024 kl. 17:35 skrev Anders Ulveseth <anders.ulveseth@plantedamp.no>:
+
+﻿
+Hei Peter,
+
+Takker for svært hyggelig og inspirerende dager i København. :)
+
+Her har jeg skrevet en oppsummering av saker vi diskuterte samt litt tanker/bearbeiding jeg har gjort i etterkant.
+
+Dette er mer kladd / notater enn forslag til endelige organisering og avtaler. Gi beskjed hvis det er noe jeg har misoppfattet eller det er noe du ikke er enig i. :)
+
+Hvis det passer for deg/dere foreslår jeg et videomøte en av dagene hvor dere også kan få hilse på Yadgar (daglig leder) og Simon (tekniker, ordrebehandling, salg).
+
+
+
+GANDALF
+We like to order 2 x Mock-ups. Send invoice to Plantedamp AS and we will pay it in max. 30 days.
+
+I will play with the Pico in my sparetime, to get a feel for how it works and try to set up a effective development environment. Do you have some info on the display module? So that I can read about it and hopefully find some sample code.
+
+
+What I have learned about Gandalf so far:
+
+  *   Will produce approx 5. "mockup" units, that will be sold to beta-testers / stakeholders in the project. Price pr. unit 1 500,- EUR. (Or was it 15000 DKK?)
+  *   Mockup units will use Raspberry Pi Zero with same setup/code as the Merlin 400.
+  *   After the mockup there will be produced nn "prototype" units. It is not yet decided if the prototypes will use Pi Zero or Pi Pico.
+  *   Next step after "Prototype" is production
+
+  *   Chamber can be filled with 0-400g herbs. Will use 6-8 hours for full extract.
+  *   Expected retail price will be 5000,- EUR
+
+  *   "Gandalf" is working name. Have to find new name before going into production since that name is heavily protected.
+
+
+
+MERLIN - SPARE PARTS AND ACCESSORIES
+Vi setter opp en ny nettbutikk, drevet av Plantedamp AS. Foreløpig forslag til navn/URL for nettbutikk er "drizzle-store.com".
+
+Vi legger inn en info-tekst som dette på forsiden:
+Drizzle the company (Drizzle Aps) has suspended all activity and is at this time not operational.
+Drizzle-store.com is operated by independent company Plantedamp AS. We are here to supply Drizzle customers with accessories, parts and upgrades.
+The people behind Drizzle Aps are working to revive the company and products. We are working to support them. Stay tuned for updates.
+
+As Drizzle APS is not operational they do not handle warranty claims. If you need spare parts for a machine that is under warranty send us an e-mail with serial number and proof of purchase and we will see what we can do.
+
+I denne nettbutikken tilbyr vi accessories (filters, glass, herb tubes, etc.) og spare parts (pump, fan, PI, PCB's, 3D printed parts, etc.)
+Nettbutikken vil selge til hele verden, tekst på engelsk og priser i EUR (evt. USD).
+
+
+Praktisk gjennomføring - Eksisterende varelager
+
+  *   Eksisterende varelager av spare parts og accessories flyttes fysisk fra Drizzle / Napkin til Plantedamp sitt lager i Norge.
+  *   Det lages liste over hvilke varer som er overført og hvilken pris Plantedamp skal betale for hver del.
+  *   Det betales ingenting up-front, i stedet betales det etterhvert som delene selges ut (f.eks. ukentlig eller månedlig avregning)
+
+
+Påfylling av varelager
+
+  *   Det utarbeides liste over alle varer (parts og accessories) og hvor Plantedamp kan kjøpe dem fra, enten fra Napkin Design eller direkte fra leverandør.
+  *   For alle varer som leveres av Napkin Design, settes det en pris der er profitabel for ND. Dvs. at prisen dekker arbeidstid, materialer + fortjeneste.
+  *   Det lages rutiner og avtales hvordan bestilling, produksjon og levering kan gjennomføres slik at det blir mest mulig effektivt for både ND og PD.
+  *   For varer der leveres av eksterne leverandører kan Plantedamp selv ta kontakt med leverandører og handle inn til lager ved behov.
+
+Plantedamp setter utsalgspris på produktene utifra pris vi betaler til ND eller andre leverandører.
+
+
+Praktisk gjennomføring - Produktopplæring
+
+Accessories er for det meste enkelt. Men spare parts er nok ganske komplisert.
+
+Vi som skal selge delene må lære oss Merlin maskinene fra innerst til ytterst, f.eks. ved å skru dem fra hverandre og bygge opp fra scratch.
+
+Vi må også ha oversikt/dokumentasjon over alle deler som finnes og hvilke deler som evt. er forskjellige mellom de ulike modellene.
+
+
+Simon (vår mekaniker/tekniker) bør også komme til København for opplæring og bli kjent med dere.
+
+Det er et mål at vi i størst mulig grad skal håndtere henvendelser fra kunder uten å forstyrre Drizzle/ND, men spesielt i begynnelsen vil nok vi ha behov for bistand fra dere i en del tilfeller.
+
+
+Omsetning og indtjening
+
+Jeg har foreløpig ingen anelse om hva vi kan vente av antall ordrer og omsetning.
+
+Foreløpig antagelse er at vi ikke vil tjene særlig med penge på kort sikt. Målet vårt med denne etableringen er:
+
+  *   Holde Drizzle merkevaren i livet, og bevare godt inntrykk hos eksisterende og potensielle kunder
+  *   Hjelpe Drizzle/ND med å selge unna eksisterende merlin400 varelager.
+  *   Etablere  salgskanal, organisasjon og samarbeid slik at vi har en plattform for effektivt kunne selge Gandalf og evt. andre fremtidige produkter.
+  *   Plantedamp blir godt kjent med Drizzle/ND, lærer oss mye av det dere allerede har lært om Merlin, slik at vi kan bidra i utviklingen og markedsføring av Gandalf.
+
+
+--
+Anders Ulveseth |  +47 45401840   |    anders.ulveseth@plantedamp.no<mailto:anders.ulveseth@plantedamp.no>
+Plantedamp AS   |  +47 55310000   |    https://plantedamp.no

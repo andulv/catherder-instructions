@@ -1,0 +1,70 @@
+message_id:  <OLAP279MB0216C15F858BD203CA323A31C8A19@OLAP279MB0216.NORP279.PROD.OUTLOOK.COM>
+source_path: reference/mailbox-anders-plantedamp/Inbox/cur/1774229762.210405_194.tp-anders,U=194:2,S
+mailbox_folder: Inbox
+top_level_from: Svein Skorpen <svein@byrknes.no>
+fragment_id: f002
+fragment_type: quoted_context
+confidence: medium
+evidence_codes: QUOTED_CONTEXT_PRESENT
+
+## TEXT
+Fra: Anette Tvedt <anette.tvedt@revisorvest.no>
+Sendt: torsdag 16. februar 2023 14:35
+Til: Svein Skorpen <svein@byrknes.no>
+Kopi: Anders Ulveseth <anders.ulveseth@plantedamp.no>; Yadgar Plantedamp AS <yadgar@plantedamp.no>
+Emne: SV: Plantedamp AS - bekreftelse kapitalutvidelse ved gjeldskonvertering- ref. Anders Ulveseth
+
+Hei
+
+Kapitalforhøyelse med gjeldskonvertering krever fortsatt revisorbekreftelse. Vi gjennomgår oversendt informasjon, samt sender ut engasjementsbrev og link til RN kundesjekk så hører dere fra oss om vi har spørsmål.
+
+Mvh
+
+Anette Tvedt
+
+Fra: Svein Skorpen <svein@byrknes.no<mailto:svein@byrknes.no>>
+Sendt: 16. februar 2023 14:20
+Til: Anette Tvedt <anette.tvedt@revisorvest.no<mailto:anette.tvedt@revisorvest.no>>
+Kopi: Anders Ulveseth <anders.ulveseth@plantedamp.no<mailto:anders.ulveseth@plantedamp.no>>; Yadgar Plantedamp AS <yadgar@plantedamp.no<mailto:yadgar@plantedamp.no>>
+Emne: Plantedamp AS - bekreftelse kapitalutvidelse ved gjeldskonvertering- ref. Anders Ulveseth
+
+Hei , Anette !
+
+Undertegnede har bistått Plantedamp AS ved Anders Ulveseth (Definit AS) ifm. en kapitalutvidelse i selskapet Plantedamp AS. Selskapet har p.t. ikke valgt revisor og selskapet fører sine regnskaper selv i Fiken.
+
+Fint om dere kan avgi en revisorbekreftelse for kapital og uttalelse rundt styrets redegjørelse .  Hvis du trenger mer informasjon/dokumentasjon i sakens anledning, så hører jeg fra deg, Anette .  Jeg antar at det fortsatt er krav til revisorbekreftelser i sakens anledning ?
+
+Hvis spørsmål i sakens anledning, så send en email til undertegnede med kopi til Anders og Yadgar så svarer vi opp umiddelbart .
+
+Obs. mht. innskutt kapital , se under og vedlegg kontoutskrift og låneavtale.
+
+Hører fra deg, Anette og på forhånd takk for bistand .
+
+Svein
+
+Fra: Anders Ulveseth <anders.ulveseth@plantedamp.no<mailto:anders.ulveseth@plantedamp.no>>
+Sendt: onsdag 18. januar 2023 14:17
+Til: Svein Skorpen <svein@byrknes.no<mailto:svein@byrknes.no>>
+Kopi: Yadgar Plantedamp AS <yadgar@plantedamp.no<mailto:yadgar@plantedamp.no>>
+Emne: Re: SV: Haster - Enkel avtale om lån/innskud fra Yadgar
+
+Hei,
+
+Sitter med Yadgar nå. Det er snakk om 55 000,- i kontanter og ca. 5000 i varer som blir skutt inn. Totalt 60 000,-.
+
+Varene er mottatt og lagt inn på lager:
+[cid:image001.png@01D94213.E5BC3930]
+
+
+
+Yadgar sender deg personalia.
+
+
+Anders
+
+Mvh
+
+Svein Skorpen
+
+Email: svein@byrknes.no<mailto:svein@byrknes.no>
+Telefon:  48281280

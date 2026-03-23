@@ -1,0 +1,176 @@
+message_id:  <SVZP279MB0750A989411BF5FE025B6357C8D9A@SVZP279MB0750.NORP279.PROD.OUTLOOK.COM>
+source_path: reference/mailbox-anders-plantedamp/Inbox/cur/1774229800.210405_1876.tp-anders,U=1876:2,S
+mailbox_folder: Inbox
+top_level_from: Svein Skorpen <svein@byrknes.no>
+fragment_id: f001
+fragment_type: direct_primary
+confidence: high
+evidence_codes: FROM_EMAIL_MATCH, FROM_EXACT, FROM_NAME_MATCH, QUOTED_CONTEXT_PRESENT
+
+## PRIMARY_TEXT
+Ringer deg ca. 1130 , Anders !
+
+Svein
+
+## QUOTED_CONTEXT
+Fra: Anders Ulveseth <anders.ulveseth@plantedamp.no>
+Sendt: tirsdag 2. desember 2025 11:12
+Til: Svein Skorpen <svein@byrknes.no>
+Emne: Re: SV: Aksjeutveksling - Gro Pro AS og Plantedamp AS
+
+
+Tusen takk for tilbakemelding. Vet at du alltid er overarbeidet, så er forsåvidt fornyd med å få svar innimellom. :)
+
+Ring meg gjerne på onsdag.
+
+Har time hos psykolog fra 08-09, er ledig etter det. Hadde min første psykolog time på mandag. Hun brukte mindre enn 10 min. på å foreslå ADHD diagnose.
+---
+Anders Ulveseth
+Daglig leder | Plantedamp AS
+Tlf: +47 454 01 840
+www.plantedamp.no<http://www.plantedamp.no>
+
+
+
+On 01.12.2025 11:38, Svein Skorpen wrote:
+
+Hei , Anders !
+
+
+
+Jeg må dessverre bekreftet at jeg ikke har fått gjort noe med dette, Anders og beklager manglende tilbakemelding i sakens anledning
+
+
+
+Jeg har tatt på meg et transaksjonsoppdrag som har krevd hele meg og litt til den siste måneden . Lærer aldri som du sier . Dette har blitt vesentlig mer krevende enn hva jeg trodde
+
+Og skal i sluttforhandlinger med interessenter i denne uke . Blir låst i møter i dag og i morgen . Kan ringe deg på onsdag formiddag for avklaring , Anders !
+
+
+
+Svein
+
+
+
+
+
+Fra: Anders Ulveseth <anders.ulveseth@plantedamp.no<mailto:anders.ulveseth@plantedamp.no>>
+Sendt: fredag 24. oktober 2025 16:21
+Til: Svein Skorpen <svein@byrknes.no<mailto:svein@byrknes.no>>
+Kopi: yadgar@plantedamp.no<mailto:yadgar@plantedamp.no>; mitch@plantedamp.no<mailto:mitch@plantedamp.no>
+Emne: Aksjeutveksling - Gro Pro AS og Plantedamp AS
+
+
+
+Fremdrift:
+
+Innledende møte(r) uten meg.
+
+Svein tar kontakt med Yadgar og Mitch i neste uke (27.10. - 31.10.) for å avtale møte.
+
+Forhåpentligvis kan dere tre avholde innledende møte innen 1-2 uker.
+
+
+
+Forutsetninger (sånn cirka)
+
+Plantedamp AS
+
+  *   omsetning på ca. 2.5 MNOK i 2025.
+  *   utgang av 2025: EK på ca. 400 000 NOK,
+  *   utgang av 2025: gjeld til eiere på ca. 600 000
+  *   ingen annen langsiktig gjeld
+  *   Varelager på ca. 1MNOK.
+
+
+
+Gro Pro AS
+
+  *   omsetning på ca. 700 000,- i 2025.
+  *   utgang av 2025: EK på ca. 700 000,-
+  *   utgang av 2025: gjeld til eiere på ca. 50 000
+  *   ingen annen langsiktig gjeld
+  *   utgang av 2025: Varelager på ca.700 000
+
+
+
+Eierandeler - Før og etter transaksjon
+
+
+
+Før
+
+Etter
+
+
+
+Gro Pro AS
+
+Plantedamp AS
+
+Gro Pro AS
+
+Plantedamp AS
+
+Mitch
+
+100%
+
+0%
+
+1 / 3
+
+1 / 3
+
+Anders
+
+0%
+
+50%
+
+1 / 3
+
+1 / 3
+
+Yadgar
+
+0%
+
+50%
+
+1 / 3
+
+1 / 3
+
+Tanken er at ingen penger skifter hender. Mitch betaler det samme til Yadgar og Anders som de betaler til Mitch.
+
+Forhåpentligvis utløser dette ikke skatt for noen av partene eller selskapene.
+
+Planen er at en del varelager skal overføres fra Plantedamp til Gro Pro. En del omsetning (faste storkunder, stort sett de som betaler kontant) skal flyttes samme vei. Tror Y og M er i gang i med dette nå. :)
+
+
+
+Hva trenger vi hjelp til
+
+  *   Rådgivning rundt, og utforming av, aksjonæravtale for begge selskapene
+  *   Rådgivning rundt hvordan best gjennomføre transaksjonene.
+  *   Skrive avtaler som er nødvendige for å gjennomføre transaksjonene. (Kjøp/bytte av aksjer)
+  *   Rådgivning rundt, og gjerne utføre, det som må rapporteres inn (styre, vedtekter, aksjonærer, etc.)
+  *   Hvis det er noe mer vet du det bedre enn meg. :)
+
+
+
+Rammer
+
+Gi beskjed når/hvis du tror dette overstiger 50 timer.
+
+(Jeg antar du nå tenker du at det kan ordnes på 5 timer, men jeg antar at når/hvis du begynner samtaler med Yadgar og Mitch vil ting balle litt på seg.)
+
+
+
+--
+
+Anders Ulveseth
+Daglig leder | Plantedamp AS
+Tlf: +47 454 01 840
+www.plantedamp.no<http://www.plantedamp.no>

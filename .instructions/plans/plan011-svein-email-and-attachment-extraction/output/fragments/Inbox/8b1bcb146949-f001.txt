@@ -1,0 +1,27 @@
+message_id:  <OLAP279MB0216071E1C58F248ACEB3474C8A89@OLAP279MB0216.NORP279.PROD.OUTLOOK.COM>
+source_path: reference/mailbox-anders-plantedamp/Inbox/cur/1774229763.210405_207.tp-anders,U=207:2,S
+mailbox_folder: Inbox
+top_level_from: Svein Skorpen <svein@byrknes.no>
+fragment_id: f001
+fragment_type: direct_primary
+confidence: high
+evidence_codes: FROM_EMAIL_MATCH, FROM_EXACT, FROM_NAME_MATCH
+
+## PRIMARY_TEXT
+Hei, Anders !
+
+Jeg har ikke tilgang til Uni lengre og derfor er jeg ikke helt oppdatert . Jeg foreslår at du går inn i Omnishop og henter ut statistikk derfor . Der finner du inntekter kunde og produkt .
+
+Obs. budsjett 2023 er inkludert vesentlige inntekter SU Soft. Dette blir nok ikke endelig budsjett 2023 . Mener at underskudd 2022 ligger på ca. Kr 400 000,- og selskapet går nok med underskudd hver måned i den fase man er i nå .
+
+Sender over siste data jeg sitter på. Har ikke tilgang til oppdatert regnskap 2022 og /eller p.t. 2023 .
+
+Svein
+
+
+Mvh
+
+Svein Skorpen
+
+Email: svein@byrknes.no<mailto:svein@byrknes.no>
+Telefon:  48281280

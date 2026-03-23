@@ -1,0 +1,292 @@
+message_id:  <OS5P279MB07444225378C10A611F9A794C8A2A@OS5P279MB0744.NORP279.PROD.OUTLOOK.COM>
+source_path: reference/mailbox-anders-plantedamp/Inbox/cur/1774229800.210405_1883.tp-anders,U=1883:2,RS
+mailbox_folder: Inbox
+top_level_from: Svein Skorpen <svein@byrknes.no>
+fragment_id: f001
+fragment_type: direct_primary
+confidence: high
+evidence_codes: FROM_EMAIL_MATCH, FROM_EXACT, FROM_NAME_MATCH, QUOTED_CONTEXT_PRESENT
+
+## PRIMARY_TEXT
+God morgen, Anders
+   Hva mener du konkret med "bekreftelse av innlån". Holder det med mail fra hver av oss hvor vi skriver hvor mye vi har lånt ut pr. 31.10.2025? Eller noe mer formelt?
+Vi skal lage gjensidige låneavtaler mellom aksjonærer og selskapet/ene og eventuelt mellom selskapene og jeg vil da sikre at lånesaldoer bekreftes av de/den som har lånt inn penger og da som underlag til låneavtalen.
+Det har vært mange transaksjoner mellom selskapet/ene og dere som aksjonærer . Dere må også vurdere om hvor stor del av lånene som skal defineres som ansvarlige lån (bør være likt fordelt i forhold til eierbrøker). Dere skal etter planen eie 1/3 hver i de
+respektive selskaper og vi bør da også rigge dette slik at ansvarlige lån følger eierbrøkene.  Ansvarlige lån (likedelt) bør vurderes konvertert til egenkapital og lån utover ansvarlige lån må avtalefestes med avtalt rente og avdragsvilkår. Dere bør også etablere
+en felles holdning til hvordan selskapenes drift skal finansieres i tiden som kommer. Dere binder kapital i store varelager i begge selskapet. Omløpshastigheten i varelagrene er lav , som kan forklares i stor bredde i sortiment og til dels lange ledetider mot leverandør.
+ Selskapene er p.t. 100 % egenkapitalfinansiert og grunnet virksomhetenes formål/bransje så vil det kunne være utfordrende å få tilført fremmedfinansiering til selskapet/ene.
+Hvis dere skal få tilført fremmedfinansiering så er jeg redd for at dette må skje med private låneopptak , hvor lån skytes inn i selskapet som innlån fra dere aksjonærer. Dere bør arbeide med budsjett for drift og likviditet for 2026 , da for å få frem hvilket likviditetsbehov
+selskapet har /vil få i 2026 . Dere må da samtidig bestemme hvordan nødvendig likviditetsbehov skal dekkes inn , beløp og av hvem .  Dere må hver for dere etablere en holdning til hvor mye dere er villig til å skyte inn som risikokapital i selskapet/ene . Dere må jobbe mot
+at selskapets drift dekker selskapets likviditetsbehov , som gjør at dere slipper stadige private utlegg på vegne av selskapet , hvor dere gang på gang må avklare og vurdere balansen på innlån til selskapet .  Kapitaltilførsel /innlån fra aksjonærer bør i størst mulig grad følge
+eierbrøkene og lån utover eierbrøkene bør vurderes sikret i selskapets eiendeler (varelager /kundefordringer ).
+Svein
+
+## QUOTED_CONTEXT
+Til: Svein Skorpen <svein@byrknes.no>
+Kopi: yadgar@plantedamp.no; mitch@plantedamp.no
+Emne: Re: VS: Aksjeutveksling - Gro Pro AS og Plantedamp AS
+
+
+Hei,
+
+
+
+Tusen takk for tilbakemelding og hjelp. Den som venter på noe godt venter tydeligvis ikke forgjeves..... ;)
+
+
+
+Plantedamp - Lån fra aksjonærer og Omnishop AS
+
+  *   Det beregnes 10% årlig rente (0,027777778% rente pr. dag) på utestående. Renteberegning gjøres en gang i halvåret (30.06 og 31.12) og legges da til utestående beløp
+  *   Gjeld til Plantedamp fra Omnishop var i februar 2025 oppe i 300 000,-. Det er nå nede i 100 000,-. Mål er at vi skal være i 0 ved utgangen av året.
+  *   Tidligere har Yadgar lånt ut mer enn meg, men tter jeg fikk arv har jeg lånt inn mer for å øke varelageret.
+  *   Så ikke noe problem for meg at det slik det er nå.
+  *   Men det må lages en låneavtale. Håper på hjelp fra deg her, i verste fall skal jeg skrive ned en avtale selv. :)
+
+
+
+Plantedamp - Avvik i tall fra mine estimater og resultat/saldobalanse 31.10.2025
+
+  *   omsetning på ca. 2.5 MNOK i 2025 - Ser ut til å ende på 2.7 MNOK
+  *   utgang av 2025: EK på ca. 400 000 NOK - Dette var min antagelse basert på forventet overskudd. Aner ikke lenger om dette er i nærheten. Har ikke helt kontroll, som du har sett. :)
+  *   utgang av 2025: gjeld til eiere på ca. 600 000 - Er i dag 195K (Yadgar), 360K (Anders), 100K (Omnishop) - totalt 655 000,-.
+  *   ingen annen langsiktig gjeld - Dette stemmer fortsatt
+  *   Varelager på ca. 1MNOK - Er i dag på 930k, var på 880k 31.10.2025
+
+
+
+Plantedamp - Åpne poster og rot i regnskap
+
+Rydding i regnskapet generelt og reskontro spesielt er rett og slett for mye for meg nå.
+
+Min plan nå i første omgang er å sørge for at regnskapet er grovt sett riktig 31.10. og at de "store tallene" stemmer og er kontrollert.
+
+Mens noen tusenlappper i avvik her og dere overser jeg i denne omgang, så lenge ikke summen av dem blir stor i en eller annen retning.
+
+Jeg vet dette må taes tak i. Jeg har skubbet på denne og mange andre "små saker som vokser seg store" i 1-2 år nå og det er mye av årsaken til at jeg nå er utbrent.
+
+Skal jeg komme meg videre og på beina igjen må denne saken løses (eller jeg må vekk fra det helt). Men det må bli i neste omgang.
+
+Håper på hjelp her også etter vi er ferdig med fusjon/avtaler. :)
+
+
+
+Flytting av varer mellom selskapene
+
+Vi har foreløpig blitt enige om at varer selges mellom selskapene til kostpris. Gi gjerne innspill på om dette er OK/lurt eller om vi bør legge på påslag.
+
+Det registreres salg/faktura hos selskapet som selger varene og innkjøp/varemottak hos selskapet som kjøper.
+
+Slik jeg har forstått på Yadgar og Mitch blir dette fulgt og alle varer som er flyttet fra PD til GroPro har blitt fakturert. Jeg tror ikke det har gått varer andre veien.
+
+I Fiken ligger det en åpen post på 182K til Gro Pro som kunde.  Jeg antar at dette er riktig, slik at Gro Pro nå skylder Plantedamp 182 000,-
+
+
+
+TODO - Oppgaver vi skal fikse ASAP
+
+Begge selskaper
+
+  *   Hente ut korrekt lagerliste pr. 31.10.2025
+  *   Føre lagerbeholdning pr. 31.10.2025 i regnskap
+  *   Korrigere evt. feil i regnskap, slik at det er mest mulig riktig pr. 31.12.2025
+
+
+
+Gro Pro AS
+
+  *   Hente ut regnskap (Saldobalanse og resultat) pr. 31.10.2025 - Eller gi Svein tilgang til regnskapsprogram slik at han kan hente dette ut selv.
+
+
+
+TODO - Oppgaver vi må ha hjelp til
+
+  *   Låneavtaler fra aksjonærer til selskapet
+  *   Hva mener du konkret med "bekreftelse av innlån". Holder det med mail fra hver av oss hvor vi skriver hvor mye vi har lånt ut pr. 31.10.2025? Eller noe mer formelt?
+
+
+
+Jeg skal få oppdatert lagerbeholdning og annet Plantedamps regnskap denne uken. Håper å få tilgang til / kontroll på GroPro sitt også i løpet av uken.
+---
+Anders Ulveseth
+Daglig leder | Plantedamp AS
+Tlf: +47 454 01 840
+www.plantedamp.no<http://www.plantedamp.no>
+
+
+
+On 05.12.2025 09:57, Svein Skorpen wrote:
+
+Hei , Anders !
+
+
+
+Ref. samtale tidligere i uken .
+
+
+
+Jeg ber dere om følgende informasjon og dokumentasjon . Når dette foreligger så tar vi et møte , Anders. Først du og jeg og deretter et felles møte med alle parter . Det å lage
+
+Selve avtaleverket skal være fort gjort, men vi må ha et best mulig grunnlag for inngang til avtaleverket .
+
+
+
+Svein
+
+
+
+
+
+Plantedamp AS
+
+
+
+  *   Et mest mulig riktig regnskap pr. 31 10 2025
+  *   Jeg har tatt ut resultat og saldobalanse 31 10 2025 nå .
+  *   De tall som her fremkommer avviker vesentlig i forhold til de estimater du har oppgitt i din første email .
+  *   Regnskapet bør være noenlunde riktig . Banker bør være avstemt og varelager bør telles og telleresultat dokumenteres og bokføres .
+  *   Innlån fra dere som aksjonærer må bekreftes av hver av dere .
+  *   Du har et vesentlig større innlån enn Yadgar , hva gjør vi med dette . Det må lages klare låneavtaler med balanserte betingelser for rente og nedbetaling.
+  *   Hva tenker du rundt skjevdeling innlån , når dere nå skal eier gjensidig med 1/3 hver i begge selskaper .
+  *   Dere må iverksette arbeidet med rydde i reskontroene .
+  *   Allerede flyttet varebeholdning mellom selskapene må faktureres begge veier til betingelser som er akseptert av partene.
+  *   Varelager bør telles og dokumenteres og godkjennes gjensidig av partene.
+
+
+
+Gro Pro AS
+
+
+
+  *   Jeg ønsker et oppdatert regnskap pr. 31 10 2025
+  *   Tilsvarende oppdatert varelager
+  *   Bekreftelse av innbetalt egenkapital og innlån fra aksjonær
+  *   Varelager bør telles og dokumenteres og godkjennes gjensidig av partene.
+  *   Allerede flyttet varebeholdning mellom selskapene må faktureres begge veier til betingelser som er akseptert av partene.
+  *   Varelager bør telles og dokumenteres og godkjennes gjensidig av partene.
+
+
+
+
+
+
+Fra: Anders Ulveseth <anders.ulveseth@plantedamp.no<mailto:anders.ulveseth@plantedamp.no>>
+Sendt: fredag 24. oktober 2025 16:21
+Til: Svein Skorpen <svein@byrknes.no<mailto:svein@byrknes.no>>
+Kopi: yadgar@plantedamp.no<mailto:yadgar@plantedamp.no>; mitch@plantedamp.no<mailto:mitch@plantedamp.no>
+Emne: Aksjeutveksling - Gro Pro AS og Plantedamp AS
+
+
+
+Fremdrift:
+
+Innledende møte(r) uten meg.
+
+Svein tar kontakt med Yadgar og Mitch i neste uke (27.10. - 31.10.) for å avtale møte.
+
+Forhåpentligvis kan dere tre avholde innledende møte innen 1-2 uker.
+
+
+
+Forutsetninger (sånn cirka)
+
+Plantedamp AS
+
+  *   omsetning på ca. 2.5 MNOK i 2025.
+  *   utgang av 2025: EK på ca. 400 000 NOK,
+  *   utgang av 2025: gjeld til eiere på ca. 600 000
+  *   ingen annen langsiktig gjeld
+  *   Varelager på ca. 1MNOK.
+
+
+
+Gro Pro AS
+
+  *   omsetning på ca. 700 000,- i 2025.
+  *   utgang av 2025: EK på ca. 700 000,-
+  *   utgang av 2025: gjeld til eiere på ca. 50 000
+  *   ingen annen langsiktig gjeld
+  *   utgang av 2025: Varelager på ca.700 000
+
+
+
+Eierandeler - Før og etter transaksjon
+
+
+
+Før
+
+Etter
+
+
+
+Gro Pro AS
+
+Plantedamp AS
+
+Gro Pro AS
+
+Plantedamp AS
+
+Mitch
+
+100%
+
+0%
+
+1 / 3
+
+1 / 3
+
+Anders
+
+0%
+
+50%
+
+1 / 3
+
+1 / 3
+
+Yadgar
+
+0%
+
+50%
+
+1 / 3
+
+1 / 3
+
+Tanken er at ingen penger skifter hender. Mitch betaler det samme til Yadgar og Anders som de betaler til Mitch.
+
+Forhåpentligvis utløser dette ikke skatt for noen av partene eller selskapene.
+
+Planen er at en del varelager skal overføres fra Plantedamp til Gro Pro. En del omsetning (faste storkunder, stort sett de som betaler kontant) skal flyttes samme vei. Tror Y og M er i gang i med dette nå. :)
+
+
+
+Hva trenger vi hjelp til
+
+  *   Rådgivning rundt, og utforming av, aksjonæravtale for begge selskapene
+  *   Rådgivning rundt hvordan best gjennomføre transaksjonene.
+  *   Skrive avtaler som er nødvendige for å gjennomføre transaksjonene. (Kjøp/bytte av aksjer)
+  *   Rådgivning rundt, og gjerne utføre, det som må rapporteres inn (styre, vedtekter, aksjonærer, etc.)
+  *   Hvis det er noe mer vet du det bedre enn meg. :)
+
+
+
+Rammer
+
+Gi beskjed når/hvis du tror dette overstiger 50 timer.
+
+(Jeg antar du nå tenker du at det kan ordnes på 5 timer, men jeg antar at når/hvis du begynner samtaler med Yadgar og Mitch vil ting balle litt på seg.)
+
+
+
+--
+
+Anders Ulveseth
+Daglig leder | Plantedamp AS
+Tlf: +47 454 01 840
+www.plantedamp.no<http://www.plantedamp.no>

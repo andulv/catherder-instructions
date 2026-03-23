@@ -1,0 +1,51 @@
+message_id:  <OLAP279MB0216CB4734CE762BF8F0FB5FC8339@OLAP279MB0216.NORP279.PROD.OUTLOOK.COM>
+source_path: reference/mailbox-anders-plantedamp/Inbox/cur/1774229759.210405_18.tp-anders,U=18:2,S
+mailbox_folder: Inbox
+top_level_from: Svein Skorpen <svein@byrknes.no>
+fragment_id: f002
+fragment_type: quoted_context
+confidence: medium
+evidence_codes: QUOTED_CONTEXT_PRESENT
+
+## TEXT
+-----Opprinnelig melding-----
+Fra: Anders Ulveseth <anders.ulveseth@plantedamp.no>
+Sendt: torsdag 27. oktober 2022 02:02
+Til: Svein Skorpen <svein@byrknes.no>
+Emne: Omnishop - Skal vi prøve å redde stumpene og cashe inn?
+
+- Vi (dvs. meg og deg) lodder stemning hos Uni (Kjartan), Kinsarvik (Ronny, Frode Å, Styremann), Sunkost (IT-mann, Linda, adm. dir)
+
+Hvis stemning er god:
+
+- Vi kjøpes ut fra Definit AS ved at rettigheter til Omnishop programmene skilles ut i Omnishop AS hvor vi to er eiere.
+
+- Uni inviteres inn på eiersiden, evt. at de overtar hele Omnishop AS.
+
+- Jeg leder prosjekt med å innføre Omnishop hos Kinsarvik og Sunkost, sammen med prosjektleder fra Uni. Utviklere fra Uni gjør programmering.
+
+
+Hvorfor skal øvrige parter gå med på dette:
+
+- Sunkost og Kinsarvik lokkes med at de nå er i trygge hender med
+spennende muligheter, solide folk og piler som peker oppover. De blir
+kvitt treige-Frode som programvareleverandør og lokkes med Anders is
+back på det han er best på, samtidig som de sukker lettet over at Anders
+endelig kan fases ut til fordel for proffe folk.
+
+- Uni lokkes med at de overtar butikkdata/kjedestyring/logistikk program
+med teknologi som de er vant med, flying start med store referansekunder
+og lisensinntekter.
+
+
+
+Hvis dette er noe du gidder å bruke tid på kan du gjerne ringe meg. Selv
+er jeg usikker på om jeg orker. Men tror/håper/fabler om at vi kanskje
+kan få maks. uttelling for relativt liten innsats.
+
+
+--
+Anders Ulveseth
+Daglig leder | Plantedamp AS
+Tlf: +47 454 01 840
+www.plantedamp.no

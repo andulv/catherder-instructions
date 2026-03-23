@@ -1,0 +1,131 @@
+message_id:  <SVZP279MB07504B2E1418B8B84A8EF111C873A@SVZP279MB0750.NORP279.PROD.OUTLOOK.COM>
+source_path: reference/mailbox-anders-plantedamp/Inbox/cur/1774229806.210405_2177.tp-anders,U=2177:2,S
+mailbox_folder: Inbox
+top_level_from: Svein Skorpen <svein@byrknes.no>
+fragment_id: f001
+fragment_type: direct_primary
+confidence: high
+evidence_codes: FROM_EMAIL_MATCH, FROM_EXACT, FROM_NAME_MATCH, QUOTED_CONTEXT_PRESENT
+
+## PRIMARY_TEXT
+Hei på dere !
+
+Dette ser lovende ut og jeg har tro på at dette vil forenkle og effektivisere rutinene for fakturering og betaling for selskapene .  Dere vil hvis dere går for dette være PILOT for løsningen i Norge, med de fordeler og mulige ulemper som kan ligge i dette.
+
+Dere har med Anders på laget de beste muligheter til å få på plass en god løsning her . Det rent tekniske ved oppsett av løsning og arbeidsomfang for Anders for å få implementert løsning har ikke jeg en formening . De kommer Anders tilbake til .
+
+Hvis Anders er positivt innstilt til å få løsning på plass, så bør dere etablere løsning for begge selskaper .
+
+Svein
+
+Collectia lancerer Fakturaservice i Norge: Komplett og moderne fakturahåndtering for hele kundereisen
+Collectia Norge utvider nå tjenestespekteret sitt og lanserer Fakturaservice – en komplett og automatisert løsning som håndterer hele faktureringsprosessen fra A til Å. Med dette får norske virksomheter muligheten til å samle fakturering, betalingsoppfølging og inkasso<https://collectiagroup.no/tjenester/inkasso/> i én sømløs og effektiv plattform.
+Løsningen er langt fra ny for konsernet: Collectia har levert fakturaservice i Danmark siden 2022 og i Sverige i over 10 år. Plattformen har allerede behandlet millioner av fakturalinjer på tvers av bransjer, og er i dag en av de mest driftssikre og gjennomprøvde løsningene i Norden. Nå blir den samme teknologien tilgjengelig for norske virksomheter.
+En komplett fakturaprosess – helt uten friksjon
+Med Collectias Fakturaservice kan virksomheter overlate hele faktureringsløpet til ett og samme system – fra mottak av data til utsendelse, betalingsoppfølging, avstemming og rapportering. Løsningen støtter alle vesentlige fakturakanaler og moderne betalingsmetoder, slik at kundene kan motta og betale fakturaene på den måten som passer dem best.
+Dette inkluderer blant annet:
+
+  *   Multikanal-distribusjon via eFaktura, Digipost, EHF, e-post og brev
+  *   Automatisert fakturering via API eller integrasjoner
+  *   Automatisk betalingsoppfølging og avstemming
+  *   Sanntidsrapportering og full innsikt i reskontro
+  *   Kunde- og debitorportal for enkel selvbetjening
+  *   Mulighet for white-label eller co-branding For virksomheter som ønsker å speile data tilbake til egne systemer, tilbyr Collectia fleksibel datautveksling – enten via API, integrasjon eller opplasting av Excel/CSV.
+Bygd for CFO-er og økonomiteam – med nordisk styrke i ryggen
+Behovet for effektive og automatiserte fakturaprosesser øker i takt med mer komplekse betalingsmønstre og strengere krav til dokumentasjon og compliance. Med Fakturaservice får norske virksomheter tilgang til en løsning som er både skalerbar, stabil og tilpasset nordisk lovgivning.
+“Vi er glade for å kunne lansere Fakturaservice i Norge. Mange av våre kunder ønsker en løsning som kan håndtere hele verdikjeden fra faktura til betaling – og som samtidig frigjør tid og reduserer risiko. Nå kan vi tilby nettopp det,” sier Mats Brennemo, Sales Director i Collectia Norge.
+
+Fordelene kort oppsummert
+Collectias fakturaløsning gir virksomheter en enklere arbeidshverdag og en mer forutsigbar betalingsstrøm. De viktigste fordelene inkluderer:
+
+  *   Faktura med egen logo og design
+  *   Enkel og sikker utsendelse via alle relevante kanaler
+  *   Automatisk purreløp og inkasso ved manglende betaling
+  *   Fakturering og purring<https://collectiagroup.no/inkasso-ordbok/purring/> på tvers av landegrenser
+  *   Automatisert bokføring og avstemming
+  *   Én samlet løsning for fakturering, purring og inkasso
+Klar for norske kunder
+Fakturaservice allerede tilgjengelig for norske virksomheter, og Collectia tilbyr løpende onboarding for nye kunder.
+“Dette er et viktig steg i vår nordiske strategi. Nå kan vi levere enda større verdi til kundene våre – på tvers av alle markeder. Vi gleder oss til å vise norske virksomheter hvor enkelt og effektivt fakturering kan være,” avslutter Mats.
+Kontakt oss<https://collectiagroup.no/kontakt/>
+
+## QUOTED_CONTEXT
+Fra: Anders Ulveseth <anders.ulveseth@plantedamp.no>
+Sendt: torsdag 26. februar 2026 22:27
+Til: Yadgar Plantedamp AS <yadgar@plantedamp.no>; mitch@plantedamp.no
+Kopi: Svein Skorpen <svein@byrknes.no>
+Emne: Fwd: Fakturaservice fra Collectia Norge
+
+
+Sendt fra min iPad
+
+Videresendt melding:
+Fra: Øyvind Melhus Johansen <oyj@collectiagroup.no<mailto:oyj@collectiagroup.no>>
+Dato: 26. februar 2026 kl. 19:45:12 CET
+Til: Anders Ulveseth <anders.ulveseth@plantedamp.no<mailto:anders.ulveseth@plantedamp.no>>
+Emne: SV: Fakturaservice fra Collectia Norge
+﻿
+Hei Anders,
+Takk for en hyggelig prat tidligere i dag.
+
+Vi setter pris på tilbakemeldingen deres, og det er gøy å høre at dere er fornøyde med samarbeidet.
+
+Som nevnt har vi hatt en intern gjennomgang knyttet til fakturaservice.
+Ordinær nedre grense er 5 000 fakturaer per år.
+
+Etter en ekstra vurdering har vi besluttet å åpne for et volum på ca. 1 200 fakturaer per år for dere.
+
+Bakgrunnen er at dere vil være vår første kunde på tjenesten.
+Vi ser verdi i deres tekniske kompetanse og muligheten for konstruktive tilbakemeldinger i videreutviklingen av løsningen.
+
+Pris for fakturatjenesten er kr 9 per faktura. I tillegg tilfaller fakturagebyret oss.
+
+Tjenesten omfatter:
+– Håndtering av reskontro
+– «Soft» førstelinje kundeservice, hvor vi besvarer enkle henvendelser på deres vegne
+
+Gi gjerne en tilbakemelding dersom dette er i tråd med deres forventninger, så utarbeider vi avtalegrunnlag.
+
+
+Med vennlig hilsen
+Øyvind M. Johansen
+Customer Success Manager
+Collectia AS
+[cid:image001.png@01DCA7AA.9D1BB570]<https://collectiagroup.no/>
+[cid:image002.png@01DCA7AA.9D1BB570]
+Oyj@collectiagroup.no<mailto:Oyj@collectiagroup.no>
+[cid:image003.png@01DCA7AA.9D1BB570]
++47 974 16 818
+[cid:image004.png@01DCA7AA.9D1BB570]
+Fornebuveien 11, 1366 Lysaker
+[cid:image005.png@01DCA7AA.9D1BB570]
+collectiagroup.no<https://collectiagroup.no/>
+[cid:image006.png@01DCA7AA.9D1BB570]<https://www.linkedin.com/company/collectia-as/>
+[cid:image007.png@01DCA7AA.9D1BB570]<https://www.youtube.com/@collectia_as>
+[cid:image008.png@01DCA7AA.9D1BB570]<https://vimeo.com/collectia>
+Denne e-mail er kun tiltenkt adressaten, og kan inneholde fortrolige opplysninger. Hvis du ikke er den tiltenkte mottager, vil enhver anvendelse eller utbredelse av opplysningene være strengt forbudt. Hvis du har mottatt denne e-mail ved en feil, bes du straks informere oss, og deretter slette denne e-mail.
+
+
+Fra: Anders Ulveseth <anders.ulveseth@plantedamp.no<mailto:anders.ulveseth@plantedamp.no>>
+Sendt: onsdag 25. februar 2026 22:29
+Til: Salg Norge <salg@collectiagroup.no<mailto:salg@collectiagroup.no>>
+Emne: Fakturaservice fra Collectia Norge
+
+You don't often get email from anders.ulveseth@plantedamp.no<mailto:anders.ulveseth@plantedamp.no>. Learn why this is important<https://aka.ms/LearnAboutSenderIdentification>
+CAUTION: This email originated from an external sender. Take extra care if it contains any links or attachments.
+
+
+Hei,
+
+Vi bruker i dag Collectia til purring / inkasso og er svært fornøyd med service og løsning vi får der.
+
+Nå ser vi at dere lanserer fakturaservice og det passer sannsynligvis godt med våre behov og planer. :)
+
+
+
+Ta gjerne kontakt på telefon eller e-post.
+
+--
+Anders Ulveseth
+Tlf: +47 454 01 840
+https://plantedamp.no<https://plantedamp.no/>

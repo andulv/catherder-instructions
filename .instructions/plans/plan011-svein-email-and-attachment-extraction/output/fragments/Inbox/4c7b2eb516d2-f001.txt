@@ -1,0 +1,52 @@
+message_id:  <OLAP279MB0216C65EA3AD5EB2B6B2E31CC8A09@OLAP279MB0216.NORP279.PROD.OUTLOOK.COM>
+source_path: reference/mailbox-anders-plantedamp/Inbox/cur/1774229762.210405_186.tp-anders,U=186:2,S
+mailbox_folder: Inbox
+top_level_from: Svein Skorpen <svein@byrknes.no>
+fragment_id: f001
+fragment_type: direct_primary
+confidence: high
+evidence_codes: FROM_EMAIL_MATCH, FROM_EXACT, FROM_NAME_MATCH, QUOTED_CONTEXT_PRESENT
+
+## PRIMARY_TEXT
+Hei , Anette !
+
+Undertegnede har bistått Plantedamp AS ved Anders Ulveseth (Definit AS) ifm. en kapitalutvidelse i selskapet Plantedamp AS. Selskapet har p.t. ikke valgt revisor og selskapet fører sine regnskaper selv i Fiken.
+
+Fint om dere kan avgi en revisorbekreftelse for kapital og uttalelse rundt styrets redegjørelse .  Hvis du trenger mer informasjon/dokumentasjon i sakens anledning, så hører jeg fra deg, Anette .  Jeg antar at det fortsatt er krav til revisorbekreftelser i sakens anledning ?
+
+Hvis spørsmål i sakens anledning, så send en email til undertegnede med kopi til Anders og Yadgar så svarer vi opp umiddelbart .
+
+Obs. mht. innskutt kapital , se under og vedlegg kontoutskrift og låneavtale.
+
+Hører fra deg, Anette og på forhånd takk for bistand .
+
+Svein
+
+## QUOTED_CONTEXT
+Fra: Anders Ulveseth <anders.ulveseth@plantedamp.no<mailto:anders.ulveseth@plantedamp.no>>
+Sendt: onsdag 18. januar 2023 14:17
+Til: Svein Skorpen <svein@byrknes.no<mailto:svein@byrknes.no>>
+Kopi: Yadgar Plantedamp AS <yadgar@plantedamp.no<mailto:yadgar@plantedamp.no>>
+Emne: Re: SV: Haster - Enkel avtale om lån/innskud fra Yadgar
+
+Hei,
+
+Sitter med Yadgar nå. Det er snakk om 55 000,- i kontanter og ca. 5000 i varer som blir skutt inn. Totalt 60 000,-.
+
+Varene er mottatt og lagt inn på lager:
+[cid:image001.png@01D94211.BEBFFA30]
+
+
+
+Yadgar sender deg personalia.
+
+
+Anders
+
+
+Mvh
+
+Svein Skorpen
+
+Email: svein@byrknes.no<mailto:svein@byrknes.no>
+Telefon:  48281280

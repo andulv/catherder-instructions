@@ -1,0 +1,119 @@
+message_id:  <SVZP279MB07501B798F124D87A681361EC882A@SVZP279MB0750.NORP279.PROD.OUTLOOK.COM>
+source_path: reference/mailbox-anders-plantedamp/Inbox/cur/1774229801.210405_1957.tp-anders,U=1957:2,S
+mailbox_folder: Inbox
+top_level_from: Svein Skorpen <svein@byrknes.no>
+fragment_id: f002
+fragment_type: quoted_context
+confidence: medium
+evidence_codes: QUOTED_CONTEXT_PRESENT
+
+## TEXT
+Fra: Anders Ulveseth <anders.ulveseth@plantedamp.no>
+Sendt: torsdag 8. januar 2026 23:02
+Til: Svein Skorpen <svein@byrknes.no>
+Emne: Fwd: Aksjeutveksling - Gro Pro AS og Plantedamp AS
+
+
+Hei igjen,
+
+
+
+Her er de opprinnelige forutsetningene vi la til grunn.
+
+Kan du legge inn en enkel(!) oppstilling i monsterarket ditt som viser faktiske tall i forhold til forutsetningene?
+---
+Anders Ulveseth
+Tlf: +47 454 01 840
+www.plantedamp.no<http://www.plantedamp.no>
+
+
+
+-------- Original Message --------
+Subject:
+Aksjeutveksling - Gro Pro AS og Plantedamp AS
+Date:
+24.10.2025 16:21
+From:
+Anders Ulveseth <anders.ulveseth@plantedamp.no<mailto:anders.ulveseth@plantedamp.no>>
+To:
+svein@byrknes.no<mailto:svein@byrknes.no>
+Cc:
+yadgar@plantedamp.no<mailto:yadgar@plantedamp.no>, mitch@plantedamp.no<mailto:mitch@plantedamp.no>
+
+Forutsetninger (sånn cirka)
+
+Plantedamp AS
+
+  *   omsetning på ca. 2.5 MNOK i 2025.
+  *   utgang av 2025: EK på ca. 400 000 NOK,
+  *   utgang av 2025: gjeld til eiere på ca. 600 000
+  *   ingen annen langsiktig gjeld
+  *   Varelager på ca. 1MNOK.
+
+
+
+Gro Pro AS
+
+  *   omsetning på ca. 700 000,- i 2025.
+  *   utgang av 2025: EK på ca. 700 000,-
+  *   utgang av 2025: gjeld til eiere på ca. 50 000
+  *   ingen annen langsiktig gjeld
+  *   utgang av 2025: Varelager på ca.700 000
+
+
+
+Eierandeler - Før og etter transaksjon
+
+Før
+Etter
+
+Gro Pro AS
+Plantedamp AS
+Gro Pro AS
+Plantedamp AS
+Mitch
+100%
+0%
+1 / 3
+1 / 3
+Anders
+0%
+50%
+1 / 3
+1 / 3
+Yadgar
+0%
+50%
+1 / 3
+1 / 3
+
+Tanken er at ingen penger skifter hender. Mitch betaler det samme til Yadgar og Anders som de betaler til Mitch.
+
+Forhåpentligvis utløser dette ikke skatt for noen av partene eller selskapene.
+
+Planen er at en del varelager skal overføres fra Plantedamp til Gro Pro. En del omsetning (faste storkunder, stort sett de som betaler kontant) skal flyttes samme vei. Tror Y og M er i gang i med dette nå. :)
+
+
+
+Hei,
+
+Jeg har nå fulgt opp saker mot Gro Pro. Han er flink til å svare raskt, men tror ikke regnskap og kontroll er hans sterke side...
+
+*       Varelager 31.12.2025 inneholdt varene som var mottatt fra Plantedamp.
+*       Faktura fra Plantedamp var ikke ført i Fiken. Den er nå ført. kr. 182 640,94 ink. MVA.
+*       I tillegg ser det ut til å være flere varer som er flyttet fra Plantedamp til Gro Pro uten å være fakturert (del av listen over varer på 50 000,- jeg ikke fant ved telling).
+*       Disse er også med på varelager 31.12.2025
+
+Ellers mener han at Fiken er korrekt og han vet ikke om noe vesentlig som mangler.
+
+
+
+
+
+
+
+--
+
+Anders Ulveseth
+Tlf: +47 454 01 840
+www.plantedamp.no<http://www.plantedamp.no>

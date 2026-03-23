@@ -1,0 +1,23 @@
+message_id:  <OS5P279MB07442AF32E7D761DA02C3E71C8062@OS5P279MB0744.NORP279.PROD.OUTLOOK.COM>
+source_path: reference/mailbox-anders-plantedamp/Trash/cur/1774229842.210405_4097.tp-anders,U=760:2,S
+mailbox_folder: Trash
+top_level_from: Svein Skorpen <svein@byrknes.no>
+fragment_id: f001
+fragment_type: direct_primary
+confidence: high
+evidence_codes: FROM_EMAIL_MATCH, FROM_EXACT, FROM_NAME_MATCH
+
+## PRIMARY_TEXT
+Jeg må dessverre avlyse avtalt møte i dag .
+
+Jeg vil se på regnskap Plantedamp i romjulen og komme med forslag til videre prosesser rundt avstemming og rutiner .  Dere hører fra meg .
+
+Jeg foreslår at vi tar et møte rett over nyttår og da skal jeg har vært igjennom regnskapet .
+
+
+Mvh
+
+Svein Skorpen
+
+Email: svein@byrknes.no<mailto:svein@byrknes.no>
+Telefon:  48281280

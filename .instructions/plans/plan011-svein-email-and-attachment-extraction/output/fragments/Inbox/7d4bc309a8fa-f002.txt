@@ -1,0 +1,45 @@
+message_id:  <OLAP279MB02160AB7269BDD5352388826C8D89@OLAP279MB0216.NORP279.PROD.OUTLOOK.COM>
+source_path: reference/mailbox-anders-plantedamp/Inbox/cur/1774229762.210405_160.tp-anders,U=160:2,RS
+mailbox_folder: Inbox
+top_level_from: Svein Skorpen <svein@byrknes.no>
+fragment_id: f002
+fragment_type: quoted_context
+confidence: medium
+evidence_codes: QUOTED_CONTEXT_PRESENT
+
+## TEXT
+Fra: Anders Ulveseth <anders.ulveseth@plantedamp.no>
+Sendt: tirsdag 7. februar 2023 22:43
+Til: Svein Skorpen <svein@byrknes.no>
+Kopi: Yadgar Plantedamp AS <yadgar@plantedamp.no>
+Emne: Re: SV: MVA Grense passert - Vi må sende inn MVA registrering
+
+
+Jeg er klar hvilken som helst dag når det passer for deg. :)
+
+Over helgen er vi etter all sannsynlighet  på plass på eget kontor i Strandgaten 59, så en økt der passer bra.
+
+Tror det er ganske store summer vi skal ha igjen for utlagt MVA. For varekjøpet fra utlandet den siste tiden har vi betalt over 10 000,- i MVA til speditørene. Tror vi minst kommer over 30 000,- totalt som vi skal ha refundert.
+
+
+Anders
+
+Hei på dere !
+Det gikk kjapt. Denne rutiner er blitt kraftig forbedret de siste årene. Fra det tidligere kunne ta opp til en måned å får selskapet momsregistrert går dette nå unna , i dette tilfelle automatisk .
+Da kan ligge inn mva. nr. der du trenger det , Omnishop, logo mm. Jeg sørger for å ligge dette inn i Fiken .
+Vi trenger som avtalt i siste møte en arbeidsøkt i sammen. Denne uke blir vanskelig, Anders, men vi må få dette til over helgen. Noe dager som passer for deg over helge, Anders ?  Vi tar en prat i morgen, jeg ringer deg litt ut på formiddagen.
+
+Svein
+
+
+
+
+--
+
+Anders Ulveseth
+
+Daglig leder | Plantedamp AS
+
+Tlf: +47 454 01 840
+
+https://plantedamp.no

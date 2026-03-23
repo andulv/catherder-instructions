@@ -1,0 +1,30 @@
+message_id:  <OLAP279MB0216E493F58BC544289A8509C8A99@OLAP279MB0216.NORP279.PROD.OUTLOOK.COM>
+source_path: reference/mailbox-anders-plantedamp/Inbox/cur/1774229763.210405_212.tp-anders,U=212:2,S
+mailbox_folder: Inbox
+top_level_from: Svein Skorpen <svein@byrknes.no>
+fragment_id: f002
+fragment_type: quoted_context
+confidence: medium
+evidence_codes: QUOTED_CONTEXT_PRESENT
+
+## TEXT
+Fra: Anders Ulveseth <anders.ulveseth@plantedamp.no>
+Sendt: lørdag 25. februar 2023 00:48
+Til: Yadgar Plantedamp AS <yadgar@plantedamp.no>
+Kopi: svein@plantedamp.no
+Emne: Håper du liker denne.... Har lagt ned noen timer her.
+
+
+https://plantedamp.no/Admin/PublishProducts/List
+
+Sikkert noen bugs. Men ser ut til å virke når jeg har testet....
+
+Grønn knapp oppe til høyre - Henter oppdaterte varer, priser, lager, o.l. fra Omnishop
+Blå knapp oppe til venstre - Lar deg publisere (og avpublisere) flere varer om gangen.
+
+
+[cid:image001.png@01D948FD.3ED87840]
+
+
+
+[cid:image002.png@01D948FD.3ED87840]

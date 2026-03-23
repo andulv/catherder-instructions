@@ -1,0 +1,11 @@
+message_id: <A7EF24E7-2D52-4CC2-A60E-B4C448CD90DF@plantedamp.no>
+source_path: reference/mailbox-anders-plantedamp/Drafts/cur/1774229807.210405_2277.tp-anders,U=3:2,DS
+mailbox_folder: Drafts
+top_level_from: Anders Ulveseth <anders.ulveseth@plantedamp.no>
+fragment_id: f001
+fragment_type: quoted_svein
+confidence: high
+evidence_codes: QUOTED_FROM_MATCH
+
+## TEXT
+>> From:	Svein Skorpen <svein@byrknes.no>

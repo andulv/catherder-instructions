@@ -1,0 +1,30 @@
+message_id: <wgU-dUHxQB-H5sZj26TfxQ@geopod-ismtpd-4-0>
+source_path: reference/mailbox-anders-plantedamp/Inbox/cur/1774229762.210405_127.tp-anders,U=127:2,S
+mailbox_folder: Inbox
+top_level_from: Svein Skorpen <kontakt@fiken.no>
+fragment_id: f001
+fragment_type: direct_primary
+confidence: high
+evidence_codes: FROM_NAME_MATCH
+
+## PRIMARY_TEXT
+Velkommen!
+
+ <https://www.fiken.no/>
+
+Svein Skorpen har gitt deg tilgang til regnskapet for Plantedamp AS i Fiken.
+
+
+Husk at du må bekrefte ved å registrere din bruker innen 03.02.2023 14:37:33:
+
+
+Registrer bruker
+<https://fiken.no/tilgangsaktivering/AA8ZtjUnhS1NwK6kZYgAX9ZNIBfQN5K82FWF1eLi>
+
+
+Enkel hilsen,
+Fiken <https://fiken.no/>
+
+
+Fiken - superenkelt regnskap
+Står du fast? Her får du raskt hjelp! <https://hjelp.fiken.no/>​

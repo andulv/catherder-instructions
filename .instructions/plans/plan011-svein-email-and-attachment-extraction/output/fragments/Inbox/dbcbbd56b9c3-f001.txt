@@ -1,0 +1,58 @@
+message_id: <1FD559A1-3BCD-4CAC-BCB5-D02B26495FC2@byrknes.no>
+source_path: reference/mailbox-anders-plantedamp/Inbox/cur/1774229801.210405_1939.tp-anders,U=1939:2,S
+mailbox_folder: Inbox
+top_level_from: Svein Skorpen <svein@byrknes.no>
+fragment_id: f001
+fragment_type: direct_primary
+confidence: high
+evidence_codes: FROM_EMAIL_MATCH, FROM_EXACT, FROM_NAME_MATCH, QUOTED_CONTEXT_PRESENT
+
+## PRIMARY_TEXT
+Sendt fra min iPhone
+
+Videresendt melding:
+
+## QUOTED_CONTEXT
+Fra: "Gro Pro AS (fiken.no)" <kontakt@fiken.no>
+Dato: 5. januar 2026 kl. 13:40:58 CET
+Til: Svein Skorpen <svein@byrknes.no>
+Emne: Du har fått tilgang til Gro Pro AS i Fiken
+Svar til: "Gro Pro AS (fiken.no)" <ikke.svar@fiken.no>
+
+﻿
+
+
+
+[ikon1.png]
+
+
+[ikon2.png]
+
+Du har fått tilgang
+
+<https://www.fiken.no/>
+[ikon3.png]
+
+
+Anders Ulveseth har invitert deg til regnskapet i Fiken for foretaket Gro Pro AS.
+
+
+Gå til regnskapet<https://fiken.no/foretak/gro-pro-as/forside/>
+
+[ikon4.png] <https://itunes.apple.com/no/app/fiken-bilag/id849819594?mt=8&uo=4> [ikon5.png] <https://play.google.com/store/apps/details?id=no.topi.fiken.bilag>
+
+
+Enkel hilsen,
+Fiken<https://fiken.no/>
+
+
+
+[ikon6.png]
+
+
+Fiken - superenkelt regnskap
+Står du fast? Her får du raskt hjelp!<https://hjelp.fiken.no/>
+
+
+[https://fiken.no/app/email/skru/irxTGhoMYNJXRYasr5GIU2a9BaO_nsrB_LTanQLIXQbx0wpobk8usORFiqJK5_z-___XS6_R8xMlE79xeAEPTQ.png]
+                                                            ​

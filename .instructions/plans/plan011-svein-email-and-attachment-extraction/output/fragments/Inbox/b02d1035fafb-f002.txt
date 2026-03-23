@@ -1,0 +1,266 @@
+message_id:  <SVZP279MB07500FB86123AA206515915FC8F1A@SVZP279MB0750.NORP279.PROD.OUTLOOK.COM>
+source_path: reference/mailbox-anders-plantedamp/Inbox/cur/1774229796.210405_1731.tp-anders,U=1731:2,S
+mailbox_folder: Inbox
+top_level_from: Svein Skorpen <svein@byrknes.no>
+fragment_id: f002
+fragment_type: quoted_context
+confidence: medium
+evidence_codes: QUOTED_CONTEXT_PRESENT
+
+## TEXT
+Fra: Anders Ulveseth <anders.ulveseth@plantedamp.no>
+Sendt: fredag 24. oktober 2025 04:06
+Til: sverre.holbye@gmail.com; Svein Skorpen <svein@byrknes.no>
+Emne: Fwd: Invitation to Join the Gandalf Project
+
+
+Sendt fra min iPad
+
+Videresendt melding:
+Fra: Peter Selmer Gade <peter@napkin.dk>
+Dato: 23. oktober 2025 kl. 21:33:21 GMT+7
+Til: Anders Ulveseth <anders.ulveseth@plantedamp.no>
+Kopi: frans@otherworld.dk
+Emne: Sv: Invitation to Join the Gandalf Project
+﻿
+
+Hi Anders,
+
+Frans and I have talked things through after your email, and we really like the direction you’re suggesting in alternative 2. We both feel that the best way forward is to work closely together on THC – The Hardware Company (Frans’ suggestion that is better than Drizzle 2.0) rather than keeping it at arm’s length.
+
+If things go well and we enjoy the ride, we’d like to end up as near-equal partners — something like 35 : 35 : 30 or thereabouts. The exact numbers matter less than the idea of being roughly equal, with a small skew toward Frans and me since we’ve carried the foundation from Drizzle.
+
+We’ve roughly logged 1,200 hours each on Gandalf since January 2023, plus covered expenses through Napkin Design. That gives a sense of scale for what’s gone in so far. The outline below aims to balance that while recognizing the extra push you can bring in the coming phase.
+
+1. Trial & Startup Phase
+
+Let’s start with a 6–12 month period where we work side by side and get THC properly off the ground.
+Main goals:
+
+  *   Develop the business plan, end-game scenarios, and sales material.
+  *   Secure first sales and early customers / beta users.
+  *   Handle the practicalities — payments, T&Cs, logistics, etc.
+  *   Attend one or more fairs to test market traction.
+  *   Set up small-scale in-house manufacturing.
+  *   Cut costs through focused sourcing of components.
+  *   Get the Raspberry Pi Pico software production-ready.
+  *   Most importantly, see how we actually work together day-to-day.
+
+If the collaboration feels right, we formalize the company setup after this phase.
+
+2. Building Toward Equal Partnership
+
+We’d like to reach near-equal ownership once we’ve all put in a comparable level of time and resources.
+Since you’ll likely contribute more hours in the short term (and perhaps some capital), your share can build up gradually as we hit agreed milestones — for instance, finishing the Pico software, shipping the first production units, or closing the first sales.
+This keeps things fair and flexible instead of locking the structure too early.
+
+3. Keeping It Fair for Everyone
+
+To protect all sides, we suggest a few simple principles:
+
+  *   We each earn ownership gradually as we contribute.
+  *   There’s a grace period (about a year) where, if one of us steps away or the fit isn’t right, no shares are kept.
+  *   After that, ownership grows steadily over time until we reach the agreed target.
+  *   If someone leaves later, the others can buy back their shares at a fair value so everyone can move on cleanly.
+
+This isn’t red tape — just a practical way to stay fair and keep friendships intact.
+
+4. Roles & Working Style
+
+We should be upfront about task distribution. Some things none of us will love, but they still need doing. Let’s map those early and divide them evenly. Better to talk it through now than later.
+
+5. Next Step
+
+Lets have a video call soon to discuss where we are at and how to proceed:
+
+  *   what the trial phase looks like in practice,
+  *   key milestones and ownership steps
+  *   some simple rules for how we work and communicate.
+
+Best,
+Peter & Frans
+
+
+
+
+On Wed, Oct 22, 2025 at 10:12 AM Peter Selmer Gade <peter@napkin.dk<mailto:peter@napkin.dk>> wrote:
+Hi anders.
+
+Thank you foe your thoughts.  Frans and i have read it, slept on it and will get back to you tomorrow (Thursday). Lets schedule a call.
+
+I think we'll write an email before the call, just to keep track of our ongoing discussions.
+
+Sincerely Peter
+
+
+Best regards,
+
+Peter Selmer Gade
+CEO
+[http://napkin.dk/wp-content/uploads/2023/11/Napkin-Design-PNG-1.png]
+Napkin Design APS, Stamholmen 99, 2650 Hvidovre, Denmark
+E: peter@napkin.dk<mailto:peter@napkin.dk>
+P: +45 50110329<tel:+45%2050110329>
+[LinkedIn]<https://www.linkedin.com/in/peterselmergade/>
+
+On Sun, Oct 19, 2025, 10:58 Anders Ulveseth <anders.ulveseth@plantedamp.no<mailto:anders.ulveseth@plantedamp.no>> wrote:
+
+Hi,
+
+Here is some thoughts I have written down regarding the discussion we had about my role in a future company.
+
+As we discussed, here is two alternatives that are very different. There is probably room for other alternatives inbetween.
+
+
+My role - Alternative 1
+This is based on my interpretation of your offer in e-mail below:
+
+  *   Investor & Software Subcontractor
+  *   10% ownership.
+  *   Probably board member.
+  *   Pays for shares in cash and software work.
+My lowest hourly rate for long-term projects is DKK 763,- (NOK 1200,-). This is the same price I used 8 years ago, so I believe it is a very fair price.
+
+Wild guesstimate of hours needed to port software to Pi Pico and getting it into production: 400 hours
+(I love to say half of that estimate but all experience tells me that hours runs quickly when end-user facing project goes into production, especially when going to production means shupping "firmware").
+
+So my initial investment would be:
+DKK 100 000,- in cash
+DKK 305 200,- in software hours (400 hours * DKK 763)
+
+As an potential minority-investor I need answer to the same questions that I believe every other potential investors will ask:
+
+What is your plan for making this investment worthwhile?
+
+  *   How much return will I receive on this investment.
+  *   Will I receive dividends? If so when do you expect to start paying dividents and how much should I expect?
+  *   Do you plan for an exit? If so, when and how much. And to whom?
+  *   How much further investments is expected from me? For how long? (free software hours, further rounds with other investors)
+  *   What will happen with my 10% when/if another investor comes aboard. Will mye shares be dilluted?
+I believe an early-stage investor in a such a project would expect at least 10x return in 5-10 years.
+
+I know that at this stage you are not ready to give answers to these questions. And it is hard for me to indicate if I intend to accept or reject the offer.
+
+If we intend to for something similar to this alternative, where I am a minority investor, you need to come up with some form of plan that gives answers to these questions.
+
+As an 10% owner I probably will be interested in being a board member, but I am reluctant to put in much unpaid work in form of business- and product-planning.
+
+
+
+My role - Alternative 2
+Nearly-equal partner.
+30% ownership (Frans 35%, Peter 35% each)
+
+I move to Copenhagen and work 60% for this company for one year.
+Main tasks: Write businessplan, budgets and software.
+
+This alternative turns the tables around regarding plan and offer. In this case, it is my task to come ut with a plan that describes this alternative in detail.
+
+
+
+Anders
+
+
+
+
+On 09.10.2025 20:03, Peter Selmer Gade wrote:
+Hi Anders,
+
+First of all, thank you for the fantastic collaboration so far. The work you've done on the Gandalf software — and the way you've approached it — has really confirmed to both Frans and me that this partnership has great potential. It's been a pleasure seeing how far the system has come, and the fact that you've been working pro bono to explore if we're a good match says a lot about your dedication.
+
+Now that you've received and tested one of the first prototypes and seem to like it, we'd like to take the next step and start discussing how we could build something together around Gandalf.
+
+We haven't yet formed a company for the project, but our idea is to invite you in as a co-founder and co-owner from the very beginning. Below is our initial suggestion — not as a final proposal, but as a friendly starting point for discussion. If you have different thoughts or ideas, we'd really like to hear them.
+
+________________________________
+Phase 1 – Completing the Current Prototype
+
+  *   You will finalize the Raspberry Pi Zero software to the point where it can be demonstrated at a fair.
+  *   This will be done under the current "test work phase" on a pro bono basis.
+  *   Only minor features remain — mainly a simple user interface and small finishing touches.
+  *   Peter + Frans will design the mechanics, build prototype devices, and ship them to early customers.
+
+________________________________
+Phase 2 – Market Introduction
+
+  *   You will join Frans and me at one of the major European cannabis fairs to present the Gandalf system to the public.
+  *   The purpose is to gather feedback, gauge market interest, and identify potential customers or investors.
+  *   We are deliberately joining the fair all three to give us a realistic view of what we are going into — both in terms of customer expectations and the broader market potential.
+  *   If all three of us agree that there's a strong business case, we proceed to formalize the setup.
+
+________________________________
+Phase 3 – Company Formation
+
+If we decide to move ahead:
+
+  *   We will incorporate a new Danish company ("Drizzle 2.0" as a working title).
+  *   Ownership structure:
+
+     *   Anders: 10% ownership against an investment of 100,000 DKK.
+     *   Peter + Frans: remaining 90% ownership.
+
+  *   All intellectual property related to Gandalf will be owned by the new company, ensuring joint ownership for all three founders.
+  *   We may also consider leaving room for an early investor on the cap table.
+  *   The numbers are loosely based on the amount of work already put in, while avoiding straining anyone's economy and ensuring everyone has a real stake. If you have a different view, let's talk!
+
+________________________________
+Roles and Commitments Moving Past Phase 3
+
+  *   Anders: responsible for software development, including transitioning from Raspberry Pi Zero to Raspberry Pi Pico.
+  *   Peter + Frans: responsible for hardware and mechanical development.
+  *   All: active participation in business development, product roadmap, and company direction.
+  *   During the early phase, all three will work without salary.
+  *   Once machines begin selling, revenue will first fund production and assembly, followed by fair compensation for development work once the business is solvent.
+
+________________________________
+Sales and Cash Flow
+
+To minimize initial capital needs, machines will be sold under cash-positive terms such as:
+
+  *   50% payment upon order.
+  *   45–60 days lead time.
+  *   50% payment upon shipment.
+
+________________________________
+Longer-Term Vision
+
+Frans and I are still shaping the company vision, but three potential paths are:
+
+  1.  Building with an exit in mind – with the help of a seasoned investor experienced in scaling and selling hardware companies.
+  2.  Creating a sustainable, profitable business – focused on product sales via distributors rather than direct sales, allowing for lean operations and scalable support.
+  3.  Outsourcing production and drop-shipping upon orders – maintaining ownership and control while reducing day-to-day operational involvement.
+
+________________________________
+
+We'd love to hear your thoughts on this — both on the overall idea and the specific setup. If you see things differently or have ideas for a better structure, please share them. The most important thing is that we build this on mutual trust and a shared vision.
+
+Looking forward to hearing from you!
+
+Best regards,
+Peter & Frans
+--
+
+Best regards,
+
+Peter Selmer Gade
+CEO
+[cid:image001.gif@01DC44B4.C87E1360]
+Napkin Design APS, Stamholmen 99, 2650 Hvidovre, Denmark<https://www.google.com/maps/search/Stamholmen+99,+2650+Hvidovre,+Denmark?entry=gmail&source=g>
+E: peter@napkin.dk<mailto:peter@napkin.dk>
+P: +45 50110329<tel:+45%2050110329>
+<https://www.linkedin.com/in/peterselmergade/>
+<blocked.gif><https://www.linkedin.com/in/peterselmergade/>
+
+
+
+--
+
+Best regards,
+
+Peter Selmer Gade
+CEO
+[http://napkin.dk/wp-content/uploads/2023/11/Napkin-Design-PNG-1.png]
+Napkin Design APS, Stamholmen 99, 2650 Hvidovre, Denmark
+E: peter@napkin.dk<mailto:peter@napkin.dk>
+P: +45 50110329<tel:+45%2050110329>
+[LinkedIn]<https://www.linkedin.com/in/peterselmergade/>

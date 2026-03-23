@@ -1,0 +1,126 @@
+message_id:  <SVZP279MB075047711F3B3D657DA0FFE0C886A@SVZP279MB0750.NORP279.PROD.OUTLOOK.COM>
+source_path: reference/mailbox-anders-plantedamp/Inbox/cur/1774229801.210405_1937.tp-anders,U=1937:2,S
+mailbox_folder: Inbox
+top_level_from: Svein Skorpen <svein@byrknes.no>
+fragment_id: f002
+fragment_type: quoted_context
+confidence: medium
+evidence_codes: QUOTED_CONTEXT_PRESENT
+
+## TEXT
+Fra: Anders Ulveseth <anders.ulveseth@plantedamp.no>
+Sendt: søndag 4. januar 2026 19:42
+Til: yadgar@plantedamp.no; mitch@plantedamp.no
+Kopi: Svein Skorpen <svein@byrknes.no>
+Emne: Plantedamp - Status på lager, fordringer og økonomi
+
+
+Jeg er nesten ferdig med å telle lageret. En del avvik, men ikke noe som skremmer og ikke store verdier.
+
+Dyrkerommet er ennå ikke talt, så det kan være at det dukker opp noen overraskelser der.
+
+
+
+Konklusjonen så langt er at vi er skrapet for cash, men har mye utestående hos kunder og mye på lager.
+
+I tillegg skylder vi en liten formue til Yadgar, Anders, Omnishop og Kemneren.
+
+
+
+Lagerverdi - kostpris eks. MVA
+Lagerverdi 31.12.2025
+798 579,00 kr
+Order, utlevert ikke fakturert
+110 291,07 kr
+TOTAL LAGERVERDI
+908 870,07 kr
+
+Utsalgspris eks. MVA på ordrer som er utlevert, men ikke fakturert er på 198 000,-.
+
+Planen er at disse ordrene blir fakturert i løpet av de neste ukene og penger kommer inn så fort som mulig.
+
+
+
+Overskudd og skatt
+
+Med denne lagerverdien så er overskuddet vårt i 2025 ca. 340 000,-
+
+Det betyr at vi må betale ca. 74 800,- i skatt. Forfaller en gang i løpet av 2026.
+
+
+
+Kundefordringer
+
+31.12.2025 hadde vi totalt 268 700,- i utestående fordringer mot kunder.
+
+Disse er fordelt slik:
+Krav overført til Collectia
+(Ca. halvparten er gamle krav som vi sliter med,
+andre halvpart er ferske krav som vi regner med å få inn snart)
+80 000,00
+GroPro (etter innegående fakturaer er trukket fra)
+139 600,00
+Stian Nilsen, fra april 2025
+(Usikker på status her om vi får pengene og i så fall når)
+17 000,00
+Vestland Chili
+6 700,00
+Ferske fordringer mot privatkunder
+25 000,00
+
+
+
+(I tillegg kommer de utleverte, ikke fakturerte ordrene.)
+
+Vi kan sikkert skrive av en del av kundefordringene (40 000 fra Collectia?) og det vil redusere overskuddet vårt litt, og dermed skatt.
+
+
+
+Gjeld til eiere
+
+Det er gjort renteberegning med 10.8% rente pr. år (0.03% rente pr. dag) for lån fra eiere/Omnishop til Plantedamp.
+
+Renteberegning ble gjort 1.halvår og 2. halvår, beregnede renter ble lagt til saldo hhv. 01.07.2025 og 31.12.2025
+
+01.12.2025
+31.12.2025
+Endring
+Renter
+(lagt til saldo)
+Gjeld til aksjonær, Yadgar
+−259 777,25
+−206 414,20
+53 363,05
+−26 887,78
+Gjeld til aksjonær, Anders
+22 116,89
+−420 276,66
+−442 393,55
+−24 511,81
+Gjeld til Omnishop
+−250 000,00
+−60 681,94
+189 318,06
+−25 205,27
+Sum gjeld til Yadgar, Anders og Omnishop
+−487 660,36
+−687 372,80
+−199 712,44
+−76 604,86
+
+
+
+Annen gjeld
+
+MVA som forfaller 10.02.2025:                                                       105 000,-
+
+Skatt som forfaller i løpet av året, foreløpig beregnet:               75 000,-
+
+Ellers er all gjeld til leverandører betalt.
+
+
+--
+Anders Ulveseth
+Daglig leder | Plantedamp AS
+Tlf: +47 454 01 840
+www.plantedamp.no<http://www.plantedamp.no>

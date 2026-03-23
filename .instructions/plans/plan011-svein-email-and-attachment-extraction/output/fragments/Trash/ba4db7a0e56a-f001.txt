@@ -1,0 +1,186 @@
+message_id: <8C17CC4C-8473-443E-9FCD-3CAD4946ED04@byrknes.no>
+source_path: reference/mailbox-anders-plantedamp/Trash/cur/1774229853.210405_4848.tp-anders,U=1511:2,S
+mailbox_folder: Trash
+top_level_from: Svein Skorpen <svein@byrknes.no>
+fragment_id: f001
+fragment_type: direct_primary
+confidence: high
+evidence_codes: FROM_EMAIL_MATCH, FROM_EXACT, FROM_NAME_MATCH
+
+## PRIMARY_TEXT
+Blir mer og mer imponert av denne CHAT GPD 😀
+
+Har ikke brukt dette noe  særlig selv , men ser at jeg er nødt til å ta dette i bruk .
+
+Svein
+
+
+Sendt fra min iPhone
+
+5. feb. 2026 kl. 00:38 skrev Anders Ulveseth <anders.ulveseth@plantedamp.no>:
+
+﻿
+
+Les hele chatten her:
+
+https://chatgpt.com/share/6983d2dd-07e8-8011-bed1-b96e6d5caa96
+
+Dette er de opprinnelige instruksene jeg ga til ChatGPT:
+Du er jurist i politiet i Norge. Du er godt kjent med norsk og eu juss. Du kjenner eøs avtalen. Du kan prinsippene som ligger til grunn og hvilke domstoler som har rang i Norge og eu. Du kjenner også til eu/eøs sine kontrollorganer og sanksjoner mot Norge. Du blir bedt om å assistere saksbehandler på fagmottaket som har mottatt følgende mail
+
+Og jeg sendte svaret den ga i forrige mail.
+
+Men så stilte jeg noen flere sppørsmål:
+1. Lag en juridisk vurdering av c-663/18 i norsk kontekst
+2. Vurder produkter på https://plantedamp.no opp mot dette
+
+ChatGPT pleier normalt å alltid å være enig med deg. Derfor bad jeg den innta rollen som motparten (prøver å lure den til å tro at jeg er motparten).
+
+Les svarene i linken over eller nedenfor her:
+
+
+Her er en juridisk vurdering av produktene som selges på plantedamp.no i lys av C-663/18 (Kanavape) og norsk/EØS-rett, med særlig vekt på tolldeklarasjon, beslag og legalitet ved import til Norge.
+
+________________________________
+1) Hva slags produkter selges på plantedamp.no?
+
+Basert på gjennomgang av hjemmesiden, tilbyr Plantedamp AS et sortiment som i hovedsak består av:
+
+A) Vaporizere, utstyr og tilbehør
+
+  *   Elektroniske vaporizere for tørr urt, olje og konsentrater
+
+  *   Batterier, atomizere, cartridges, vaping-tilbehør
+Disse enhetene er i seg selv ikke narkotika, de er utstyrssystemer.
+
+B) CBD-relaterte produkter
+
+  *   CBD-oljer og CBD-isolat (både Plantedamp egne merker og råvarer)
+
+  *   CBD-engangs vaporizere og 510-cartridges med CBD
+
+  *   CBD-snus og CBD-poser uten tobakk eller nikotin
+
+  *   CBD-kroppspleie (creme) og kosttilskudd-kategorier
+Disse produktene inneholder cannabinoider som CBD og eventuelt CBG, uten tobakk eller nikotin, men ikke nødvendigvis THC-innhold dokumentert på siden.
+
+C) E-sigaretter/e-juice (0%/CBD)
+
+Det finnes egne kategorier for e-juice 0% og CBD-e-juice – dvs. vaping-væsker uten nikotin, og enkelte med CBD-tilsetning.
+
+________________________________
+2) Om CBD-produkter i EØS vs. i Norge
+A) EU/EØS (Kanavape-dommen)
+
+EU-domstolen i C-663/18 (Kanavape) slo fast at:
+
+  *   CBD regnes ikke som narkotika i EU-rettslig forstand.
+
+  *   Produkter lovlig produsert og omsatt i et annet EØS-land kan ikke nektes import bare fordi de inneholder CBD.
+
+  *   En nasjonal restriksjon mot import/omsetning av slike lovlige CBD-produkter vil i utgangspunktet stride med fri vareflyt (EØS-avtalen art. 11), med mindre det kan dokumenteres konkret folkehelsefare og det er forholdsmessig.
+
+Det betyr at CBD-inneholdende produkter lovlig produsert i EU/EØS i utgangspunktet har rett til å krysse grensene uten urimelig restriksjon.
+
+________________________________
+3) Norsk rett – hvordan avviker Norge
+
+I Norge gjelder per i dag (basert på tilgjengelige kilder):
+
+A) CBD-regulering
+
+  *   Norge har strengere CBD-regler enn mange EU-land, og CBD-produkter klassifiseres i praksis ofte som legemidler eller narkotika når de importeres — med krav om 0% THC, eller at de er godkjent som legemiddel for resept.
+
+  *   Norske regler er derfor mer restriktive enn EØS-minsteregler om fri vareflyt.
+
+B) E-sigaretter og vaping
+
+  *   Nikotin-holdige e-sigaretter er forbudt som vanlige forbrukerprodukter, og kan kun importeres som legemidler med resept eller i strengt regulerte sammenhenger.
+
+  *   Nikotinfri vaping og utstyr er generelt tillatt, men med markedsførings- og display-restriksjoner.
+
+C) CBD-stoffer uten THC
+
+  *   Enkelte CBD-produkter uten THC (dvs. isolater) kan være mindre problematiske, men norske myndigheter tolker ofte alle cannabis-ekstrakter som narkotika uten særskilt tillatelse, selv om de er THC-frie.
+
+     *   Dette innebærer at en CBD-olje med spor av THC (selv <0,2%) som er lovlig i EU, fortsatt kan anses som narkotika i Norge.
+
+________________________________
+4) Juridiske utfordringer ved import og beslag
+A) Konflikt mellom EØS-rett og norsk praksis
+
+Selv om EU-/EØS-retten gir en generell rett til fri vareflyt for CBD-produkter, kan Norge ifølge dagens praksis:
+
+  *   kreve at produkter har 0% THC for å unngå narkotikaklassifisering,
+
+  *   beslaglegge forsendelser som anses som ulovlige etter norsk narkotikalovgivning,
+
+  *   og anmelde slike saker til politiet for vurdering.
+
+Dette kan gi et uttrykk av konflikt mellom:
+
+  *   en internasjonal forpliktelse til fri vareflyt etter EØS-retten (og Kanavape-logikk),
+
+  *   og nasjonal lovgivning som klassifiserer mange CBD-produkter som narkotika/legemidler.
+
+B) Beslag og henleggelse
+
+Dersom:
+
+  *   Produkter er lovlig produsert i EU/EØS,
+
+  *   CBD-innholdet ikke tilsier psykoaktiv effekt (i tråd med Kanavape),
+
+  *   og det ikke er dokumentert konkret helserisiko,
+
+så vil en vedvarende beslaglegging eller destruksjon uten rettslig hjemmel kunne stride med EØS-avtalen, jf. analysen av C-663/18.
+
+________________________________
+5) Konklusjon – vurdering per produktkategori
+Produktkategori Norsk status    EØS-rettslig relevans
+CBD-oljer/isolat        Kan klassifiseres som narkotika/legemidler i Norge, særlig hvis THC ikke er 0%  Lovlig i EU/EØS, og Kanavape tilsier ikke narkotika – kan derfor ha fri bevegelighet
+CBD-engangs vape/510 cartridges Norsk praksis kan se dem som narkotika-relatert produkt ved import      EU/EØS: CBD-innhold gir ikke narkotika → begrensninger må konkret begrunnes
+CBD-snus/poser uten tobakk/nikotin      Kan være problematisk → norsk praksis strenger  Samme vurdering som andre CBD-produkter
+Vaporizere/utstyr uten CBD      Tillatt (selve utstyret er ikke narkotika)      Ingen restriksjoner etter EØS
+CBD kosttilskudd/kroppspleie    Ofte enklere, men kosmetikk/tilskudd kan være tillatt   EU/EØS tillater slike så lenge riktig merkede
+________________________________
+6) Særskilt om C-663/18-argumentet
+
+I norsk kontekst betyr EU-domstolens avgjørelse at:
+
+  *   CBD i seg selv ikke er narkotika, og
+
+  *   tiltak som beslaglegger slike produkter må være forankret i konkret helserisiko, ikke generelle antakelser.
+Dermed vil en praksis der norske tollmyndigheter beslaglegger slike varer uten:
+
+  1.  adekvat rettslig hjemmel i norsk lov, eller
+
+  2.  konkret dokumentert fare for helsen
+kunne være i strid med EØS-avtalen (fri vareflyt).
+
+________________________________
+7) Praktisk betydning for politiet
+
+Dersom Plantedamp-forsendelser inneholder:
+
+  *   CBD-oljer/isolat fra EU-leverandør,
+
+  *   CBD-engangs vapingprodukter med cannabinoider,
+og det ikke er påvist THC eller annen ulovlig komponent:
+
+👉 Politiet kan måtte vurdere at disse:
+
+  *   ikke er ulovlige narkotiske stoffer etter EØS-rett,
+
+  *   beslag ikke kan opprettholdes,
+
+  *   og bør returneres/utleveres hvis ikke annen hjemmel foreligger.
+
+________________________________
+
+Ønsker du en konkret vurdering av én spesifikk vare eller varegruppe, kan jeg gå produkt for produkt med en juridisk analyse mot både norsk lov og EØS-rett — bare si hvilke du vil ha vurdert først.
+
+
+
+---
+Anders Ulveseth

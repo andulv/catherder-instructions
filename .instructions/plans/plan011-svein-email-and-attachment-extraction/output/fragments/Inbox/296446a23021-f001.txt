@@ -1,0 +1,62 @@
+message_id: <2F5C384A-69CD-47AD-A38E-B87FB0E0F34C@byrknes.no>
+source_path: reference/mailbox-anders-plantedamp/Inbox/cur/1774229760.210405_40.tp-anders,U=40:2,RS
+mailbox_folder: Inbox
+top_level_from: Svein Skorpen <svein@byrknes.no>
+fragment_id: f001
+fragment_type: direct_primary
+confidence: high
+evidence_codes: FROM_EMAIL_MATCH, FROM_EXACT, FROM_NAME_MATCH, QUOTED_CONTEXT_PRESENT
+
+## PRIMARY_TEXT
+Det var noe drit , Anders ! Hva gjør du nå ? Kan det være formål som dannet grunnlag for avslag ?
+
+Svein
+
+Sendt fra min iPhone
+
+16. des. 2022 kl. 14:03 skrev Anders Ulveseth <anders.ulveseth@plantedamp.no>:
+
+﻿
+
+## QUOTED_CONTEXT
+-------- Forwarded Message --------
+Subject:        Beslutning om søknad for Nets Easy [SRNr:100050093]
+Date:   Fri, 16 Dec 2022 13:53:51 +0100 (CET)
+From:   Nets Customer Services <no-reply@nets.eu><mailto:no-reply@nets.eu>
+To:     anders.ulveseth@plantedamp.no<mailto:anders.ulveseth@plantedamp.no>
+
+
+
+[logo]
+
+
+NÃ¥r det gjelder sÃ¸knaden din om Nets Easy
+
+
+
+ï»¿Beslutning om sÃ¸knad for Nets Easy
+
+Hei Anders,
+
+Takk for at du har sÃ¸kt om avtale for Nets Easy.
+
+I forbindelse med din sÃ¸knad om Nets Easy mÃ¥ vi dessverre informere deg om, at vi ikke kan tilby din bedrift en innlÃ¸sningsavtale pÃ¥ nÃ¥vÃ¦rende tidspunkt.
+
+Dette pÃ¥ grunn av den generelle risikovurderingen, som vi har gjort av din bedrift.
+
+I vÃ¥r risikovurdering vurderer vi bl.a. konsept, produkter, tjenester og selskapets Ã¸konomiske informasjon.
+
+Vi kan dessverre ikke tilby Ã¥ utdype avslaget nÃ¦rmere. Takk for at du forstÃ¥r.
+
+
+Dersom vi kan hjelpe med en av vÃ¥re andre lÃ¸sninger, kan du gjerne ta kontakt til vÃ¥r salgsavdeling ecom-sales-no@nets.eu<mailto:ecom-sales-no@nets.eu>, +47 228 98 100.
+
+
+Med vennlig hilsen,
+
+Nets
+
+
+        Har du spÃ¸rsmÃ¥l vedrÃ¸rende Nets Easy? Ta gjerne kontakt:
+NETS Norway     Haavard Martinsensvei 54        Tel. +47 21 55 44 01
+Org. nr. 996 345 734    0978 Oslo       ecom-salessupport@nets.eu<mailto:ecom-salessupport@nets.eu>

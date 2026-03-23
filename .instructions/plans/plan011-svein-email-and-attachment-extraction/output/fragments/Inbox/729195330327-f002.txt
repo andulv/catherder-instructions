@@ -1,0 +1,80 @@
+message_id:  <OLAP279MB021660871AFE2291981884E8C8D89@OLAP279MB0216.NORP279.PROD.OUTLOOK.COM>
+source_path: reference/mailbox-anders-plantedamp/Inbox/cur/1774229762.210405_163.tp-anders,U=163:2,S
+mailbox_folder: Inbox
+top_level_from: Svein Skorpen <svein@byrknes.no>
+fragment_id: f002
+fragment_type: quoted_context
+confidence: medium
+evidence_codes: QUOTED_CONTEXT_PRESENT
+
+## TEXT
+Fra: Anders Ulveseth <anders.ulveseth@plantedamp.no>
+Sendt: onsdag 8. februar 2023 11:01
+Til: Svein Skorpen <svein@byrknes.no>
+Kopi: Yadgar Plantedamp AS <yadgar@plantedamp.no>
+Emne: Re: MVA Grense passert - Vi må sende inn MVA registrering
+
+Mandag kl. 11 bekreftet.
+
+Når det gjelder lokaler: Vi håper på garasjen hos Sverre. Men trenger noe nåe. Derfor har inngått avtal
+
+Hvis dette er et problem for Frode eller Even kan en løsning være at de skifter jobb eller flytter et annet sted.
+
+Sendt fra min iPad
+
+
+8. feb. 2023 kl. 06:49 skrev Svein Skorpen <svein@byrknes.no<mailto:svein@byrknes.no>>:
+﻿
+Hei på deg, Anders !
+
+Skal vi si mandag, kl. 1100 i Strandgaten 59 . Jeg avsetter da tid til 1500. Hvis vi er effektiv så bør vi da kunne klare å ajourføre regnskap 2022 og pr. januar 2023 .  Mht. muligheter for tilbakeføring av utenlands moms så skal jeg sjekke mulighetene for dette før møte.
+
+Fint om dere da kan overlevere signerte formalia ifm. rettet emisjon mot Yadgar, slik at vi kommer videre her. Kan være at jeg må endre datoer i dokumenter. Derfor trenger dere ikke å signere før møte, vi tar dette på mandag .
+
+Viktig at dere informerer alle utenlandske leverandører om at dere nå er mva. registrert, slik som du gjør i siste email fra deg .  Neste faktura fra leverandøren skal da være uten mva. Vi må så håndtere fakturaer i tråd med Norsk regelverk .
+
+Jeg låser tidspunkt i min kalender. Sted avklarer du før helgen, Anders !
+
+Obs:  Jeg trodde at dere var på vei til et annet lokale enn Strandgaten 59, etter siste tilbakemelding rundt prising av lokaler ? . Jeg er usikker på hvor fornuftig det er å lokalisere seg så tett opp til Definit AS , Anders .  Jeg har oppfattet signaler fra Definit gjengen som ikke var
+Veldig positive i forhold til at dere trer inn i samme lokaler som Definit AS. Jeg blander meg ikke inn i dette, men sikkert fornuftig å ta en dialog med Frode om tema. Det er fritt for dere hvor dere vil lokalisere dere . men tenk deg litt om før du inngår kontrakt i Strandagen 59, hvis du da ikke
+allerede har signert kontrakt .  Jeg var i et møte med Sverre i går, og oppfattet at dere muligens skulle etablere lager i garasjen i Sandviken ? – Er det muligheter for etablering av kontor også i disse lokaler ? , det hadde vel vært greiest å lokalisere lager og kontor på samme sted , eller ?
+
+
+Svein
+
+Fra: Anders Ulveseth <anders.ulveseth@plantedamp.no<mailto:anders.ulveseth@plantedamp.no>>
+Sendt: tirsdag 7. februar 2023 22:43
+Til: Svein Skorpen <svein@byrknes.no<mailto:svein@byrknes.no>>
+Kopi: Yadgar Plantedamp AS <yadgar@plantedamp.no<mailto:yadgar@plantedamp.no>>
+Emne: Re: SV: MVA Grense passert - Vi må sende inn MVA registrering
+
+
+Jeg er klar hvilken som helst dag når det passer for deg. :)
+
+Over helgen er vi etter all sannsynlighet  på plass på eget kontor i Strandgaten 59, så en økt der passer bra.
+
+Tror det er ganske store summer vi skal ha igjen for utlagt MVA. For varekjøpet fra utlandet den siste tiden har vi betalt over 10 000,- i MVA til speditørene. Tror vi minst kommer over 30 000,- totalt som vi skal ha refundert.
+
+
+Anders
+
+
+Hei på dere !
+Det gikk kjapt. Denne rutiner er blitt kraftig forbedret de siste årene. Fra det tidligere kunne ta opp til en måned å får selskapet momsregistrert går dette nå unna , i dette tilfelle automatisk .
+Da kan ligge inn mva. nr. der du trenger det , Omnishop, logo mm. Jeg sørger for å ligge dette inn i Fiken .
+Vi trenger som avtalt i siste møte en arbeidsøkt i sammen. Denne uke blir vanskelig, Anders, men vi må få dette til over helgen. Noe dager som passer for deg over helge, Anders ?  Vi tar en prat i morgen, jeg ringer deg litt ut på formiddagen.
+
+Svein
+
+
+
+
+--
+
+Anders Ulveseth
+
+Daglig leder | Plantedamp AS
+
+Tlf: +47 454 01 840
+
+https://plantedamp.no

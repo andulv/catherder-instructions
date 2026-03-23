@@ -1,0 +1,26 @@
+message_id:  <OLAP279MB021650483E47527C154B23BBC8DFA@OLAP279MB0216.NORP279.PROD.OUTLOOK.COM>
+source_path: reference/mailbox-anders-plantedamp/Inbox/cur/1774229772.210405_512.tp-anders,U=512:2,S
+mailbox_folder: Inbox
+top_level_from: Svein Skorpen <svein@byrknes.no>
+fragment_id: f001
+fragment_type: direct_primary
+confidence: high
+evidence_codes: FROM_EMAIL_MATCH, FROM_EXACT, FROM_NAME_MATCH, QUOTED_CONTEXT_PRESENT
+
+## PRIMARY_TEXT
+Hei, Anders !
+
+Da er formalia på plass i Brønnøysund, Anders !
+
+Jeg tar en ukes ferie fra i morgen, Anders .
+
+Svein
+
+## QUOTED_CONTEXT
+Fra: Altinn for SVEIN SKORPEN <noreply@altinn.no>
+Sendt: tirsdag 24. oktober 2023 11:25
+Til: Svein Skorpen <svein@byrknes.no>
+Emne: Samordnet registermelding er godkjent - OMNISHOP AS - 931 709 674
+
+
+Brønnøysundregistrene har behandlet og godkjent Samordnet registermelding.

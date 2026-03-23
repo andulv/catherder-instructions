@@ -1,0 +1,21 @@
+message_id:  <OLAP279MB02169B82507871727352A9FCC8319@OLAP279MB0216.NORP279.PROD.OUTLOOK.COM>
+source_path: reference/mailbox-anders-plantedamp/Inbox/cur/1774229759.210405_13.tp-anders,U=13:2,S
+mailbox_folder: Inbox
+top_level_from: Svein Skorpen <svein@byrknes.no>
+fragment_id: f002
+fragment_type: quoted_context
+confidence: medium
+evidence_codes: QUOTED_CONTEXT_PRESENT
+
+## TEXT
+Fra: Altinn for SVEIN SKORPEN <noreply@altinn.no>
+Sendt: tirsdag 25. oktober 2022 11:24
+Til: Svein Skorpen <svein@byrknes.no>
+Emne: Samordnet registermelding er godkjent - PLANTEDAMP AS - 930 078 158
+
+
+Brønnøysundregistrene har behandlet og godkjent Samordnet registermelding.
+
+Viktig informasjon til nyregistrerte virksomheter<https://www.brreg.no/andre-tema/informasjon-til-nyregistrerte-virksomheter/>
+
+Gratis veiledning om å starte og drive bedrift<https://www.altinn.no/gratulerer>

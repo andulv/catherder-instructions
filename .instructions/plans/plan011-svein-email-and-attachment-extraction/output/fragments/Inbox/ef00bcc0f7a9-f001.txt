@@ -1,0 +1,73 @@
+message_id: <1E4B6D2C-7C0C-4038-A618-AFEEC03799AB@byrknes.no>
+source_path: reference/mailbox-anders-plantedamp/Inbox/cur/1774229759.210405_10.tp-anders,U=10:2,S
+mailbox_folder: Inbox
+top_level_from: Svein Skorpen <svein@byrknes.no>
+fragment_id: f001
+fragment_type: direct_primary
+confidence: high
+evidence_codes: FROM_EMAIL_MATCH, FROM_EXACT, FROM_NAME_MATCH
+
+## PRIMARY_TEXT
+Dette er en god oppsummering , Anders 👍 Blir spennende å se nettbutikk ferdig og se respons fra markedet 👍
+
+Sendt fra min iPhone
+
+4. okt. 2022 kl. 23:02 skrev Anders Ulveseth <anders.ulveseth@plantedamp.no>:
+
+﻿
+
+Hei,
+
+ETABLERING AV SELSKAP
+Aksjekapital (kr. 60 000,-) er betalt inn og bekreftet/godkjent fra bank (Sparebanken Vest), signerte papirer er sendt til Brønnøysund for registrering. Om ca. 14 dager skal det være behandlet og vi har fått organisasjonsnr.
+
+Så snart organisasjonsnr. er på plass kan vi registrere oss som forhandler hos grossister/distributører som selger moder, batterier, ladere og annet standard utstyr.
+
+
+ØKONOMI
+Hittil har jeg brukt litt over 30 000,- til kjøp av varer, deler, verkyøy og tull. Jeg regner med å bruke opp til ytterligere kr. 10 000,- til kjøp av MOD'er, munnstykker, verktøy, diverse i nærmeste fremtid.
+
+Da er det forhåpentligvis ca. 20 000,- igjen av aksjekapitalen når vi begynner å selge. Salgbart varelager er noe slikt som dette:
+
+  *   10-15 stk. billigvapere i forseglet originalemballasje,  estimert utsalgspris kr. 900,- pr. stk.
+  *   30-40 stk. deler til å produsere vår egen PD510-PR1, estimert utsalgspris fra kr. 850,- pr. stk.
+  *   Diverse coiler, deler og diverse som muligens har verdi? Estimert utsalgspris totalt: 3000,-
+
+Hvis vi får solgt alt dette uten at vi pådrar oss mer kostnader er vi omtrent i 0,-
+
+
+NETTBUTIKK, LOGO, PROFIL
+
+Jeg har kladdet logo og design til nettside. Irene (med hjelp fra Ole) skal pusse opp logo, design, profil/fargevalg og ta nye produktbilder. Ole er proff-fotograf og Irene er semi-proff interaksjonsdesigner. Målet er at vi skal fremstå 100% proff og seriøs.
+
+Så sant vi har et produkt som holder mål er tanken å legge mye arbeid ned i produktsiden for presentasjon/kjøp av PD510-PR1 modellen. Å forklare/presentere ting riktig og enkelt her tror jeg er nøkkelen til å få gjennomført salg. En del av dette er ønske/håp om å spille inn instruksjonsvideoer som viser PD510-PR1 i praktisk bruk, med ulike coiler, innstillinger og materiale.
+
+Når det gjelder det tekniske og det å legge inn varer/kategorier på nettbutikken er jeg kommet et stykke på vei. Se skjermbilder.
+
+[dahpmkojphkgjcba.png]
+
+
+[emdheilglpleodph.png]
+
+[pfnckcljjicngpip.png]
+
+
+1. MÅL
+
+  *   Etablere nettbutikken plantedamp.no
+  *   Produsere 30-40 stk. PD510-PR1 med en slik kvalitet at vi står inne for å selge den
+
+
+2. MÅL
+
+Selge ut det vi har på lager / har produsert og få tilbake pengene som er brukt.
+
+Når kassebeholdning er tilbake over kr. 50 000,- reiser vi på studietur til Nederland, Tyskland, Kina, Canada, Thailand eller annet faglig relevant sted. Hvor langt avsted vi kommer og hvor lenge turen varer finner vi ut av når vi ser hva som er i kassen.
+
+Tanken er at Plantedamp dekker reise og opphold for dem som har bidratt til å nå målet.
+
+--
+Anders Ulveseth
+Daglig leder | Plantedamp AS
+Tlf: +47 454 01 840
+www.plantedamp.no<http://www.plantedamp.no>

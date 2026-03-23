@@ -1,0 +1,114 @@
+message_id:  <OLAP279MB021602A988A1F5AC7A6D1DB3C8C79@OLAP279MB0216.NORP279.PROD.OUTLOOK.COM>
+source_path: reference/mailbox-anders-plantedamp/Inbox/cur/1774229761.210405_88.tp-anders,U=88:2,RS
+mailbox_folder: Inbox
+top_level_from: Svein Skorpen <svein@byrknes.no>
+fragment_id: f001
+fragment_type: direct_primary
+confidence: high
+evidence_codes: FROM_EMAIL_MATCH, FROM_EXACT, FROM_NAME_MATCH, QUOTED_CONTEXT_PRESENT
+
+## PRIMARY_TEXT
+Hei på dere !
+
+Ser at Yadgar har innbetalt Kr 55 000,- til konto i dag .
+
+Kan Yadgar sende meg hans personalia , så lager jeg til låneavtale med rett til konvertering i dag .
+
+Er avtalen fortsatt Kr 60 000,- /eller skal vi si Kr 55 000,-, som er innbetalt ? .
+
+
+Mvh
+
+Svein Skorpen
+
+Email: svein@byrknes.no<mailto:svein@byrknes.no>
+Telefon:  48281280
+
+## QUOTED_CONTEXT
+Fra: Svein Skorpen
+Sendt: tirsdag 17. januar 2023 18:38
+Til: Anders Ulveseth <anders.ulveseth@plantedamp.no>
+Kopi: Yadgar Plantedamp AS <yadgar@plantedamp.no>
+Emne: SV: Haster - Enkel avtale om lån/innskud fra Yadgar
+
+Hei på dere !
+
+Hvis dere er enige om at Yadgar får tildelt 50 % av aksjene i Plantedamp AS for Kr 60 000,- og at han først går inn med forpliktelse som ansvarlig lån med rett til konvertering så foreslår jeg følgende:
+
+
+  1.  Yadgar låner inn Kr 60 000,- i kommende uke /uker.
+  2.  Vi lager en enkel låneavtale /ansvarlig lån pålydende Kr 60 000,- , som jeg skriver og dere signerer i morgen.
+  3.  Jeg laget til alle formalia vedrørende gjeldskonvertering til aksjer i løpet av neste uke, når lån Kr 60 000,- .
+  4.  Følgende formalia må da lages :
+     *   Styreprotokoll
+     *   Styrets redegjørelse
+     *   Motregningserklæringer
+     *   Bekreftelse på kapitalinnskudd fra revisor og /eller bank
+     *   EOG protokoll
+     *   Samordnet registermelding .
+
+Selskapet er ikke revisjonspliktig, men vi må ved kapitalutvidelser innhente bekreftelser enten fra revisor eller bank. Hvis vi gjør dette som et kapitalinnskudd og ikke som en gjeldskonvertering så kan vi hente erklæring fra bank, hvis det skjer via gjeldskonvertering så må vi nok hente dette fra en revisor, tror ikke banker tar denne type bekreftelser.
+en revisor vil nok kreve mellom Kr 3 000,- og Kr 6 000,- for en slik bekreftelse. Vi må tenke og beslutte her. Dere bør også tenke på utarbeidelse av en enkel aksjonæravtale dere imellom.  Mht. kapitalbehov 2023 så bør dere ta en runde på dette. Dere sitter p.t. på et lager på nivå Kr 40 000,- så dere via innlån fra Yardar vil øke til nivå Kr 75 000 før dere åpner nettbutikken.  Jeg er i utgangspunkter av den oppfatning av kapitalbehovet vil øke vesentlig før dere etablerer en positiv kontantstrøm i selskapet. Kun en påstand, uten regnestykker bak enda .   Ber dere se på dette og sette dere noen felles og realistiske mål for 2023 . Anders har regnet på noe her tidligere, men ber dere se på dette på nytt , når tid .
+
+Mht. min involvering så er jeg ikke klar for å gå inn som aksjonær og /eller en formell rolle i selskapet p.t.  Jeg må tenke meg om og ønsker å følge selskapets utvikling igjennom 2023 før jeg tar en slik beslutning .  Jeg bistår dere med å få i gang selskapet mht. regnskap og rutiner og hvis utviklingen går slik jeg håper og tror , så vil dere måtte engasjere en ekstern /autorisert regnskapsfører fra 2024. Jeg har tillit til at vi finner en løsning for eventuell inngang for meg på slutten av 2023, hvis ønskelig for begge parter .  Ser for meg at jeg da fakturer inn et forent beløp fra mitt selskap for arbeid utført 2022/2023, hvor så mitt krav blir konvertert til en aksjepost i selskapet , da forankret i en prising av selskapet , hvor jeg eventuelt går inn med en eierpost i selskapet.  Jeg kan vel allerede nå signalisere at jeg ikke har tilgjengelig kapital til å gå inn med kontanter i selskapet . Min eventuelle eierposisjon i selskapet vil da være forankret i avregning av arbeidsinnsats i /for selskapet .
+
+Foreslår at vi tar en samtale i løpet av uke via Teams , når dere er enige om Yadgar sin inngang i selskapet.  Dere må også avklare roller i selskapet, daglig leder , styreleder og styremedlem .  Se også på forretningsadresse, som nå er i Definit AS sine lokaler i Strandgaten. Jeg er tilgjengelig for samtale torsdag /eventuelt fredag . Finn et tidspunkt som passer for dere .
+
+Svein
+
+
+
+
+
+
+Fra: Svein Skorpen <svein@byrknes.no<mailto:svein@byrknes.no>>
+Sendt: mandag 16. januar 2023 22:37
+Til: Anders Ulveseth <anders.ulveseth@plantedamp.no<mailto:anders.ulveseth@plantedamp.no>>
+Kopi: svein@plantedamp.no<mailto:svein@plantedamp.no>; Yadgar Plantedamp AS <yadgar@plantedamp.no<mailto:yadgar@plantedamp.no>>
+Emne: Re: Haster - Enkel avtale om lån/innskud fra Yadgar
+
+Hei på dere 👍 Dere hører fra meg i løpet sv kvelden i morgen ! Jeg er opptatt frem til 1500 i morgen .
+
+Svein
+Sendt fra min iPhone
+
+16. jan. 2023 kl. 16:19 skrev Anders Ulveseth <anders.ulveseth@plantedamp.no<mailto:anders.ulveseth@plantedamp.no>>:
+﻿
+
+Etter at fakturaen til VapeFiend er betalt er det ca. 5 000,- igjen på konto.
+
+Vi trenger penger fra Yadgar for å kunne betale resten av varekjøpene vi holder på med  nå:
+
+  *   PureSativa            ca. 10 000,-
+
+  *   Drizzle                 ca. 20 000,-   (Men kan se ut som vi ikke trenger å betale denne før vi har fått varene)
+
+  *   Verdampt          ca. 8 000,- ???
+
+
+
+
+
+Mitt forslag. NB! Jeg har ikke peiling på formalitetene. Dette er bare det første jeg tenkte på:
+
+  *   Lån fra Yadgar til Plantedamp på 60 000,-.
+
+  *   Betales i omganger: Minimum 30 000,- betales inn nå. Resten når vi ha rbehov (i løpet av neste neste uker/måneder)
+
+  *   Konverteres til 50% av aksjene i PD (evt. noe mindre hvis andre skal være med, f.eks. Svein) jnnen en eller annen dato.
+
+
+
+
+
+
+
+--
+
+Anders Ulveseth
+
+Daglig leder | Plantedamp AS
+
+Tlf: +47 454 01 840
+
+https://plantedamp.no

@@ -1,0 +1,872 @@
+[
+  {
+    "attachment_filename": "Salgsrapport pr november 2022.xlsx",
+    "saved_path": ".instructions/plans/plan011-svein-email-and-attachment-extraction/output/attachments/Inbox/8d63bc4f904e-Salgsrapport pr november 2022.xlsx",
+    "confidence": "medium",
+    "candidate_class": null,
+    "evidence_codes": [
+      "FILENAME_MATCH",
+      "FROM_EXACT"
+    ],
+    "sheet_count": 1,
+    "sheet_names": [
+      "Ark1"
+    ],
+    "first_sheet": {
+      "title": "Ark1",
+      "max_row": 59,
+      "max_column": 16,
+      "freeze_panes": null,
+      "merged_ranges": 4,
+      "sample_text_cells": [],
+      "appears_summary_like": false,
+      "contains_explanatory_text": false
+    },
+    "workbook_has_three_option_signal": false,
+    "workbook_labels_sample": [
+      {
+        "sheet": "Ark1",
+        "cell": "A1",
+        "text": "Salgsrapport pr mnd Definit AS 2022"
+      },
+      {
+        "sheet": "Ark1",
+        "cell": "A2",
+        "text": "November"
+      },
+      {
+        "sheet": "Ark1",
+        "cell": "B2",
+        "text": "Denne periode"
+      },
+      {
+        "sheet": "Ark1",
+        "cell": "F2",
+        "text": "Akkumulert"
+      },
+      {
+        "sheet": "Ark1",
+        "cell": "A3",
+        "text": "Varegruppe"
+      },
+      {
+        "sheet": "Ark1",
+        "cell": "B3",
+        "text": "Resultat"
+      },
+      {
+        "sheet": "Ark1",
+        "cell": "C3",
+        "text": "Budsjett"
+      },
+      {
+        "sheet": "Ark1",
+        "cell": "D3",
+        "text": "Avvik kr"
+      },
+      {
+        "sheet": "Ark1",
+        "cell": "E3",
+        "text": "Avvik %"
+      },
+      {
+        "sheet": "Ark1",
+        "cell": "F3",
+        "text": "Resultat"
+      },
+      {
+        "sheet": "Ark1",
+        "cell": "G3",
+        "text": "Budsjett"
+      },
+      {
+        "sheet": "Ark1",
+        "cell": "H3",
+        "text": "Avvik kr"
+      },
+      {
+        "sheet": "Ark1",
+        "cell": "I3",
+        "text": "Avvik %"
+      },
+      {
+        "sheet": "Ark1",
+        "cell": "A4",
+        "text": "10-Etablering"
+      },
+      {
+        "sheet": "Ark1",
+        "cell": "D4",
+        "text": "=B4-C4"
+      },
+      {
+        "sheet": "Ark1",
+        "cell": "E4",
+        "text": "=IFERROR(D4*100/C4,\"\")"
+      },
+      {
+        "sheet": "Ark1",
+        "cell": "H4",
+        "text": "=F4-G4"
+      },
+      {
+        "sheet": "Ark1",
+        "cell": "I4",
+        "text": "=IFERROR(H4*100/G4,\"\")"
+      },
+      {
+        "sheet": "Ark1",
+        "cell": "A5",
+        "text": "15-Lisenser"
+      },
+      {
+        "sheet": "Ark1",
+        "cell": "D5",
+        "text": "=B5-C5"
+      }
+    ],
+    "format_signals": {
+      "top_fill_colors": [
+        {
+          "color": "00000000",
+          "count": 131
+        },
+        {
+          "color": "theme:9",
+          "count": 8
+        },
+        {
+          "color": "theme:4",
+          "count": 8
+        },
+        {
+          "color": "theme:7",
+          "count": 2
+        }
+      ],
+      "bold_cell_count_scanned": 32,
+      "merged_range_count": 4,
+      "freeze_panes": []
+    }
+  },
+  {
+    "attachment_filename": "Vedlegg2 180923 Oversikt lisensinntekter til overføring Omnishop AS.xlsx",
+    "saved_path": ".instructions/plans/plan011-svein-email-and-attachment-extraction/output/attachments/Inbox/6f31c5146d19-Vedlegg2 180923 Oversikt lisensinntekter til overføring Omnishop AS.xlsx",
+    "confidence": "medium",
+    "candidate_class": null,
+    "evidence_codes": [
+      "FILENAME_MATCH",
+      "FROM_EXACT",
+      "THREAD_CONTEXT_MATCH"
+    ],
+    "sheet_count": 1,
+    "sheet_names": [
+      "Ark1"
+    ],
+    "first_sheet": {
+      "title": "Ark1",
+      "max_row": 29,
+      "max_column": 8,
+      "freeze_panes": null,
+      "merged_ranges": 6,
+      "sample_text_cells": [
+        {
+          "cell": "A1",
+          "text": "VEDLEGG 2 - LISENSINNTEKTER PR. 01 10 2023 VED OVERFØRING TIL OMNISHOP AS"
+        },
+        {
+          "cell": "B6",
+          "text": "101601 Omnishop Pos Anova ekstralisens mnd"
+        },
+        {
+          "cell": "B8",
+          "text": "201601 Omnishop Central lisens pr aktiv klient mnd"
+        },
+        {
+          "cell": "B15",
+          "text": "201603 Omnishop Central lisens pr aktiv klient"
+        }
+      ],
+      "appears_summary_like": true,
+      "contains_explanatory_text": true
+    },
+    "workbook_has_three_option_signal": false,
+    "workbook_labels_sample": [
+      {
+        "sheet": "Ark1",
+        "cell": "A1",
+        "text": "VEDLEGG 2 - LISENSINNTEKTER PR. 01 10 2023 VED OVERFØRING TIL OMNISHOP AS"
+      },
+      {
+        "sheet": "Ark1",
+        "cell": "A3",
+        "text": "Kunde"
+      },
+      {
+        "sheet": "Ark1",
+        "cell": "B3",
+        "text": "Vare"
+      },
+      {
+        "sheet": "Ark1",
+        "cell": "C3",
+        "text": "Pr. mnd. lisens"
+      },
+      {
+        "sheet": "Ark1",
+        "cell": "D3",
+        "text": "Antall"
+      },
+      {
+        "sheet": "Ark1",
+        "cell": "E3",
+        "text": "Beløp pr. mnd"
+      },
+      {
+        "sheet": "Ark1",
+        "cell": "F3",
+        "text": "Totalt år"
+      },
+      {
+        "sheet": "Ark1",
+        "cell": "G3",
+        "text": "Siste faktura"
+      },
+      {
+        "sheet": "Ark1",
+        "cell": "H3",
+        "text": "Første faktura"
+      },
+      {
+        "sheet": "Ark1",
+        "cell": "G4",
+        "text": "fra Definit"
+      },
+      {
+        "sheet": "Ark1",
+        "cell": "H4",
+        "text": "fra Omnishop"
+      },
+      {
+        "sheet": "Ark1",
+        "cell": "A5",
+        "text": "Sunkost"
+      },
+      {
+        "sheet": "Ark1",
+        "cell": "B5",
+        "text": "101501 Omnishop Pos Anova lisens mnd"
+      },
+      {
+        "sheet": "Ark1",
+        "cell": "E5",
+        "text": "=C5*D5"
+      },
+      {
+        "sheet": "Ark1",
+        "cell": "F5",
+        "text": "=E5*12"
+      },
+      {
+        "sheet": "Ark1",
+        "cell": "A6",
+        "text": "Sunkost"
+      },
+      {
+        "sheet": "Ark1",
+        "cell": "B6",
+        "text": "101601 Omnishop Pos Anova ekstralisens mnd"
+      },
+      {
+        "sheet": "Ark1",
+        "cell": "E6",
+        "text": "=C6*D6"
+      },
+      {
+        "sheet": "Ark1",
+        "cell": "F6",
+        "text": "=E6*12"
+      },
+      {
+        "sheet": "Ark1",
+        "cell": "A7",
+        "text": "Sunkost"
+      }
+    ],
+    "format_signals": {
+      "top_fill_colors": [
+        {
+          "color": "00000000",
+          "count": 104
+        },
+        {
+          "color": "theme:4",
+          "count": 16
+        },
+        {
+          "color": "FFFFFF00",
+          "count": 10
+        }
+      ],
+      "bold_cell_count_scanned": 26,
+      "merged_range_count": 6,
+      "freeze_panes": []
+    }
+  },
+  {
+    "attachment_filename": "051225 Nøkkeltall Plantedamp AS regnskap 311025.xlsx",
+    "saved_path": ".instructions/plans/plan011-svein-email-and-attachment-extraction/output/attachments/Inbox/f8adcf0e7c6d-051225 Nøkkeltall Plantedamp AS regnskap 311025.xlsx",
+    "confidence": "medium",
+    "candidate_class": null,
+    "evidence_codes": [
+      "FILENAME_MATCH",
+      "FROM_EXACT"
+    ],
+    "sheet_count": 2,
+    "sheet_names": [
+      "Resultat pr. 31 10 2025 ",
+      "Saldobalanse-31.10.2025"
+    ],
+    "first_sheet": {
+      "title": "Resultat pr. 31 10 2025 ",
+      "max_row": 69,
+      "max_column": 16,
+      "freeze_panes": null,
+      "merged_ranges": 18,
+      "sample_text_cells": [
+        {
+          "cell": "B11",
+          "text": "Frakt og toll ved mottak av råvarer og halvfabrikata"
+        },
+        {
+          "cell": "B14",
+          "text": "Frakt og toll ved mottak av varer for videresalg"
+        },
+        {
+          "cell": "B15",
+          "text": "Endring i varer for videresalg (kun varetelling)"
+        },
+        {
+          "cell": "B16",
+          "text": "Innleid arbeidskraft, fremmedytelse og underentreprenør"
+        },
+        {
+          "cell": "B20",
+          "text": "Arbeidsgiveravgift av påløpte feriepenger"
+        },
+        {
+          "cell": "B24",
+          "text": "Frakt, transportkostnad og forsikring ved utsending av varer"
+        },
+        {
+          "cell": "B36",
+          "text": "Bedriftens forbruksmateriell (ikke kontorrekvisita)"
+        },
+        {
+          "cell": "B39",
+          "text": "Advokat og juridisk bistand, med skattefradrag"
+        }
+      ],
+      "appears_summary_like": false,
+      "contains_explanatory_text": true
+    },
+    "workbook_has_three_option_signal": false,
+    "workbook_labels_sample": [
+      {
+        "sheet": "Resultat pr. 31 10 2025 ",
+        "cell": "C1",
+        "text": "=C69"
+      },
+      {
+        "sheet": "Resultat pr. 31 10 2025 ",
+        "cell": "D1",
+        "text": "=D69"
+      },
+      {
+        "sheet": "Resultat pr. 31 10 2025 ",
+        "cell": "E1",
+        "text": "=E69"
+      },
+      {
+        "sheet": "Resultat pr. 31 10 2025 ",
+        "cell": "G1",
+        "text": "=G69"
+      },
+      {
+        "sheet": "Resultat pr. 31 10 2025 ",
+        "cell": "H1",
+        "text": "=H69"
+      },
+      {
+        "sheet": "Resultat pr. 31 10 2025 ",
+        "cell": "I1",
+        "text": "=I69"
+      },
+      {
+        "sheet": "Resultat pr. 31 10 2025 ",
+        "cell": "J1",
+        "text": "=J69"
+      },
+      {
+        "sheet": "Resultat pr. 31 10 2025 ",
+        "cell": "K1",
+        "text": "=K69"
+      },
+      {
+        "sheet": "Resultat pr. 31 10 2025 ",
+        "cell": "L1",
+        "text": "=L69"
+      },
+      {
+        "sheet": "Resultat pr. 31 10 2025 ",
+        "cell": "M1",
+        "text": "=M69"
+      },
+      {
+        "sheet": "Resultat pr. 31 10 2025 ",
+        "cell": "N1",
+        "text": "=N69"
+      },
+      {
+        "sheet": "Resultat pr. 31 10 2025 ",
+        "cell": "O1",
+        "text": "=O69"
+      },
+      {
+        "sheet": "Resultat pr. 31 10 2025 ",
+        "cell": "P1",
+        "text": "=P69"
+      },
+      {
+        "sheet": "Resultat pr. 31 10 2025 ",
+        "cell": "A3",
+        "text": "Driftsinntekter"
+      },
+      {
+        "sheet": "Resultat pr. 31 10 2025 ",
+        "cell": "C3",
+        "text": "Denne perioden"
+      },
+      {
+        "sheet": "Resultat pr. 31 10 2025 ",
+        "cell": "D3",
+        "text": "Forrige periode"
+      },
+      {
+        "sheet": "Resultat pr. 31 10 2025 ",
+        "cell": "E3",
+        "text": "Endring"
+      },
+      {
+        "sheet": "Resultat pr. 31 10 2025 ",
+        "cell": "G3",
+        "text": "Jan. 2025"
+      },
+      {
+        "sheet": "Resultat pr. 31 10 2025 ",
+        "cell": "H3",
+        "text": "Feb. 2025"
+      },
+      {
+        "sheet": "Resultat pr. 31 10 2025 ",
+        "cell": "I3",
+        "text": "Mars 2025"
+      }
+    ],
+    "format_signals": {
+      "top_fill_colors": [
+        {
+          "color": "00000000",
+          "count": 1410
+        },
+        {
+          "color": "FFFFFF00",
+          "count": 20
+        }
+      ],
+      "bold_cell_count_scanned": 151,
+      "merged_range_count": 18,
+      "freeze_panes": []
+    }
+  },
+  {
+    "attachment_filename": "090126 Analyse PD AS og GRO PRO AS fra 2022 til 2025 oppdatert.xlsx",
+    "saved_path": ".instructions/plans/plan011-svein-email-and-attachment-extraction/output/attachments/Inbox/9a690aa350a6-090126 Analyse PD AS og GRO PRO AS fra 2022 til 2025 oppdatert.xlsx",
+    "confidence": "medium",
+    "candidate_class": null,
+    "evidence_codes": [
+      "FILENAME_MATCH",
+      "FROM_EXACT",
+      "THREAD_CONTEXT_MATCH"
+    ],
+    "sheet_count": 4,
+    "sheet_names": [
+      "MOT OPPRINNELIGE TALL ",
+      "NØKKELTALL OVERORDNET AVTALE ",
+      "PLANTEDAMP AS 2022-2025",
+      "GRO PRO AS 2024 OG 2025 "
+    ],
+    "first_sheet": {
+      "title": "MOT OPPRINNELIGE TALL ",
+      "max_row": 24,
+      "max_column": 12,
+      "freeze_panes": null,
+      "merged_ranges": 9,
+      "sample_text_cells": [
+        {
+          "cell": "G13",
+          "text": "='GRO PRO AS 2024 OG 2025 '!H12+'GRO PRO AS 2024 OG 2025 '!H13"
+        },
+        {
+          "cell": "C14",
+          "text": "='NØKKELTALL OVERORDNET AVTALE '!E14+'NØKKELTALL OVERORDNET AVTALE '!F14"
+        },
+        {
+          "cell": "A17",
+          "text": "1. Faktura fra PD til GP vedrørende overføring av lager er hensynstatt ."
+        },
+        {
+          "cell": "A18",
+          "text": "2. Har også avsatt for ytterligere overføring av lager fra PD til GP, Kr 55 000,-"
+        },
+        {
+          "cell": "A19",
+          "text": "3. Har fjernet ukurans nedskriving i begge lagre ref. samtale"
+        },
+        {
+          "cell": "A20",
+          "text": "4. Netto mellomværende er nå oppdatert ti lKr 194 617,- . Har lagt på Kr 55 000,- i overføring lager som ikke er fakturert fra PD mot GP . Må faktureres . Er med i telling GP , er "
+        }
+      ],
+      "appears_summary_like": true,
+      "contains_explanatory_text": true
+    },
+    "workbook_has_three_option_signal": false,
+    "workbook_labels_sample": [
+      {
+        "sheet": "MOT OPPRINNELIGE TALL ",
+        "cell": "A1",
+        "text": "='NØKKELTALL OVERORDNET AVTALE '!A2"
+      },
+      {
+        "sheet": "MOT OPPRINNELIGE TALL ",
+        "cell": "B1",
+        "text": "AU ESTIMAT"
+      },
+      {
+        "sheet": "MOT OPPRINNELIGE TALL ",
+        "cell": "C1",
+        "text": "SISTE REGNSKAP"
+      },
+      {
+        "sheet": "MOT OPPRINNELIGE TALL ",
+        "cell": "D1",
+        "text": "AVVIK"
+      },
+      {
+        "sheet": "MOT OPPRINNELIGE TALL ",
+        "cell": "E1",
+        "text": "%"
+      },
+      {
+        "sheet": "MOT OPPRINNELIGE TALL ",
+        "cell": "F1",
+        "text": "AU ESTIMAT"
+      },
+      {
+        "sheet": "MOT OPPRINNELIGE TALL ",
+        "cell": "G1",
+        "text": "SISTE REGNSKAP"
+      },
+      {
+        "sheet": "MOT OPPRINNELIGE TALL ",
+        "cell": "H1",
+        "text": "AVVIK"
+      },
+      {
+        "sheet": "MOT OPPRINNELIGE TALL ",
+        "cell": "I1",
+        "text": "%"
+      },
+      {
+        "sheet": "MOT OPPRINNELIGE TALL ",
+        "cell": "B2",
+        "text": "PLANTEDAMP"
+      },
+      {
+        "sheet": "MOT OPPRINNELIGE TALL ",
+        "cell": "C2",
+        "text": "PLANTEDAMP"
+      },
+      {
+        "sheet": "MOT OPPRINNELIGE TALL ",
+        "cell": "E2",
+        "text": "Endring"
+      },
+      {
+        "sheet": "MOT OPPRINNELIGE TALL ",
+        "cell": "F2",
+        "text": "GRO PRO"
+      },
+      {
+        "sheet": "MOT OPPRINNELIGE TALL ",
+        "cell": "G2",
+        "text": "GRO PRO"
+      },
+      {
+        "sheet": "MOT OPPRINNELIGE TALL ",
+        "cell": "I2",
+        "text": "Endring"
+      },
+      {
+        "sheet": "MOT OPPRINNELIGE TALL ",
+        "cell": "J2",
+        "text": "KOMMENTARER"
+      },
+      {
+        "sheet": "MOT OPPRINNELIGE TALL ",
+        "cell": "A3",
+        "text": "RESULTAT"
+      },
+      {
+        "sheet": "MOT OPPRINNELIGE TALL ",
+        "cell": "A5",
+        "text": "INNTEKTER"
+      },
+      {
+        "sheet": "MOT OPPRINNELIGE TALL ",
+        "cell": "C5",
+        "text": "='PLANTEDAMP AS 2022-2025'!O2"
+      },
+      {
+        "sheet": "MOT OPPRINNELIGE TALL ",
+        "cell": "D5",
+        "text": "=C5-B5"
+      }
+    ],
+    "format_signals": {
+      "top_fill_colors": [
+        {
+          "color": "00000000",
+          "count": 2393
+        },
+        {
+          "color": "theme:0",
+          "count": 150
+        },
+        {
+          "color": "theme:5",
+          "count": 88
+        },
+        {
+          "color": "theme:4",
+          "count": 41
+        },
+        {
+          "color": "FFFFFF00",
+          "count": 29
+        },
+        {
+          "color": "theme:6",
+          "count": 10
+        }
+      ],
+      "bold_cell_count_scanned": 698,
+      "merged_range_count": 39,
+      "freeze_panes": []
+    }
+  },
+  {
+    "attachment_filename": "060126 Analyse PD AS og GRO PRO AS fra 2022 til 2025.xlsx",
+    "saved_path": ".instructions/plans/plan011-svein-email-and-attachment-extraction/output/attachments/Trash/32c3bc0ef77e-060126 Analyse PD AS og GRO PRO AS fra 2022 til 2025.xlsx",
+    "confidence": "medium",
+    "candidate_class": null,
+    "evidence_codes": [
+      "FILENAME_MATCH",
+      "FROM_EXACT"
+    ],
+    "sheet_count": 3,
+    "sheet_names": [
+      "NØKKELTALL OVERORDNET AVTALE ",
+      "PLANTEDAMP AS 2022-2025",
+      "GRO PRO AS 2024 OG 2025 "
+    ],
+    "first_sheet": {
+      "title": "NØKKELTALL OVERORDNET AVTALE ",
+      "max_row": 36,
+      "max_column": 18,
+      "freeze_panes": null,
+      "merged_ranges": 16,
+      "sample_text_cells": [
+        {
+          "cell": "R4",
+          "text": "Stor skjevdeling av innskutt kapital og lån til selskapene"
+        },
+        {
+          "cell": "R5",
+          "text": "Ingen har tatt ut lønn i selskapene fra etablering. Skal tema arbeidsinnsats inn i vurdering"
+        },
+        {
+          "cell": "R6",
+          "text": "Programvare NETTBUTIKKER . Tema bør løftes . PD har hatt minimale kostnader her AU har levert GRO PRO har tatt all kost over driften"
+        },
+        {
+          "cell": "R7",
+          "text": "Skal etablert omsetning og markedsposisjoner tas inn i vurdering"
+        },
+        {
+          "cell": "R8",
+          "text": "GRO PRO sitt regnskap før 2024 er feil, ikke bygget inn varebeholding 31 12 2024"
+        },
+        {
+          "cell": "R9",
+          "text": "Innlån fra aksjonærer bør vurderes konvertert til egenkapital , vil da spare finansielle kostnader ."
+        },
+        {
+          "cell": "R10",
+          "text": "Det vil være behov for mer arbeidskapital i selskapene for å kunne ta dette videre ."
+        },
+        {
+          "cell": "R11",
+          "text": "Roller, avlønning i selskapene. Når vil selskapene har evne til å betale lønn for arbeidsinnsats fra aksjonærene"
+        }
+      ],
+      "appears_summary_like": false,
+      "contains_explanatory_text": true
+    },
+    "workbook_has_three_option_signal": false,
+    "workbook_labels_sample": [
+      {
+        "sheet": "NØKKELTALL OVERORDNET AVTALE ",
+        "cell": "A1",
+        "text": "GRUNNLAG INTERN PRISING AKSJER"
+      },
+      {
+        "sheet": "NØKKELTALL OVERORDNET AVTALE ",
+        "cell": "B1",
+        "text": "NØKKELTALL SELSKAPER PR. 31 12 2025"
+      },
+      {
+        "sheet": "NØKKELTALL OVERORDNET AVTALE ",
+        "cell": "H1",
+        "text": "ANDEL AV NØKKELTALL"
+      },
+      {
+        "sheet": "NØKKELTALL OVERORDNET AVTALE ",
+        "cell": "K1",
+        "text": "PRISING BASERT PÅ 1/3"
+      },
+      {
+        "sheet": "NØKKELTALL OVERORDNET AVTALE ",
+        "cell": "N1",
+        "text": "1/3 PD"
+      },
+      {
+        "sheet": "NØKKELTALL OVERORDNET AVTALE ",
+        "cell": "O1",
+        "text": "1/3 GP"
+      },
+      {
+        "sheet": "NØKKELTALL OVERORDNET AVTALE ",
+        "cell": "P1",
+        "text": "1/3 TOTALT"
+      },
+      {
+        "sheet": "NØKKELTALL OVERORDNET AVTALE ",
+        "cell": "B3",
+        "text": "PLANTEDAMP"
+      },
+      {
+        "sheet": "NØKKELTALL OVERORDNET AVTALE ",
+        "cell": "C3",
+        "text": "GRO PRO"
+      },
+      {
+        "sheet": "NØKKELTALL OVERORDNET AVTALE ",
+        "cell": "D3",
+        "text": "TOTALT"
+      },
+      {
+        "sheet": "NØKKELTALL OVERORDNET AVTALE ",
+        "cell": "E3",
+        "text": "Anders"
+      },
+      {
+        "sheet": "NØKKELTALL OVERORDNET AVTALE ",
+        "cell": "F3",
+        "text": "Yadgar"
+      },
+      {
+        "sheet": "NØKKELTALL OVERORDNET AVTALE ",
+        "cell": "G3",
+        "text": "Mitchell"
+      },
+      {
+        "sheet": "NØKKELTALL OVERORDNET AVTALE ",
+        "cell": "H3",
+        "text": "Anders"
+      },
+      {
+        "sheet": "NØKKELTALL OVERORDNET AVTALE ",
+        "cell": "I3",
+        "text": "Yadgar"
+      },
+      {
+        "sheet": "NØKKELTALL OVERORDNET AVTALE ",
+        "cell": "J3",
+        "text": "Mitchell"
+      },
+      {
+        "sheet": "NØKKELTALL OVERORDNET AVTALE ",
+        "cell": "K3",
+        "text": "Anders"
+      },
+      {
+        "sheet": "NØKKELTALL OVERORDNET AVTALE ",
+        "cell": "L3",
+        "text": "Yadgar"
+      },
+      {
+        "sheet": "NØKKELTALL OVERORDNET AVTALE ",
+        "cell": "M3",
+        "text": "Mitchell"
+      },
+      {
+        "sheet": "NØKKELTALL OVERORDNET AVTALE ",
+        "cell": "Q3",
+        "text": "TEMA"
+      }
+    ],
+    "format_signals": {
+      "top_fill_colors": [
+        {
+          "color": "00000000",
+          "count": 2317
+        },
+        {
+          "color": "theme:0",
+          "count": 149
+        },
+        {
+          "color": "theme:5",
+          "count": 79
+        },
+        {
+          "color": "theme:4",
+          "count": 41
+        },
+        {
+          "color": "FFFFFF00",
+          "count": 25
+        },
+        {
+          "color": "theme:6",
+          "count": 6
+        }
+      ],
+      "bold_cell_count_scanned": 682,
+      "merged_range_count": 30,
+      "freeze_panes": []
+    }
+  }
+]

@@ -1,0 +1,23 @@
+message_id:  <OLAP279MB021647C6376D39EDC7106022C8ED9@OLAP279MB0216.NORP279.PROD.OUTLOOK.COM>
+source_path: reference/mailbox-anders-plantedamp/Inbox/cur/1774229760.210405_48.tp-anders,U=48:2,S
+mailbox_folder: Inbox
+top_level_from: Svein Skorpen <svein@byrknes.no>
+fragment_id: f001
+fragment_type: direct_primary
+confidence: high
+evidence_codes: FROM_EMAIL_MATCH, FROM_EXACT, FROM_NAME_MATCH
+
+## PRIMARY_TEXT
+Vel overstått julefeiring , Anders !
+
+Jeg har dradd på meg en kraftig forkjølelse i julen. Jeg foreslår at vi tar neste oppfølgingssamtale torsdag over nyttår . Jeg skal til da ha et utkast til regnskap for 2022 klart , eks. varelager. Hvis du kan lage en oppstilling over varelager og sende dette til meg så hadde det vært fint, Anders !
+
+Ønsker deg et godt nyttår, Anders og så skal det bli spennende å se utvikling for Plantedamp AS inn i 2023 .
+
+
+Mvh
+
+Svein Skorpen
+
+Email: svein@byrknes.no<mailto:svein@byrknes.no>
+Telefon:  48281280

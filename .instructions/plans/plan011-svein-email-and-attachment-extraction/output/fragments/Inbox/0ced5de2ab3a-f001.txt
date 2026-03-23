@@ -1,0 +1,320 @@
+message_id:  <OS5P279MB07446795A5BB9783657E6C27C8A7A@OS5P279MB0744.NORP279.PROD.OUTLOOK.COM>
+source_path: reference/mailbox-anders-plantedamp/Inbox/cur/1774229800.210405_1879.tp-anders,U=1879:2,RS
+mailbox_folder: Inbox
+top_level_from: Svein Skorpen <svein@byrknes.no>
+fragment_id: f001
+fragment_type: direct_primary
+confidence: high
+evidence_codes: FROM_EMAIL_MATCH, FROM_EXACT, FROM_NAME_MATCH, QUOTED_CONTEXT_PRESENT
+
+## PRIMARY_TEXT
+Hei , Anders !
+
+Ref. samtale tidligere i uken .
+
+Jeg ber dere om følgende informasjon og dokumentasjon . Når dette foreligger så tar vi et møte , Anders. Først du og jeg og deretter et felles møte med alle parter . Det å lage
+Selve avtaleverket skal være fort gjort, men vi må ha et best mulig grunnlag for inngang til avtaleverket .
+
+Svein
+
+
+Plantedamp AS
+
+
+  *   Et mest mulig riktig regnskap pr. 31 10 2025
+  *   Jeg har tatt ut resultat og saldobalanse 31 10 2025 nå .
+  *   De tall som her fremkommer avviker vesentlig i forhold til de estimater du har oppgitt i din første email .
+  *   Regnskapet bør være noenlunde riktig . Banker bør være avstemt og varelager bør telles og telleresultat dokumenteres og bokføres .
+  *   Innlån fra dere som aksjonærer må bekreftes av hver av dere .
+  *   Du har et vesentlig større innlån enn Yadgar , hva gjør vi med dette . Det må lages klare låneavtaler med balanserte betingelser for rente og nedbetaling.
+  *   Hva tenker du rundt skjevdeling innlån , når dere nå skal eier gjensidig med 1/3 hver i begge selskaper .
+  *   Dere må iverksette arbeidet med rydde i reskontroene .
+  *   Allerede flyttet varebeholdning mellom selskapene må faktureres begge veier til betingelser som er akseptert av partene.
+  *   Varelager bør telles og dokumenteres og godkjennes gjensidig av partene.
+
+Gro Pro AS
+
+
+  *   Jeg ønsker et oppdatert regnskap pr. 31 10 2025
+  *   Tilsvarende oppdatert varelager
+  *   Bekreftelse av innbetalt egenkapital og innlån fra aksjonær
+  *   Varelager bør telles og dokumenteres og godkjennes gjensidig av partene.
+  *   Allerede flyttet varebeholdning mellom selskapene må faktureres begge veier til betingelser som er akseptert av partene.
+  *   Varelager bør telles og dokumenteres og godkjennes gjensidig av partene.
+
+## QUOTED_CONTEXT
+Fra: Anders Ulveseth <anders.ulveseth@plantedamp.no>
+Sendt: fredag 24. oktober 2025 16:21
+Til: Svein Skorpen <svein@byrknes.no>
+Kopi: yadgar@plantedamp.no; mitch@plantedamp.no
+Emne: Aksjeutveksling - Gro Pro AS og Plantedamp AS
+
+
+Fremdrift:
+
+Innledende møte(r) uten meg.
+
+Svein tar kontakt med Yadgar og Mitch i neste uke (27.10. - 31.10.) for å avtale møte.
+
+Forhåpentligvis kan dere tre avholde innledende møte innen 1-2 uker.
+
+
+
+Forutsetninger (sånn cirka)
+
+Plantedamp AS
+
+  *   omsetning på ca. 2.5 MNOK i 2025.
+  *   utgang av 2025: EK på ca. 400 000 NOK,
+  *   utgang av 2025: gjeld til eiere på ca. 600 000
+  *   ingen annen langsiktig gjeld
+  *   Varelager på ca. 1MNOK.
+
+
+
+Gro Pro AS
+
+  *   omsetning på ca. 700 000,- i 2025.
+  *   utgang av 2025: EK på ca. 700 000,-
+  *   utgang av 2025: gjeld til eiere på ca. 50 000
+  *   ingen annen langsiktig gjeld
+  *   utgang av 2025: Varelager på ca.700 000
+
+
+
+Eierandeler - Før og etter transaksjon
+
+Før
+Etter
+
+Gro Pro AS
+Plantedamp AS
+Gro Pro AS
+Plantedamp AS
+Mitch
+100%
+0%
+1 / 3
+1 / 3
+Anders
+0%
+50%
+1 / 3
+1 / 3
+Yadgar
+0%
+50%
+1 / 3
+1 / 3
+
+Tanken er at ingen penger skifter hender. Mitch betaler det samme til Yadgar og Anders som de betaler til Mitch.
+
+Forhåpentligvis utløser dette ikke skatt for noen av partene eller selskapene.
+
+Planen er at en del varelager skal overføres fra Plantedamp til Gro Pro. En del omsetning (faste storkunder, stort sett de som betaler kontant) skal flyttes samme vei. Tror Y og M er i gang i med dette nå. :)
+
+
+
+Hva trenger vi hjelp til
+
+  *   Rådgivning rundt, og utforming av, aksjonæravtale for begge selskapene
+  *   Rådgivning rundt hvordan best gjennomføre transaksjonene.
+  *   Skrive avtaler som er nødvendige for å gjennomføre transaksjonene. (Kjøp/bytte av aksjer)
+  *   Rådgivning rundt, og gjerne utføre, det som må rapporteres inn (styre, vedtekter, aksjonærer, etc.)
+  *   Hvis det er noe mer vet du det bedre enn meg. :)
+
+
+
+Rammer
+
+Gi beskjed når/hvis du tror dette overstiger 50 timer.
+
+(Jeg antar du nå tenker du at det kan ordnes på 5 timer, men jeg antar at når/hvis du begynner samtaler med Yadgar og Mitch vil ting balle litt på seg.)
+
+
+--
+Anders Ulveseth
+Daglig leder | Plantedamp AS
+Tlf: +47 454 01 840
+www.plantedamp.no<http://www.plantedamp.no>
+
+
+
+Hi
+I have attached all of the requested info please let me know if you require anything more.
+
+
+Med vennlig hilsen
+Mitchell Benson
+
+PLANTEDAMP AS
+Nattlandsveien 89, 5094  BERGEN
+Org num: 930 078 158
+
+Tel:55 31 00 00 (mandag-fredag, kl. 11-17)
+Mobile:+4740727027
+Email:Mitch@plantedamp.no
+Web:plantedamp.no
+
+
+
+
+
+Takk for info med referanse til vår samtale tidligere i dag .
+
+
+
+Takk for et ryddig oppsett, Anders !
+
+
+
+Som signalisert til deg så har jeg det litt stramt i neste uke , men påfølgende uke skal vi se om jeg ikke får tid til å utarbeide formalia og ta en samtale
+
+med Yadgar og Mitch. Om nødvendig så innkaller vi deg til et Teams møte for å låse formalia .
+
+
+
+Dere hører fra meg !
+
+
+
+Obs:   Mht. timeforbruk så er dette i utgangspunktet et enkelt case. Det som kan ta noe tid er utarbeidelse av selve aksjonæravtalene , da litt avhengig av hvor mye dere skal ha inn i avtalen . Jeg vil uansett ikke
+
+Bruke 50 timer på den jobb som er beskrevet under, vil anta at nivå vil ligge på 20 timer , da litt avhengig av tidsforbruk rundt aksjonæravtalen/ene . Jeg vil ta utgangspunkt i en standard mal for aksjonæravtale med sjekkliste som jeg
+
+sender til dere i løpet av helgen, så kan dere lese og tenke og komme med innput til avtaler når dere har tid . Jo mer input fra dere, jo enklere er jobben for meg. Foreslå at vi går for en enkel aksjonæravtale, men med de viktige/viktigste elementer
+
+basert på deres ønsker og min erfaring.
+
+
+
+Dere hører fra meg mht. til informasjonsbehov fra min side for å komme med forslag til formalia.
+
+
+
+Svein
+
+
+
+
+
+Fra: Anders Ulveseth <anders.ulveseth@plantedamp.no>
+Sendt: fredag 24. oktober 2025 16:21
+Til: Svein Skorpen <svein@byrknes.no>
+Kopi: yadgar@plantedamp.no; mitch@plantedamp.no
+Emne: Aksjeutveksling - Gro Pro AS og Plantedamp AS
+
+
+
+Fremdrift:
+
+Innledende møte(r) uten meg.
+
+Svein tar kontakt med Yadgar og Mitch i neste uke (27.10. - 31.10.) for å avtale møte.
+
+Forhåpentligvis kan dere tre avholde innledende møte innen 1-2 uker.
+
+
+
+Forutsetninger (sånn cirka)
+
+Plantedamp AS
+
+*       omsetning på ca. 2.5 MNOK i 2025.
+*       utgang av 2025: EK på ca. 400 000 NOK,
+*       utgang av 2025: gjeld til eiere på ca. 600 000
+*       ingen annen langsiktig gjeld
+*       Varelager på ca. 1MNOK.
+
+
+
+Gro Pro AS
+
+*       omsetning på ca. 700 000,- i 2025.
+*       utgang av 2025: EK på ca. 700 000,-
+*       utgang av 2025: gjeld til eiere på ca. 50 000
+*       ingen annen langsiktig gjeld
+*       utgang av 2025: Varelager på ca.700 000
+
+
+
+Eierandeler - Før og etter transaksjon
+
+
+
+Før
+
+Etter
+
+
+
+Gro Pro AS
+
+Plantedamp AS
+
+Gro Pro AS
+
+Plantedamp AS
+
+Mitch
+
+100%
+
+0%
+
+1 / 3
+
+1 / 3
+
+Anders
+
+0%
+
+50%
+
+1 / 3
+
+1 / 3
+
+Yadgar
+
+0%
+
+50%
+
+1 / 3
+
+1 / 3
+
+Tanken er at ingen penger skifter hender. Mitch betaler det samme til Yadgar og Anders som de betaler til Mitch.
+
+Forhåpentligvis utløser dette ikke skatt for noen av partene eller selskapene.
+
+Planen er at en del varelager skal overføres fra Plantedamp til Gro Pro. En del omsetning (faste storkunder, stort sett de som betaler kontant) skal flyttes samme vei. Tror Y og M er i gang i med dette nå. :)
+
+
+
+Hva trenger vi hjelp til
+
+*       Rådgivning rundt, og utforming av, aksjonæravtale for begge selskapene
+*       Rådgivning rundt hvordan best gjennomføre transaksjonene.
+*       Skrive avtaler som er nødvendige for å gjennomføre transaksjonene. (Kjøp/bytte av aksjer)
+*       Rådgivning rundt, og gjerne utføre, det som må rapporteres inn (styre, vedtekter, aksjonærer, etc.)
+*       Hvis det er noe mer vet du det bedre enn meg. :)
+
+
+
+Rammer
+
+Gi beskjed når/hvis du tror dette overstiger 50 timer.
+
+(Jeg antar du nå tenker du at det kan ordnes på 5 timer, men jeg antar at når/hvis du begynner samtaler med Yadgar og Mitch vil ting balle litt på seg.)
+
+
+
+--
+
+Anders Ulveseth
+Daglig leder | Plantedamp AS
+Tlf: +47 454 01 840
+www.plantedamp.no<http://www.plantedamp.no>

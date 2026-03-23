@@ -1,0 +1,63 @@
+message_id:  <OLAP279MB02167E3BE2509CF6BBFB6491C8FBA@OLAP279MB0216.NORP279.PROD.OUTLOOK.COM>
+source_path: reference/mailbox-anders-plantedamp/Inbox/cur/1774229771.210405_477.tp-anders,U=477:2,PS
+mailbox_folder: Inbox
+top_level_from: Svein Skorpen <svein@byrknes.no>
+fragment_id: f001
+fragment_type: quoted_context
+confidence: medium
+evidence_codes: QUOTED_CONTEXT_PRESENT
+
+## TEXT
+Fra: Svein Skorpen
+Sendt: mandag 18. september 2023 09:09
+Til: anders@definit.no; Frode Kronstad <Frode@definit.no>
+Kopi: sveinove@fueled.no
+Emne: Utkast til avtale og formalia
+
+Hei på dere !
+Beklager at dette har tatt sin tid .
+Som dere er kjent med så har jeg periodisk en evne til å ta på meg litt for mye . Dette går som oftest greit og jeg leverer som oftest innen frist /helst i forkant, men denne gang kom jeg på hela i forhold til det arbeid jeg tok på meg for dere . Ref. bakteppe i saken så må jeg si at dette er et litt vanskelig case for meg å håndtere.
+Nok om forklaringer og unnskyldninger og tilbake til case.
+Vedlagt følger :
+
+  1.  Utkast til avtale om overføring av rettigheter
+  2.  Utkast til sluttavtale Anders
+  3.  Utkast til formalia Definit AS
+  4.  Utkast til formalia Omnishop AS
+Det er lagt opp til 6 vedlegg i avtale om overføring av rettigheter.
+
+Jeg ønsker at dere jobber videre med innhenting og utarbeidelse av disse vedlegg. Har lagt til et utkast til VEDLEGG 2. Er her usikker på tall , dette korrigeres av dere ved oppdatering av vedlegg 2 .
+
+
+  *   Vedlegg 1- Kopi av etablerte lisensavtaler med sluttkunder
+  *   Vedlegg 2- Oversikt over løpende lisensinntekter som overføres.
+  *   Vedlegg  3- Tillegg til eksisterende lisensavtaler - Omnishop AS
+  *   Vedlegg  4- Ansvar og forpliktelser ifm. kasselov.
+  *   Vedlegg  5 - Utstyr som bestilles, betales og overføres fra Definit til Omnishop
+  *   Vedlegg  6 - TO -DO liste før og etter signering av avtale.
+
+Formalia ved gjennomføring av transaksjon
+
+Jeg har lagt opp til at avtalene gjennomføres fra og med økonomisk av avtalemessig virkning fra 01 10 2023.Det ligges opp til at det avholdes styremøter og EOG i OS den 25.september 2023 .  Vi har da nå en uke for å få på plass formalia og enes om en endeligavtale.
+
+Jeg foreslår at dere nå ser igjennom oppdatert utkast til avtaleverk og at vi tar en møte i slutten av uken, hvor Anders, Frode og jeg deltar. Hvis Svein Ove også ønsker å delta i møte, så tror jeg at det kan være greit for å sikre fremdrift.
+
+Viktig fokus blir da nå å få ferdigstilt vedlegg og da spesielt vedlegg 4,5,6 . Mht. vedlegg 1,2,3 så burde dette være greit . Spesielt vedlegg 4 er viktig å få avklart og dokumentert . Tenker her på det ansvar som Partene hver for seg og i felleskap har ansvar for ifm. kassalov og da også hvilket ansvar som
+ligger hos /er overført til kunde/kjede. Tenker her spesielt på avtalen med Sunkost.  Vedlegg 6 er greit å få laget da det er en del ting som skal på plass før signering og etter signering .
+
+Målet bør da være å få avklart alle uavklarte forhold og foreta nødvendige tilpasninger i avtaleverket i og etter møte i slutten av uken.  Jeg har anledning til å delta i møte både på torsdag og fredag . Dere finner tidspunkt for møte. Sikkert fornuftig at vi da treffes fysisk og tar ting rundt bordet . Kom med forslag til tid og sted .
+
+Balanse/ubalanse i utkast
+
+Som tidligere signalisert så ønsker jeg ikke å ha sterke personlige meninger om den avtale som nå skal etableres mellom Partene. Jeg har tatt på meg et oppdrag etter Anders sitt ønske og som er forankret hos Frode /styre i Definit AS . Avtalen slik den fremstår p.t. kan fremstå som noe ubalansert . Det må nå være opp til Partene( representert ved Anders og Frode , med bidrag og innspill fra meg og Svein Ove og få frem ønsket balanse i avtaleverket.  Partene har ansvar hver for seg og i felleskap og få med alle viktige punkter i hovedavtalen om overføring av rettigheter.
+
+Vi kan her velge å jobbe frem en avtale som blir veldig detaljert mht. ansvar og forpliktelser, men Partene er i innledende samtaler å lage en enklest mulig avtale og jeg har bygget videre på dette ønske.
+
+Det er nå brukt meget lang tid på å komme frem til dette utkast . Jeg ber alle parter nå prioritere ferdigstillelse av dette, da jeg tror det nå er viktig å komme videre. Det er p.t. en slitasje hos Partene rundt dette og jeg tror at det nå er på sin plass å få dette i boks . Oppfatter dere at dere i stor grad er enige og bruk nå denne uke på å få dette i boks.
+
+Mvh
+
+Svein Skorpen
+
+Email: svein@byrknes.no<mailto:svein@byrknes.no>
+Telefon:  48281280

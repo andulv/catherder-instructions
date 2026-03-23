@@ -1,0 +1,104 @@
+message_id: <71AE2335-AA42-4523-BCF4-F64220656495@plantedamp.no>
+source_path: reference/mailbox-anders-plantedamp/Inbox/cur/1774229762.210405_180.tp-anders,U=180:2,S
+mailbox_folder: Inbox
+top_level_from: Yadgar Plantedamp AS <yadgar@plantedamp.no>
+fragment_id: f001
+fragment_type: forwarded_svein
+confidence: high
+evidence_codes: FORWARDED_FROM_MATCH
+
+## TEXT
+-------- Forwarded Message --------
+Subject:
+Oppsummering og videre fremdrift Fiken 2022-2023
+Date:
+Tue, 14 Feb 2023 06:31:33 +0000
+From:
+Svein Skorpen
+To:
+Anders Ulveseth ,
+Yadgar Plantedamp AS
+God morgen til dere !
+Takk for en god og lang økt i går. Jeg er
+som signalisert imponert over hvordan du håndterte dette,
+Yadgar og jeg er trygg på at du vil håndtere løpende
+regnskapsførsel for Plantedamp AS på en glimrende måte, med
+litt bistand fra Anders og meg
+når det dukker opp spesielle saker og ifm.
+avslutning og løpende rapportering .
+Fremdrift
+Avslutning
+av 2022
+Vi må
+bokføre varebeholdning 31 12 2022 . Anders ligger ut bilag
+for varebeholding 31 12 2022 i Innboks.
+Periodisering
+varekjøp 31 12 2022 . Mener at det var en faktura hvor varer
+ble registrert inn på lager 31 12 2022, men hvor faktura er
+datert 2023 ?
+Avstemming
+av utlegg Anders – Anders går igjennom bokførte utlegg mot
+hans utleggskjema . Anders finner manglende bilag og sender
+disse til innboks eller lasert disse opp til innboks –
+Yadgar bokfører disse fortløpende .
+Moms 2022 .
+Vi sender inn en momsoppgave for tilbakegående avgift, dvs.
+fra 2022 – sendes inn senest 10.april 2023 .
+Vi tar et
+nytt møte medio mars 2023 , hvor vi avslutter 2022 og får
+sendt inn skattemelding og regnskap til Foretaksregisteret .
+Løpende
+regnskapsføring 2023
+Yadgar
+etablerer gode rutiner for løpende regnskapsførsel i
+sammen med Anders.
+Løpende
+bokføring av kostnader
+Løpende
+bokføring av salg /kassaoppgjør
+Løpende
+rutiner for betaling av kostnader, hvem betaler og
+godkjenner, dere enes om dette. Manuell betaling av bank
+fase 1, før vi sitter opp integrasjon mot SPV .
+Yadgar
+bokfører alle bilag fortløpende. Bilag som han er usikker på
+avklares med Anders før bokføring , eventuelt med
+undertegnede hvis Anders også er usikker om føring .
+Vi tar et
+nytt møte medio mars ( samme møte som for avslutning 2022
+) hvor målet er :
+Ajourføre
+regnskaper pr. februar 2023 , for 1 termin 2023 .
+Sende inn
+momsoppgave for 1 termin 2023 via Fiken til Alt inn
+direkte. Vi setter opp integrasjon Fiken/Alt inn i sammen
+.
+Rutiner
+for månedlig oppdatering av varebeholdning i Fiken. AU tar
+ut varebeholdning månedlig ved utløp måned og ligger liste
+ut i innboks. Yadgar og Svein bokfører
+beholdningsendringer i sammen første gang , 31.01 og 28.02
+2023.
+Gjennomgang
+av regnskapsrapporter, for å etablere en bedre forståelse
+av regnskapet, da spesielt balansen .
+Avstemming
+av konto depositum. Vi må etablere gode rutiner for
+oppfølging av depositum .
+Avstemming
+av konto VIPPS, rutiner må etableres for bokføring av
+differanser mellom innbetalt fra VIPPS og bokført VIPPS
+via Z- rapporter .
+Det er bare å sende spørsmål til meg pr.
+email, Yadgar , så svarer jeg opp så raskt jeg kan . Hvis
+usikker, la bilag ligge i INNBOKS, så bokfører du etter svar
+fra meg. Jeg har tilgang til Fiken , så det er lett for meg å
+følge opp her, Yadgar .
+Hvis behov for /ønsker om
+Mvh
+Svein
+Skorpen
+Email:
+svein@byrknes.no
+Telefon:
+48281280

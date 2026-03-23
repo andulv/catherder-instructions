@@ -1,0 +1,18 @@
+message_id:  <ba05fa02f3fe46b49b1d0eb37568398a@OLAP279MB0216.NORP279.PROD.OUTLOOK.COM>
+source_path: reference/mailbox-anders-plantedamp/Trash/cur/1774229831.210405_3381.tp-anders,U=44:2,S
+mailbox_folder: Trash
+top_level_from: Svein Skorpen <svein@byrknes.no>
+fragment_id: f001
+fragment_type: direct_primary
+confidence: high
+evidence_codes: FROM_EMAIL_MATCH, FROM_EXACT, FROM_NAME_MATCH
+
+## PRIMARY_TEXT
+Hei på dere !
+
+Jeg tar påskeferie fra og med fredag 22.mars 2024 til 2.april 2024 -
+
+Ønsker dere alle en fin påske .
+
+
+Svein

@@ -1,0 +1,104 @@
+message_id:  <OLAP279MB0216797844EA61846B557A95C8CC9@OLAP279MB0216.NORP279.PROD.OUTLOOK.COM>
+source_path: reference/mailbox-anders-plantedamp/Inbox/cur/1774229762.210405_118.tp-anders,U=118:2,S
+mailbox_folder: Inbox
+top_level_from: Svein Skorpen <svein@byrknes.no>
+fragment_id: f001
+fragment_type: direct_primary
+confidence: high
+evidence_codes: FROM_EMAIL_MATCH, FROM_EXACT, FROM_NAME_MATCH, QUOTED_CONTEXT_PRESENT
+
+## PRIMARY_TEXT
+Hei på dere !
+
+Veldig kjekt å se at dere er godt i gang og at det begynner å komme penger inn i butikken også . Jeg har meget travle dager for tiden, derfor har dere ikke hørt så mye fra meg de siste ukene.
+
+Jeg håper at jeg får brukt lit tid på PD i neste uke så jeg/vi ikke kommer for mye på hæla.  Følgende oppgaver blir da prioritert.
+
+
+  1.  Formalia, Yadgar inn som aksjonær
+  2.  Momsregistrering.
+
+Dere hører fra meg over helgen. I dag er det rapportering av foreløpige regnskaper.
+
+God helg til dere !
+
+Svein
+
+## QUOTED_CONTEXT
+Fra: Anders Ulveseth <anders.ulveseth@plantedamp.no>
+Sendt: torsdag 26. januar 2023 20:48
+Til: svein@plantedamp.no; Yadgar Plantedamp AS <yadgar@plantedamp.no>
+Emne: Kasseoppgjør nr. 2 - kr. 20800,- i kontanter
+
+
+Hei,
+
+
+
+Kasseoppgjør nr. 2 - kr. 20800,- i kontanter
+
+Vi har ennå ikke fått firmakort(er bestilt) og jeg fant ikke noen måte å sette inn kontanter på kontoen vår uten kort. Så jeg satte derfor kontantene inn på min private konto og la inn betaling fra min privatkonto til Plantedamp driftskonto.
+
+Totalt ble det tatt i mott og satt inn kr. 20 800,- i kontanter. Fordelt på varekjøp (utleverte varer) for 5 800,- og forskuddsbetaling for skaffevarer for kr. 15 000,-. Forskuddene er igjen fordelt på 3 bilag på hhv. 5 000,-, 7 000,- og 3 000,-.
+
+
+
+Andre salg
+
+I tillegg har vi en kunde som kommer og henter en maskin til 9 500,- en av de neste dagene.
+
+Fra før av har vi salg på rett under 5 000,- (Z-Rapport nr. 1). Da er vi ganske nærmt 50 000,- i omsetning slik at det snart er tid for MVA registrering.
+
+
+Z-Rapport nr. 2
+
+
+Plantedamp AS
+984460198MVA
+
+
+Kassepunkt id: POS1
+
+
+Oppgjør startet: 26012023 20:39
+Oppgjør utført: 26012023 20:39
+Skrevet ut: 26012023 20:39
+
+
+
+KONTANTSALG:
+Sats        Eks.mva      Ink.mva
+0.00 %      5799.50      5799.50
+SUM:        5799.50      5799.50
+
+
+OPPGJØR:
+1 - Kontant
+  I.B.:                     0.00
++ Bevegelse:            20799.00
+= Beregnet beholdn.:              20799.00
+
+
+  Oppgjør - Opptalt:              20800.00
+- Oppgjør - Tatt ut:              20800.00
+= U.B.:                               0.00
+Differanse mellom beregnet og opptalt:
+                         -1.00
+
+
+8 - Depositum
+  Bevegelse:                     -15000.00
+99 - Øreavrunding
+  Bevegelse:                          0.50
+
+
+
+--
+
+Anders Ulveseth
+
+Daglig leder | Plantedamp AS
+
+Tlf: +47 454 01 840
+
+https://plantedamp.no

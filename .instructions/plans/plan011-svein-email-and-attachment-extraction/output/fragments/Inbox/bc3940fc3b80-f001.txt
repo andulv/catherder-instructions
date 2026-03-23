@@ -1,0 +1,80 @@
+message_id:  <SVZP279MB07504CEEA19A0BC71E997E84C882A@SVZP279MB0750.NORP279.PROD.OUTLOOK.COM>
+source_path: reference/mailbox-anders-plantedamp/Inbox/cur/1774229801.210405_1958.tp-anders,U=1958:2,S
+mailbox_folder: Inbox
+top_level_from: Svein Skorpen <svein@byrknes.no>
+fragment_id: f001
+fragment_type: quoted_context
+confidence: medium
+evidence_codes: QUOTED_CONTEXT_PRESENT
+
+## TEXT
+Fra: Svein Skorpen <svein@byrknes.no>
+Sendt: onsdag 7. januar 2026 09:43
+Til: Svein Skorpen <svein@byrknes.no>
+Emne: Skjermingsrente til Anders - ekstra beskatning for renter utover skjermingsrente . - PLANTEDAMP
+
+
+
+Skjermingsrenten for ekstra skatt på renter på lån fra personlige skattytere til selskap (sktl § 5-22) fastsettes av Skattedirektoratet på grunnlag av rentesatsen som settes* av Norges Bank de datoene som følger av Finansdepartementets forskrift til skatteloven § 5-22-4.
+Tidsperiode
+Sats
+Januar og februar 2025
+3,9 %
+Mars og april 2025
+3,9 %
+Mai og juni 2025
+3,9 %
+Juli og august 2025
+3,9 %
+September og oktober 2025
+3,4 %
+November og desember 2025
+3,4 %
+
+Skjermingsrenten for ekstra skatt på renter på lån fra personlige skattytere til selskap (sktl § 5-22) fastsettes av Skattedirektoratet på grunnlag av rentesatsen som settes* av Norges Bank de datoene som følger av Finansdepartementets forskrift til skatteloven § 5-22-4.
+Tidsperiode
+Sats
+Januar og februar 2026
+3,4 %
+Mars og april 2026
+
+Mai og juni 2026
+
+Juli og august 2026
+
+September og oktober 2026
+
+November og desember 2026
+
+Hva bør en låneavtale inneholde?
+Låneavtalen bør minimum inneholde
+
+  *   Lånebeløp
+  *   Tilbakebetalingstidspunkt
+  *   Renter
+  *   Eventuelle sikkerheter
+  *   Konsekvensene ved betalingsmislighold
+  *   I tillegg bør det dokumenteres at lånet er betalt ut
+
+God dokumentasjon og ryddige forhold er viktig, uansett om det er flere aksjonærer eller ikke. For eksempel er det smart å ha alt på plass ved eventuell bokettersyn.
+Ekstra skatt på lån til AS
+For å unngå at personlige aksjonærer omgjør aksjekapital til lån, er det innført ekstra skatt på renter på lån til selskapet. Det vil si at det betales en ekstra skatt i tillegg til den flate skatten (nå 22%) på renteinntekter når renteinntekten overstiger et skjermingsfradrag.
+Tripletex forklarer i samarbeid med Online Accounting:
+
+Den ekstra skatten beregnes slik:
+La oss si at du som aksjonær har lånt ditt aksjeselskap kr 100.000,-. Vi ser bort ifra månedlig renteberegning i eksemplet.
+Skjermingsrenten for hele perioden er i dette eksempelet 0,5 % p.a. Skjermingsrenten fastsettes og kunngjøres av Skatteetaten<https://www.skatteetaten.no/satser/skjermingsrente-for-ekstra-skatt-pa-lan/>, forskuddsvis seks ganger per år.
+Skjermingsfradrag utgjør da:
+Kr 100.000 * 0,005 = Kr 500
+Du har en årlig lånerente på 3% p.a. som utgjør en renteinntekt på kr 3.000,- Denne renteinntekten regnes som alminnelig inntekt og er dermed skattepliktig med hele 22 %.
+3000 * 0,22 = Kr 660
+I tillegg skal den resterende delen av renteinntektene (78 %) som overstiger skjermingsfradraget ( kr 500), beskattes en gang til som alminnelig inntekt.
+1 - 0,22 =0,78 = 78%
+kr 3.000 * 0,78 = kr 2.340
+kr 2.340 - kr 500 = kr 1.840, -
+Den ekstra skatten (22 %) på det som skal beskattes en gang til blir da:
+kr 1.840,- * 0,22 = kr 405,-
+Det betyr at det i tillegg til den flate skatten på 22% blir lagt til ytterligere 17,16% skatt på denne delen av renteinntektene.
+0,78 * 0,22 = 0,1716 = 17,16%
+Gjennomsnittsskatten på disse renteinntektene er:
+(kr 660 + kr 405,- * 100) / 3.000,- = 35,49 %

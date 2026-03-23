@@ -1,0 +1,49 @@
+message_id:  <OLAP279MB0216107BCEAFA5E7CEFFCED6C8B92@OLAP279MB0216.NORP279.PROD.OUTLOOK.COM>
+source_path: reference/mailbox-anders-plantedamp/Inbox/cur/1774229778.210405_905.tp-anders,U=905:2,S
+mailbox_folder: Inbox
+top_level_from: Svein Skorpen <svein@byrknes.no>
+fragment_id: f002
+fragment_type: quoted_context
+confidence: medium
+evidence_codes: QUOTED_CONTEXT_PRESENT
+
+## TEXT
+Fra: Anders Ulveseth <anders.ulveseth@plantedamp.no>
+Sendt: onsdag 7. august 2024 14:42
+Til: sj@norsevape.com
+Kopi: yadgar.aziz@plantedamp.no
+Emne: Follow up from meeting - CBD legality in Norway
+
+Hi,
+
+Thanks for an inspiring meeting. We are trying out the no-nic products and they seem promising. :)
+
+I promised to send you some some info regarding legality of CBD in Norway and our experience with importing and selling CBD e-juice / disposables.
+
+Here is a summary of the ruling in EU court regarding CBD:
+https://curia.europa.eu/jcms/upload/docs/application/pdf/2020-11/cp200141en.pdf
+
+As far as we (and our lawyers) understand this ruling also applies to Norway. As a member of EØS, Norway is bound to all EU-legislation regarding EU inner market.
+
+
+This is information from DMP:
+https://www.dmp.no/godkjenning/klassifisering/informasjon-om-cannabidiol-cbd-for-virksomheter
+
+
+They insist that CBD is illegal in Norway, but they also have this paragraph (Google Translated)
+DMP is also aware that on 19 November 2020 there was an EU court decision (External link) regarding CBD in e-cigarettes.
+
+The Ministry of Health and Care has asked DMP to assess the significance of the decisions in CND and the EU Court of Justice and the consequences for Norwegian drug regulations and practice. The matter is now under consideration by the ministry.
+
+Last year Plantedamp imported several shipments of CBD from European wholesalers, all shipments were declared and controlled by customs and let through.
+
+But around this time last year, they stopped our shipments and reported us (Yadgar) to the police.
+
+The police have now dropped the case, citing "limited capacity" as the reason.
+
+Our lawyers are following this up, and we hope to get back the seized shipments, and that future shipments gets through.
+
+
+--
+Anders Ulveseth |  +47 45401840   |    anders.ulveseth@plantedamp.no<mailto:anders.ulveseth@plantedamp.no>
+Plantedamp AS   |  +47 55310000   |    https://plantedamp.no

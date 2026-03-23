@@ -1,0 +1,82 @@
+message_id:  <SVZP279MB075093704FAA56716CE8E99BC8B4A@SVZP279MB0750.NORP279.PROD.OUTLOOK.COM>
+source_path: reference/mailbox-anders-plantedamp/Inbox/cur/1774229800.210405_1909.tp-anders,U=1909:2,RS
+mailbox_folder: Inbox
+top_level_from: Svein Skorpen <svein@byrknes.no>
+fragment_id: f002
+fragment_type: quoted_context
+confidence: medium
+evidence_codes: QUOTED_CONTEXT_PRESENT
+
+## TEXT
+Fra: Svein Skorpen
+Sendt: fredag 19. desember 2025 10:03
+Til: Anders Ulveseth <anders.ulveseth@plantedamp.no>
+Kopi: yadgar@plantedamp.no; mitch@plantedamp.no
+Emne: SV: Oppfølging - Plantedamp / Gro Pro
+
+Hei på dere !
+
+Jeg ser på mottatt informasjon og dokumentasjon i løpet av helgen og ringer deg på mandag for å avklare videre fremdrift ,  Anders !
+
+God helg til dere alle !
+
+Svein
+
+
+Fra: Anders Ulveseth <anders.ulveseth@plantedamp.no<mailto:anders.ulveseth@plantedamp.no>>
+Sendt: torsdag 18. desember 2025 21:40
+Til: Svein Skorpen <svein@byrknes.no<mailto:svein@byrknes.no>>
+Kopi: yadgar@plantedamp.no<mailto:yadgar@plantedamp.no>; mitch@plantedamp.no<mailto:mitch@plantedamp.no>
+Emne: Re: Oppfølging - Plantedamp / Gro Pro
+
+
+Hei igjen,
+
+  *   Lagerliste 31.10.2025 for Gro Pro AS ligger vedlegt her i Excel format.
+  *   Venter fortsatt på faktura fra Gro Pro til Plantedamp, underlaget er klart her så antar denne er klar rimelig kjapt.
+  *   Jeg har fått tilgang til Fiken for Gro Pro. Jeg har hentet ut saldobalanse, resultat og balanse frem til 31.10.2025. Ligger vedlagt her.
+
+
+
+Flott om du kan ringe meg så kan vi ta en kjapp gjennomgang på status og hva som blir neste skritt. Blir vel ikke gjort så mye før jul tenker jeg. :)
+
+
+---
+Anders Ulveseth
+Tlf: +47 454 01 840
+www.plantedamp.no<http://www.plantedamp.no>
+
+
+
+On 11.12.2025 17:50, Anders Ulveseth wrote:
+
+Hei,
+
+
+
+Da tror jeg du har fått det du etterspurte fra Plantedamp:
+
+  *   Lagerliste pr. 30.10.2025
+  *   Erklæring fra meg og Yadgar på beløp vi har lånt fra oss privat til Plantedamp
+  *   Regnskap i Fiken noenlunde riktig (oppdatert varebeholdning) pr. 31.10.2025 og du har tilgang
+
+Gi beskjed hvis jeg har glemt noe eller det er noe mer du trenger.
+
+
+
+Fra Gro Pro sin side går det litt treigere. Han pleier normalt å være lynkjapp på oppfølging, men ligger syk denne uken. (og jeg har en liten mistanke om at når han er treig med disse tingene er det kanskje pga. usikkerhet og rot....)
+
+  *   Vi har fått lagerliste fra 31.10.2025 men med utsalgspriser, ikke kostpris. Har bedt om ny.
+  *   Jeg har bedt om tilgang til Gro Pro sin fiken slik at jeg/vi kan få oversikt over stoda og hente ut tall selv.
+  *   Alle varer som er flyttet fra Plantedamp til Gro Pro er fakturert. Men det har også gått varer andre veien som ikke er fakturert. Jeg har etterspurt faktura for disse.
+
+
+
+Jeg har også begynt å rydde opp i åpne poster og slikt i regnskapet. Usikker på hvor langt jeg kommer, men skal i hvertfall bli litt bedre. :)
+
+
+--
+Anders Ulveseth
+Daglig leder | Plantedamp AS
+Tlf: +47 454 01 840
+www.plantedamp.no<http://www.plantedamp.no>

@@ -1,0 +1,188 @@
+message_id:  <OLAP279MB02169372FF404B380B05E272C8DB9@OLAP279MB0216.NORP279.PROD.OUTLOOK.COM>
+source_path: reference/mailbox-anders-plantedamp/Inbox/cur/1774229762.210405_157.tp-anders,U=157:2,RS
+mailbox_folder: Inbox
+top_level_from: Svein Skorpen <svein@byrknes.no>
+fragment_id: f001
+fragment_type: direct_primary
+confidence: high
+evidence_codes: FROM_EMAIL_MATCH, FROM_EXACT, FROM_NAME_MATCH, QUOTED_CONTEXT_PRESENT
+
+## PRIMARY_TEXT
+Hei, Anders !
+Da er søknad om momsregistrering sendt inn. Normalt så tar dette 1-2 dager i nytt system, men de kan også ta noen uker hvis de fatter interesse for navn og virksomhet. Dere hører fra meg når jeg har fått tilbakemelding .
+Svein
+PLANTEDAMP AS
+Til dine virksomheter<https://skatt.skatteetaten.no/web/mva/>
+Organisasjonsnummer: 930 078 158
+Kontonummer: ManglerEndre
+
+Søknad under behandling
+Du har en søknad om registrering i Mva-registeret under behandling og må vente til søknaden er ferdigbehandlet før du kan søke på nytt.
+Mine registreringer i Merverdiavgiftsregisteret
+Din virksomhet er ikke registrert.
+
+## QUOTED_CONTEXT
+Fra: Svein Skorpen
+Sendt: tirsdag 7. februar 2023 04:56
+Til: Anders Ulveseth <anders.ulveseth@plantedamp.no>
+Emne: Re: MVA Grense passert - Vi må sende inn MVA registrering
+
+Hei på deg , Anders  !
+
+Skal få sendt inn søknad om registrering idag 😀
+
+
+
+Sendt fra min iPad
+
+
+7. feb. 2023 kl. 00:03 skrev Anders Ulveseth <anders.ulveseth@plantedamp.no<mailto:anders.ulveseth@plantedamp.no>>:
+﻿ Hei,
+
+Vi har nå passert 50 000,- i omsetning og vi har begynt å selge med MVA.
+
+Tid for MVA registrerering!
+
+Vi har også betalt mye varekjøp o.l. med MVA som vi nå kan kreve refusjon for. Det står veldig høyt på ønskelisten min å få sett på dette fort. :)
+
+Dato / Tid
+Kvitteringnr.
+MVA Sats
+Beløp eks, MVA
+Akkumulert
+2023-01-17 17:55:31
+1
+0
+220,00 kr
+220,00 kr
+2023-01-17 17:58:08
+2
+0
+2 800,00 kr
+3 020,00 kr
+2023-01-17 18:27:34
+3
+0
+1 400,00 kr
+4 420,00 kr
+2023-01-17 19:48:06
+4
+0
+406,93 kr
+4 826,93 kr
+2023-01-26 19:00:12
+5
+0
+2 000,00 kr
+6 826,93 kr
+2023-01-26 19:00:23
+6
+0
+3 300,00 kr
+10 126,93 kr
+2023-01-26 19:07:56
+7
+0
+499,50 kr
+10 626,43 kr
+2023-02-02 16:40:43
+11
+0
+6 000,36 kr
+16 626,79 kr
+2023-02-02 16:49:51
+12
+0
+940,00 kr
+17 566,79 kr
+2023-02-02 16:57:39
+13
+0
+249,00 kr
+17 815,79 kr
+2023-02-02 17:09:24
+14
+0
+9 990,00 kr
+27 805,79 kr
+2023-02-03 17:19:28
+15
+0
+6 585,00 kr
+34 390,79 kr
+2023-02-03 17:23:46
+16
+0
+8 400,00 kr
+42 790,79 kr
+2023-02-06 16:29:24
+17
+0
+7 690,00 kr
+50 480,79 kr
+2023-02-06 16:29:40
+18
+0
+600,00 kr
+51 080,79 kr
+2023-02-06 16:32:33
+5000001
+0
+−7 690,00 kr
+43 390,79 kr
+2023-02-06 16:33:50
+19
+0
+3 240,00 kr
+46 630,79 kr
+2023-02-06 16:37:01
+20
+0
+900,00 kr
+47 530,79 kr
+2023-02-06 16:41:45
+5000002
+0
+−900,00 kr
+46 630,79 kr
+2023-02-06 16:39:29
+21
+0
+3 100,00 kr
+49 730,79 kr
+2023-02-06 16:44:55
+22
+25
+720,00 kr
+50 450,79 kr
+2023-02-06 16:49:20
+23
+25
+5 760,00 kr
+56 210,79 kr
+2023-02-06 16:51:29
+24
+25
+6 152,00 kr
+62 362,79 kr
+2023-02-06 17:00:43
+25
+25
+318,40 kr
+62 681,19 kr
+2023-02-06 17:05:12
+26
+25
+517,60 kr
+63 198,79 kr
+2023-02-06 17:11:30
+27
+25
+1 032,00 kr
+64 230,79 kr
+SUM OMSETNING EKS. MVA
+64 230,79 kr
+
+
+
+Anders

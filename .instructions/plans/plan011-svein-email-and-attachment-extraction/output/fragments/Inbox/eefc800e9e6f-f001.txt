@@ -1,0 +1,87 @@
+message_id:  <OLAP279MB0216C15F858BD203CA323A31C8A19@OLAP279MB0216.NORP279.PROD.OUTLOOK.COM>
+source_path: reference/mailbox-anders-plantedamp/Inbox/cur/1774229762.210405_194.tp-anders,U=194:2,S
+mailbox_folder: Inbox
+top_level_from: Svein Skorpen <svein@byrknes.no>
+fragment_id: f001
+fragment_type: direct_primary
+confidence: high
+evidence_codes: FROM_EMAIL_MATCH, FROM_EXACT, FROM_NAME_MATCH, QUOTED_CONTEXT_PRESENT
+
+## PRIMARY_TEXT
+Se kundesjekk.no mht. revisors kommentar rundt RN kundesjekk.  Se side kundesjekk.no .
+La oss håper at det ikke dukker opp noe ved kundesjekk som gjør av vi får utfordringer her , Anders ?
+Svein
+Hva er kundesjekk.no?
+Kundesjekk er brukt av bedrifter i alle størrelser fra bare noen få - til flere tusen - oppslag hver måned.
+Alle virksomheter med rapporteringsplikt har fått strengere krav til kundekontroller som skal forhindre hvitvasking og terrorfinansiering.
+Kundesjekk.no benytter BankID<https://www.bankid.no/bedrift/bankid-aml/> sin løsning for AML (Anti Money Laundering) som gir kunder av kundesjekk.no tilgang på informasjon som kreves for å gjøre en god kundekontroll.
+Kundesjekk.no gjør kontroll av privatpersoner og bedrifter enklere, ved opprettelse av nye kundeforhold og i løpende kundekontroll. Kundesjekk.no hjelper deg langt på vei med god etterlevelse av lovverket. Du kan være helt sikker på hvem kunden din er. Alle som har BankID har identifisert seg med pass og ID-kontroll.
+Gjennomfør kundekontrollen raskere, enklere og bedre:
+
+  *   Legitimere kunden digitalt med BankID, uten personlig oppmøte
+  *   Sjekke kunden opp mot EUs og FNs sanksjonsliste
+  *   Finne ut om kunden regnes som politisk eksponert person (PEP), er i nær familie eller kjent medarbeider av en PEP via Trapets' nordiske PEP-liste
+  *   Få basisinformasjon som navn, folkeregistrert adresse og fødselsnummer
+  *   Oppdage endringer som påvirker kundeforholdet etter at det er innledet
+
+## QUOTED_CONTEXT
+Fra: Anette Tvedt <anette.tvedt@revisorvest.no>
+Sendt: torsdag 16. februar 2023 14:35
+Til: Svein Skorpen <svein@byrknes.no>
+Kopi: Anders Ulveseth <anders.ulveseth@plantedamp.no>; Yadgar Plantedamp AS <yadgar@plantedamp.no>
+Emne: SV: Plantedamp AS - bekreftelse kapitalutvidelse ved gjeldskonvertering- ref. Anders Ulveseth
+
+Hei
+
+Kapitalforhøyelse med gjeldskonvertering krever fortsatt revisorbekreftelse. Vi gjennomgår oversendt informasjon, samt sender ut engasjementsbrev og link til RN kundesjekk så hører dere fra oss om vi har spørsmål.
+
+Mvh
+
+Anette Tvedt
+
+Fra: Svein Skorpen <svein@byrknes.no<mailto:svein@byrknes.no>>
+Sendt: 16. februar 2023 14:20
+Til: Anette Tvedt <anette.tvedt@revisorvest.no<mailto:anette.tvedt@revisorvest.no>>
+Kopi: Anders Ulveseth <anders.ulveseth@plantedamp.no<mailto:anders.ulveseth@plantedamp.no>>; Yadgar Plantedamp AS <yadgar@plantedamp.no<mailto:yadgar@plantedamp.no>>
+Emne: Plantedamp AS - bekreftelse kapitalutvidelse ved gjeldskonvertering- ref. Anders Ulveseth
+
+Hei , Anette !
+
+Undertegnede har bistått Plantedamp AS ved Anders Ulveseth (Definit AS) ifm. en kapitalutvidelse i selskapet Plantedamp AS. Selskapet har p.t. ikke valgt revisor og selskapet fører sine regnskaper selv i Fiken.
+
+Fint om dere kan avgi en revisorbekreftelse for kapital og uttalelse rundt styrets redegjørelse .  Hvis du trenger mer informasjon/dokumentasjon i sakens anledning, så hører jeg fra deg, Anette .  Jeg antar at det fortsatt er krav til revisorbekreftelser i sakens anledning ?
+
+Hvis spørsmål i sakens anledning, så send en email til undertegnede med kopi til Anders og Yadgar så svarer vi opp umiddelbart .
+
+Obs. mht. innskutt kapital , se under og vedlegg kontoutskrift og låneavtale.
+
+Hører fra deg, Anette og på forhånd takk for bistand .
+
+Svein
+
+Fra: Anders Ulveseth <anders.ulveseth@plantedamp.no<mailto:anders.ulveseth@plantedamp.no>>
+Sendt: onsdag 18. januar 2023 14:17
+Til: Svein Skorpen <svein@byrknes.no<mailto:svein@byrknes.no>>
+Kopi: Yadgar Plantedamp AS <yadgar@plantedamp.no<mailto:yadgar@plantedamp.no>>
+Emne: Re: SV: Haster - Enkel avtale om lån/innskud fra Yadgar
+
+Hei,
+
+Sitter med Yadgar nå. Det er snakk om 55 000,- i kontanter og ca. 5000 i varer som blir skutt inn. Totalt 60 000,-.
+
+Varene er mottatt og lagt inn på lager:
+[cid:image001.png@01D94213.E5BC3930]
+
+
+
+Yadgar sender deg personalia.
+
+
+Anders
+
+Mvh
+
+Svein Skorpen
+
+Email: svein@byrknes.no<mailto:svein@byrknes.no>
+Telefon:  48281280

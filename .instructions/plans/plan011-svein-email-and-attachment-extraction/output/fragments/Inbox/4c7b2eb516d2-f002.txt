@@ -1,0 +1,37 @@
+message_id:  <OLAP279MB0216C65EA3AD5EB2B6B2E31CC8A09@OLAP279MB0216.NORP279.PROD.OUTLOOK.COM>
+source_path: reference/mailbox-anders-plantedamp/Inbox/cur/1774229762.210405_186.tp-anders,U=186:2,S
+mailbox_folder: Inbox
+top_level_from: Svein Skorpen <svein@byrknes.no>
+fragment_id: f002
+fragment_type: quoted_context
+confidence: medium
+evidence_codes: QUOTED_CONTEXT_PRESENT
+
+## TEXT
+Fra: Anders Ulveseth <anders.ulveseth@plantedamp.no<mailto:anders.ulveseth@plantedamp.no>>
+Sendt: onsdag 18. januar 2023 14:17
+Til: Svein Skorpen <svein@byrknes.no<mailto:svein@byrknes.no>>
+Kopi: Yadgar Plantedamp AS <yadgar@plantedamp.no<mailto:yadgar@plantedamp.no>>
+Emne: Re: SV: Haster - Enkel avtale om lån/innskud fra Yadgar
+
+Hei,
+
+Sitter med Yadgar nå. Det er snakk om 55 000,- i kontanter og ca. 5000 i varer som blir skutt inn. Totalt 60 000,-.
+
+Varene er mottatt og lagt inn på lager:
+[cid:image001.png@01D94211.BEBFFA30]
+
+
+
+Yadgar sender deg personalia.
+
+
+Anders
+
+
+Mvh
+
+Svein Skorpen
+
+Email: svein@byrknes.no<mailto:svein@byrknes.no>
+Telefon:  48281280

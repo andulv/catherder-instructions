@@ -1,3 +1,8 @@
 .venv
 tmp-symlink-to-reference-project
 /reference
+.tmp-plan012-venv/lib64
+.tmp-plan012-venv/pyvenv.cfg
+.tmp-plan012-venv/bin/python
+.tmp-plan012-venv/bin/python3
+.tmp-plan012-venv/bin/python3.12

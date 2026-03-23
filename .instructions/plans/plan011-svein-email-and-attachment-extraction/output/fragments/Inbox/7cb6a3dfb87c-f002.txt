@@ -1,0 +1,23 @@
+message_id:  <OLAP279MB0216F457B628001E1D93EB79C8A89@OLAP279MB0216.NORP279.PROD.OUTLOOK.COM>
+source_path: reference/mailbox-anders-plantedamp/Inbox/cur/1774229763.210405_209.tp-anders,U=209:2,S
+mailbox_folder: Inbox
+top_level_from: Svein Skorpen <svein@byrknes.no>
+fragment_id: f002
+fragment_type: quoted_context
+confidence: medium
+evidence_codes: QUOTED_CONTEXT_PRESENT
+
+## TEXT
+Fra: Anders Ulveseth <anders.ulveseth@plantedamp.no>
+Sendt: fredag 24. februar 2023 15:30
+Til: Svein Skorpen <svein@byrknes.no>; Yadgar Plantedamp AS <yadgar@plantedamp.no>
+Emne: Svenska Handelsbanken planlegger å selge Cannabis i Norge?
+
+
+Dette er adm.dir. i Norse Vape AS. De står bl.a. bak Nordamp kjeden.
+
+Norse Vape AS står oppført med Svenska Handelsbanken AB som 100% aksjonær.
+[cid:image001.jpg@01D94866.79287960]
+
+
+Sendt fra min iPad

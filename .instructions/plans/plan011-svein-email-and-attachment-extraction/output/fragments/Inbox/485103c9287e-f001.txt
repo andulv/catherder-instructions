@@ -1,0 +1,89 @@
+message_id: <2C3FF820-59F5-4858-8BC8-0F31F5D38267@byrknes.no>
+source_path: reference/mailbox-anders-plantedamp/Inbox/cur/1774229761.210405_86.tp-anders,U=86:2,S
+mailbox_folder: Inbox
+top_level_from: Svein Skorpen <svein@byrknes.no>
+fragment_id: f001
+fragment_type: direct_primary
+confidence: high
+evidence_codes: FROM_EMAIL_MATCH, FROM_EXACT, FROM_NAME_MATCH
+
+## PRIMARY_TEXT
+Supert 👌👌
+
+Sendt fra min iPad
+
+17. jan. 2023 kl. 21:40 skrev Anders Ulveseth <anders.ulveseth@plantedamp.no>:
+
+﻿
+
+Jeg har kjørt kasseoppgjør og det ser slik ut. Kontantene (4200,-) er tatt ut av meg, og trekkes fra på det Plantedamp skylder meg.
+
+To salg er betalt på Vipps. Vårt vippsnummer er #786049. Jeg har kontrollert i Vipps portalen at de er kommet inn der.
+
+To salg er betalt kontant. Et fra Magic Butter til ekte kunde, og et til meg for varer jeg tok ut og ga som julepresanger.
+
+
+
+Z-Rapport nr. 1
+
+Plantedamp AS
+984460198MVA
+
+Kassepunkt id: POS1
+
+Oppgjør startet: 17012023 21:32
+Oppgjør utført: 17012023 21:35
+Skrevet ut: 17012023 21:35
+
+KONTANTSALG:
+Sats Eks.mva Ink.mva
+0.00 % 4826.93 4826.93
+SUM: 4826.93 4826.93
+
+OPPGJØR:
+1 - Kontant
+I.B.: 0.00
++ Bevegelse: 4200.00
+= Beregnet beholdn.: 4200.00
+
+Oppgjør - Opptalt: 4200.00
+- Oppgjør - Tatt ut: 4200.00
+= U.B.: 0.00
+Differanse mellom beregnet og opptalt:
+0.00
+
+6 - Vipps #786049
+Bevegelse: 627.00
+99 - Øreavrunding
+Bevegelse: -0.07
+
+INFORMASJON:
+Grand total salg: 4826.93
+Grand total retur: 0.00
+Grand total: 4826.93
+Salgskvitt.: 4 4826.93
+Returkvitt.: 0 0.00
+Rabatter: 4 0.00
+Kontantsalg: 4 4826.93
+Kredittsalg: 0 0.00
+Innbetaling: 0 0.00
+
+JOURNAL:
+Åpne skuff: 0
+Avbr. salg: 0 0.00
+Kopi kvitt.: 0 0.00
+Red. linje: 0 0.00
+Red. pris: 0 0.00
+
+
+
+Sign.:
+Anders Ulveseth
+
+
+
+--
+Anders Ulveseth
+Daglig leder | Plantedamp AS
+Tlf: +47 454 01 840
+https://plantedamp.no

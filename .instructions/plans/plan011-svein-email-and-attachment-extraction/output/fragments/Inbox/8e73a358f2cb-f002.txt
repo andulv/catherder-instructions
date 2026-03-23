@@ -1,0 +1,22 @@
+message_id:  <SVZP279MB0750B7FCFC9DFA56177FF7ABC886A@SVZP279MB0750.NORP279.PROD.OUTLOOK.COM>
+source_path: reference/mailbox-anders-plantedamp/Inbox/cur/1774229801.210405_1946.tp-anders,U=1946:2,S
+mailbox_folder: Inbox
+top_level_from: Svein Skorpen <svein@byrknes.no>
+fragment_id: f002
+fragment_type: quoted_context
+confidence: medium
+evidence_codes: QUOTED_CONTEXT_PRESENT
+
+## TEXT
+-----Opprinnelig melding-----
+Fra: Altinn <noreply@altinn.no>
+Sendt: mandag 5. januar 2026 20:51
+Til: Svein Skorpen <svein@byrknes.no>
+Emne: Nektet årsregnskap - 930078158 PLANTEDAMP AS
+
+Du har mottatt en ny melding fra Regnskapsregisteret om nektet årsregnskap for 930078158 PLANTEDAMP AS i Altinn.
+
+Logg inn i Altinn for å se dine meldinger.
+
+Med hilsen
+Brønnøysundregistrene - Regnskapsregisteret

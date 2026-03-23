@@ -1,0 +1,34 @@
+message_id:  <OLAP279MB0216333AB8705F3A85BFAA07C8709@OLAP279MB0216.NORP279.PROD.OUTLOOK.COM>
+source_path: reference/mailbox-anders-plantedamp/Inbox/cur/1774229768.210405_309.tp-anders,U=309:2,S
+mailbox_folder: Inbox
+top_level_from: Svein Skorpen <svein@byrknes.no>
+fragment_id: f001
+fragment_type: direct_primary
+confidence: high
+evidence_codes: FROM_EMAIL_MATCH, FROM_EXACT, FROM_NAME_MATCH
+
+## PRIMARY_TEXT
+Hei , Anders !
+
+Jeg henviser til din SMS til meg i går.
+
+Jeg har til din informasjon tidlig varslet styre i Definit AS at jeg ønsker å selge mine aksjer i Definit AS og da samtidig trekke med fra styre i Definit AS .
+
+Tenker at dette vil skje ved kommende ordinære GF i Definit AS som må avholdes før 30 06 2023 .  Jeg forventer ingen pris for aksjeposten, men jeg  har signalisert at jeg ønsker en hvis avregning for det arbeid som jeg har lagt ned som styremedlem fra jeg sluttet som daglig leder i Definit AS og frem til jeg nå trer ut av selskapet. Om dette gjøres opp som vederlag for aksjene eller som fakturerbar tjeneste får vi komme tilbake til .
+
+Som du sikkert har forstått så har jeg trukket med ut forhandlingene med deg for å finne en mulig løsning . Frode og Svein Ove kjører nå denne prosess etter fullmakt fra styre.  Jeg kan signalisere at jeg som styremedlem er positiv til den prosess som nå kjøres og jeg håper at dere enes om en modell som begge parter kan leve med . Hva dette blir til over tid blir spennende å følge .
+
+Jeg takker for ditt tilbud om å konvertere mine aksjer i Definit AS til aksjer i Omnishop AS , men velger å takke høflig nei til dette tilbud, Anders. Jeg ønske da heller ikke å tre inn i styre i Omnishop AS og trekker med da ut som aksjonær og styremedlem totalt fra dette system.
+
+Jeg har som tidligere signalisert nå avviklet mitt arbeidsforhold i Viking Aqua AS fra 01 04 2023, og leverer nå tjenester fra eget selskap Sveber Invest AS. Hvis du er interessert i et videre samarbeid med meg i en eller annen form så blir det da eventuelt som din rådgiver via Sveber Invest AS ?.
+
+Tror dette er/blir den beste løsning for alle parter , Anders !  Jeg ønsker å reetablere et godt forhold til deg, Anders og har ingen bad feelings etter vår siste samtale . Jeg ønsker også å videreføre et greit forhold til øvrige aktører i Definit AS .
+
+Foreslår nå at du /dere fokuserer på å fremforhandle en avtale ref. skisse som nå foreligger. Jeg ønsker ikke å involveres direkte i forhandlingene , da hverken fra din side eller fra Definit's sin side.  Jeg vil sende en ny email til styre i Definit AS i løpet av kommende uke ,hvor jeg foreslår at jeg trekker meg fra styre ved kommende GF.
+
+Mvh
+
+Svein Skorpen
+
+Email: svein@byrknes.no<mailto:svein@byrknes.no>
+Telefon:  48281280

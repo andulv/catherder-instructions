@@ -1,0 +1,261 @@
+message_id:  <OLAP279MB02167024281A27E887BC4D41C834A@OLAP279MB0216.NORP279.PROD.OUTLOOK.COM>
+source_path: reference/mailbox-anders-plantedamp/Inbox/cur/1774229769.210405_406.tp-anders,U=406:2,S
+mailbox_folder: Inbox
+top_level_from: Svein Skorpen <svein@byrknes.no>
+fragment_id: f002
+fragment_type: quoted_context
+confidence: medium
+evidence_codes: QUOTED_CONTEXT_PRESENT
+
+## TEXT
+Fra: Anders Ulveseth <anders.ulveseth@plantedamp.no>
+Sendt: fredag 14. juli 2023 01:27
+Til: mwr@smco.no; yadgar.aziz@plantedamp.no
+Emne: Plantedamp AS - Import av CBD produkter
+
+
+Hei Marie,
+
+Viser til hyggelig telefonsamtale og oversender som avtalt litt mer informasjon om saken.
+Oppdraget handler først og fremst om å ta kontakt med toll/politi for å etterlyse de to forsendelsene våre. Hensikt: 1. Sikre verdiene våre (varene vi har betalt for), 2. få fortgang i saksbehandling og 3., skape presedens/avklaring for videre forsendelser.
+
+Sekundært (neste omgang?) ønsker vi vurdering av, og gjerne en uttalelse om, lovligheten rundt det vi gjør.
+
+
+OM PLANTEDAMP AS
+
+https://plantedamp.no
+
+Eies av Anders Ulveseth (født 29.11.1975) og Yadgar Aziz (født 15.05.1990) med 50% av aksjene hver.
+
+Anders er både daglig leder og styrets leder. Intensjonen er at Yadgar skal overta som daglig leder i løpet av året.
+
+Etablert høst 2022, oppstart av drift (import, salg) fra hjemmekontor januar 2023. Full drift i leide lokaler fra mars 2023.
+
+Ingen av oss er ansatte eller mottar lønn fra selskapet. (Anders er ansatt i  Definit AS, Yadgar har enkeltpersonsforetak).
+
+
+
+FORSENDELSE FRA JM DISTRO (UK) - ANMELDT AV TOLLVESENET
+Sendt fra UK:       01.06.2023
+Ankom Norge:     06.06.2023
+Transportør:        DHL (foretar også fortolling)
+
+Pakkesporing:  https://www.dhl.com/us-en/home/tracking.html?tracking-id=2221979325
+Faktura fra leverandør: INT-3069, datert 30.05.2023 (ligger vedlagt som PDF)
+Ordren kan også sees her: https://jm-distro.com/7498367046/orders/a39401a603a90c9e59df3acbb6f61b07
+
+Forsendelsen inneholder:
+
+  *   180 CBD e-sigaretter av merket Darwin, fordelt på ulike smaker og styrker.
+  *   To flasker med "terpener". Dette er kun smakstilsetning, og etter vår forståelse helt uproblematisk.
+Ordre / faktura er utstedt til "Yadgar Aziz, Plantedamp AS". Leveringsadresse er Plantedamp sin adresse i Strandgaten 59.
+Ordren ble betalt med Visa kort fra Plantedamp, knyttet opp til Plantedamps driftskonto i Sparebanken Vest. Kortet er utstedt til Yadgar. (Vi har hvert vårt firmakort)
+
+Vi har tidligere mottatt forsendelser med de samme varene fra samme leverandør. Noen av forsendelsene har blitt fysisk åpnet og kontrollert av Tollvesenet, men frem til nå har alle gått gjennom uten spørsmål eller problemer.
+
+Mandag 03.07. fikk Yadgar telefon fra Politiet som informerte om at han var blitt anmeldt av Tollvesenet for denne forsendelsen. Han takket ja til å stille til telefonavhør, noe som ble gjennomført samme dag.
+
+Informasjon fra politiet gitt over telefon under avhøret
+
+  *   Anmeldt av Tollen pga. pakke de mottok 07.06.2023 - Mottaker: Plantedamp AS, Yadgar Azis. Innhold: 30 pakker med Darwin CBD.
+  *   Mistenkt for innførsel av narkotika, siden CBD er fra Cannabis planten og på narkotikalisten.
+  *   Politmannen kjenner ikke til den andre pakken som sitter fast i Tollen.
+  *   Politimannen mener spørsmålet i denne saken er om CBD er narkotika eller ikke, og er selv usikker.
+  *   Vil få brev i post når saken er behandlet, enten at den er henlagt eller et forelegg.
+  *   Saksnr: 16115343
+
+Informasjon fra Yadgar, gitt over telefon under avhøret (svar på direkte spørsmål)
+
+  *   Jobber for Plantedamp AS. Stilling: Innkjøpsansvarlig. Mottar ikke lønn. Selskapet selger vaporizere, CBD og e-sigaretter.
+  *   Privatpersonen Yadgar Azis har ikke stått bak bestillingen. Det er Plantedamp AS som står bak bestillingen. Yadgar har kun utført
+  *   Informerte om at det skal være mer enn 30 e-sigaretter i forsendelsen.
+  *   Mener selv det er lovlig med CBD, så lenge det er mindre enn 0.2% THC. Ref dom i EU-domstolen. (Ble bedt om gjenta det med 0.2%)
+  *   Varene er kjøpt inn til lager hos Plantedamp AS
+  *   Bad om kopi av anmeldelsen
+  *   Erkjenner ikke straffeskyld. Vil ikke vedta forelegg.
+  *   Samtykker ikke til destruksjon/beslag av forsendelsen (kan ikke ta slike avgjørelser selv, dette må Plantedamp AS evt. ta stilling til, siden det er Plantedamp som har bestilt og eier varene)
+
+
+
+FORSENDELSE FRA SIMPLY GREEN (NL) - SITTER FAST HOS TOLLEN
+Sendt fra Nederland:          07.06.2023
+Ankom Norge:                     12.06.2023
+Transportør:                        UPS (foretar også fortolling)
+
+Pakkesporing: https://www.ups.com/track?loc=no_NO&tracknum=1Z44F5E76827692454&requester=ST/trackdetails
+Faktura fra leverandør: IN00006229, datert 07.06.2023 (ligger vedlagt som PDF)
+
+Ordre / faktura er utstedt til "Yadgar Aziz, Plantedamp AS". Leveringsadresse er Plantedamp sin adresse i Strandgaten 59.
+Ordren ble betalt med Visa kort fra Plantedamp, knyttet opp til Plantedamps driftskonto i Sparebanken Vest. Kortet er utstedt til Yadgar. (Vi har hvert vårt firmakort)
+
+Forsendelsen består av to kolli.
+
+  *   1 kolli - 19.0kg med diverse utstyr og tilbehør.
+  *   1 kolli - 12.0kg med ulike CBD produkter (CBD e-sigaretter, CBD e-juice, CBD winegums, CBD konsentrat i 1 grams pakninger)
+
+Pakken med utstyr og tilbehør ble levert til oss 19.06.2023. Alt OK med den. Pakken hadde vært åpnet og tapet igjen av Tollvesenet.
+
+Pakken med CBD produkter ligger fortsatt til tollbehandling. Vi har tidligere mottatt forsendelser med de samme varene fra samme leverandør. Noen av forsendelsene har blitt fysisk åpnet og kontrollert av Tollvesenet, men frem til nå har alle gått gjennom uten spørsmål eller problemer.
+
+Vi har meldt fra til UPS og vært i kontakt med kundeservice gjentatte ganger uten å få annet svar enn at pakken  er til tollbehandling.
+
+
+
+NY FORSENDELSE FRA SIMPLY GREEN - SER UT TIL Å VÆRE TIL TOLLBEHANDLING NÅ
+Sendt fra Nederland:         10.07.2023
+Ankom Norge:                     12.07.2023
+Transportør:                        UPS (foretar også fortolling)
+
+Pakkesporing: https://www.ups.com/track?loc=no_NO&requester=QUIC&tracknum=1Z44F5E76835458844/trackdetails
+Faktura fra leverandør: 58878, datert 07.07.2023 (ligger vedlagt som PDF)
+
+Ordre / faktura er utstedt til "Peder Ås, Plantedamp AS". Leveringsadresse er Plantedamp sin adresse i Strandgaten 59.
+Ordren ble betalt med Visa kort fra Plantedamp, knyttet opp til Plantedamps driftskonto i Sparebanken Vest. Kortet er utstedt til Anders. (Vi har hvert vårt firmakort)
+Inneholder 28 små flasker med CBD e-juice av merket Harmony (tsjekkisk produsent).
+
+
+
+ALLE CBD FORSENDELSER SÅ LANGT
+
+Her er alle ordrer/forsendelser med CBD produkter vi har bestilt fra våre leverandører.
+
+Noen av disse har blitt fysisk kontrollert på vei til oss (åpnet og tapet igjen med Tollvesenet sin tape).
+Leverandør
+Transportør
+Ordredato
+Sendt
+Mottatt
+Beløp
+Innhold
+Status (pr. 14.07.2023)
+Simply Green, Nederland
+UPS
+15.04.2023
+18.04.2023
+26.04.2023
+EUR 2649,13
+CBD e-sigaretter, CBD Konsentrater, CBD te, ++
+OK. Varer mottatt.
+Simply Green, Nederland
+UPS
+22.05.2023
+24.05.2023
+01.06.2023
+EUR 3558,76
+CBD e-sigaretter, CBD Konsentrater, CBD te, CBD gummies.++
+OK. Varer mottatt.
+Simply Green, Nederland
+UPS
+06.06.2023
+07.06.2023
+N/A
+EUR 5031,24
+1 kolli med utstyr. 1 kolli med CBD produkter.
+1 kolli mottatt 19.06.2023. 1 kolli fortsatt under tollbehandling.
+Simply Green, Nederland
+UPS
+07.07.2023
+10.07.2023
+N/A
+EUR 237,64
+CBD e-juice (merke: Harmony)
+Til tollbehandling siden 12.07.2023 (2 dager så langt...)
+
+
+
+
+
+
+
+
+JM Distro, Storbritania
+DHL
+05.02.2023
+
+
+NOK 11919,49
+CBD e-sigaretter
+OK. Varer mottatt.
+JM Distro, Storbritania
+DHL
+12.03.2023
+
+
+NOK 11449,81
+CBD e-sigaretter, CBD e-juice, CBD snus,CBD konsentrat
+OK. Varer mottatt.
+JM Distro, Storbritania
+DHL
+10.04.2023
+
+
+NOK 15589,99
+CBD e-sigaretter, CBD e-juice, CBD snus,CBD olje
+OK. Varer mottatt.
+JM Distro, Storbritania
+DHL
+16.04.2023
+
+
+NOK 6653,37
+CBD e-sigaretter (merke: Darwin)
+OK. Varer mottatt.
+JM Distro, Storbritania
+DHL
+30.05.2023
+
+N/A
+NOK 22730,16
+CBD e-sigaretter (merke: Darwin) + terpener
+Anmeldt av Tolletaten
+
+
+
+
+
+
+
+
+Canatura Wholesale, Tsjekkia
+UPS
+07.01.2023
+
+
+EUR 466,08
+CBD e-sigaretter, CBD e-juice
+OK. Varer mottatt. (Fikk først feil pakke pga. feil hos leverandør)
+Canatura Wholesale, Tsjekkia
+UPS
+02.02.2023
+
+
+EUR 699,85
+CBD e-sigaretter
+OK. Varer mottatt.
+Canatura Wholesale, Tsjekkia
+UPS
+10.02.2023
+16.02.2023
+
+EUR 1510,31
+CBD e-sigaretter, CBD e-juice, CBD te
+OK. Varer mottatt.
+Canatura Wholesale, Tsjekkia
+UPS
+11.05.2023
+
+N/A
+EUR 4473,68
+CBD e-sigaretter, CBD e-juice, CBD te, CBD konsentrat
+Returnert av UPS. UPS å tolldeklarere inn til Norge (pga. retningslinjer fra Norsk Toll?)
+
+--
+
+Anders Ulveseth
+
+Daglig leder | Plantedamp AS
+
+Tlf: +47 454 01 840
+
+https://plantedamp.no

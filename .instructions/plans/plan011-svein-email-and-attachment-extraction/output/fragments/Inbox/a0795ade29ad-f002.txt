@@ -1,0 +1,66 @@
+message_id:  <OLAP279MB0216E97484EEF28D8B9BD8E9C8A09@OLAP279MB0216.NORP279.PROD.OUTLOOK.COM>
+source_path: reference/mailbox-anders-plantedamp/Inbox/cur/1774229762.210405_185.tp-anders,U=185:2,RS
+mailbox_folder: Inbox
+top_level_from: Svein Skorpen <svein@byrknes.no>
+fragment_id: f002
+fragment_type: quoted_context
+confidence: medium
+evidence_codes: QUOTED_CONTEXT_PRESENT
+
+## TEXT
+Fra: Anders Ulveseth <anders.ulveseth@plantedamp.no>
+Sendt: torsdag 16. februar 2023 14:01
+Til: Svein Skorpen <svein@byrknes.no>; Yadgar Plantedamp AS <yadgar@plantedamp.no>
+Emne: Fwd: Vs: Signerte dokumenter - Del 1
+
+
+Hei,
+
+
+
+Se vedlegg. Jeg tror dette er de dokumentene du etterlyser signert av meg.
+
+
+
+Men vedtektene er ikke med i de signerte dokumentene. De har vi ikke fått fra deg før nå.
+
+
+
+
+
+
+
+Anders
+
+
+-------- Forwarded Message --------
+Subject:
+Vs: Signerte dokumenter - Del 1
+Date:
+Thu, 16 Feb 2023 12:58:34 +0000
+From:
+Anders Ulveseth <anders@definit.no><mailto:anders@definit.no>
+To:
+anders@plantedamp.no<mailto:anders@plantedamp.no> <anders@plantedamp.no><mailto:anders@plantedamp.no>
+
+
+________________________________
+Fra: Anders Ulveseth <anders@definit.no><mailto:anders@definit.no>
+Sendt: onsdag 15. februar 2023 13:53
+Til: svein@byrknes.no<mailto:svein@byrknes.no> <svein@byrknes.no><mailto:svein@byrknes.no>
+Emne: Signerte dokumenter - Del 1
+
+Her er dokumentene som kun jeg har signert. Sender egen mail med dokumenter signert av oss  begge.
+
+  *   Aksjeeierbok
+  *   Redegjørelse til generalforsamlingen
+  *   Referat fra styremøte
+  *   Innkalling til EOG
+Anders
+
+
+________________________________
+Fra: anders@definit.no<mailto:anders@definit.no> <anders@definit.no><mailto:anders@definit.no>
+Sendt: onsdag 15. februar 2023 13:42
+Til: Anders Ulveseth <anders@definit.no><mailto:anders@definit.no>
+Emne: A

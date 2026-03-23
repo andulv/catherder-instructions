@@ -1,0 +1,19 @@
+message_id:  <SVZP279MB081407BE884E96D586413659B46CA@SVZP279MB0814.NORP279.PROD.OUTLOOK.COM>
+source_path: reference/mailbox-anders-plantedamp/Inbox/cur/1774229805.210405_2139.tp-anders,U=2139:2,PRS
+mailbox_folder: Inbox
+top_level_from: Svein Skorpen <svein@sveberinvest.no>
+fragment_id: f001
+fragment_type: direct_primary
+confidence: high
+evidence_codes: FROM_NAME_MATCH
+
+## PRIMARY_TEXT
+God morgen, Anders !
+
+Jeg foreslår at vi tar møte for gjennomgang med Yadgar og Mitch onsdag 25.februar 2026 kl. 1100 . Du bestemmer hvor vi skal treffes .  Jeg avsetter nødvendig tid til møte, slik at vi kommer lengst mulig med nødvendige avklaringer i møte.
+
+Jeg forbereder møte som avtalt . Fint om du/dere kan bekrefte at utkast regnskaper for 2025 nå er ajourført, slik at jeg kan ta utgangspunkt i dette i den videre prosess .
+
+Ønsker deg og Sverre en god tur til Køben .
+
+Svein

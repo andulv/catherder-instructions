@@ -1,0 +1,129 @@
+message_id:  <OL1P279MB01474E01218CBEDD37EAC6C5F23F9@OL1P279MB0147.NORP279.PROD.OUTLOOK.COM>
+source_path: reference/mailbox-anders-plantedamp/Inbox/cur/1774229760.210405_29.tp-anders,U=29:2,S
+mailbox_folder: Inbox
+top_level_from: Svein Skorpen <svein.skorpen@vikingaqua.no>
+fragment_id: f001
+fragment_type: direct_primary
+confidence: high
+evidence_codes: FROM_NAME_MATCH, QUOTED_CONTEXT_PRESENT
+
+## PRIMARY_TEXT
+Hei, Anders !
+
+Jeg deltok som sagt ikke på kurset i dag, men fikk kopi av presentasjonen.
+
+Har ikke lest igjennom denne enda, men tror dette kan vært til god hjelp , Anders !
+
+Lykke til med møte med Sunkost på torsdag. Vi kan gjerne ta en prat på fredag eller torsdag etter møte.
+
+Svein
+
+## QUOTED_CONTEXT
+Fra: NO-FM KPMG Event <event@kpmg.no>
+Sendt: tirsdag 8. november 2022 14:17
+Til: NO-FM KPMG Event <event@kpmg.no>
+Emne: Takk for din deltakelse - Moms og toll i internasjonal handel - 8. november 2022
+
+
+[cid:image006.jpg@01D8F37C.B91AB860]
+
+
+
+
+Takk for at du deltok på dagens webinar «Moms og toll i internasjonal handel» hvor Kjerstin, Kristin, Axel og Jardar tok oss igjennom ny tollovgivning, praktiske eksempler ved innførsel og utførsel fra Norge, handlesrestriksjoner og EU-moms for norske virksomheter - for å nevne noe.
+
+En kopi av dagens presentasjon finner du vedlagt, og et opptak av webinaret kan du se her<https://vimeo.com/768471061/598aaed08a>.
+
+For de som har bekreftet deltakelse (x2) under dagens webinar, vil kursbevis bli sendt ut senere denne uken.
+
+
+
+Vi ønsker deg en riktig fin ettermiddag!
+
+Vennlig hilsen
+
+KPMG Law Advokatfirma AS
+
+Ta gjerne kontakt med oss:
+
+[cid:image007.jpg@01D8F37C.B91AB860]
+
+
+
+Kjerstin Ongre
+
+Advokat
+
+
+Phone: +47 40 63 94 58
+E-mail: kjerstin.ongre@kpmg.no<mailto:kjerstin.ongre@kpmg.no>
+
+
+
+[cid:image008.jpg@01D8F37C.B91AB860]
+
+Jardar Aavik Skarprud
+Advokat
+
+Phone: +47 40 63 92 37
+E-mail: jardar.aavik.skarprud@kpmg.no<mailto:jardar.aavik.skarprud@kpmg.no>
+
+
+
+[cid:image009.jpg@01D8F37C.B91AB860]
+
+
+Kristin Broen Falstad
+Advokatfullmektig
+
+Phone: +47 99 57 38 37
+E-mail: kristin.falstad@kpmg.no<mailto:kristin.falstad@kpmg.no>
+
+
+
+
+[cid:image010.jpg@01D8F37C.B91AB860]
+
+
+
+
+
+Axel Johnsen Holm
+Advokatfullmektig
+
+Phone: +47 40 63 65 49
+E-mail: axel.holm@kpmg.no<mailto:axel.holm@kpmg.no>
+
+Privacy<https://home.kpmg.com/xx/en/home/misc/privacy.html> | Legal<https://home.kpmg.com/xx/en/home/misc/legal.html>
+
+© 2022 KPMG AS and KPMG Law Advokatfirma AS, Norwegian limited liability companies and a member firm of the KPMG global organization of independent member firms affiliated with KPMG International Limited, a private English company limited by guarantee. All rights reserved...
+
+
+
+
+
+
+________________________________
+The information contained in this email and any files transmitted
+with it are confidential and may be legally privileged. It is
+intended solely for the use of the individual or entity to whom
+they are addressed (or meant to be addressed to).
+If you are not the intended recipient or the person responsible
+for delivering the email to the intended recipient, be advised
+that you have received this email in error and that any use,
+dissemination, forwarding, printing, or copying of this email or
+any action in reliance upon it is strictly prohibited and may be
+unlawful.
+If you have received this email in error please notify KPMG
+Norway IT function by telephone at +47 4063 9009 and
+delete all copies of this e-mail message and any attachments
+from all computers.
+KPMG is neither liable for the proper, complete transmission
+of the information contained in this communication nor any
+delay in its receipt.
+When addressed to our clients any opinions or advice
+contained in this email are subject to the terms and conditions
+expressed in the governing KPMG client engagement letter.
+##################################################
+This E-mail message has been checked for computer viruses by KPMG.
+##################################################

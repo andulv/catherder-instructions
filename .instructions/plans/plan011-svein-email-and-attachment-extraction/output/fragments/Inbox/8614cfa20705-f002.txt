@@ -1,0 +1,44 @@
+message_id:  <SVZP279MB07508E963C869820C3E9A265C89FA@SVZP279MB0750.NORP279.PROD.OUTLOOK.COM>
+source_path: reference/mailbox-anders-plantedamp/Inbox/cur/1774229803.210405_2041.tp-anders,U=2041:2,S
+mailbox_folder: Inbox
+top_level_from: Svein Skorpen <svein@byrknes.no>
+fragment_id: f002
+fragment_type: quoted_context
+confidence: medium
+evidence_codes: QUOTED_CONTEXT_PRESENT
+
+## TEXT
+Fra: Anders Ulveseth <anders.ulveseth@plantedamp.no>
+Sendt: torsdag 29. januar 2026 18:30
+Til: Svein Skorpen <svein@byrknes.no>
+Kopi: yadgar@plantedamp.no
+Emne: Plantedamp regnskap for 2025 er 100%(?) ferdig!!
+
+
+Hei,
+
+
+
+Sjekk gjerne Fiken når du har tid.
+
+Tror alt er riktig og oppdatert pr. 31.12.2025. Det eneste avviket jeg vet nå om er en akkumulert (siden oppstart) kassediff på -5726. Men tror ikke det er så mye å bruke tid på.
+
+Lagerbeholdning og alt annet skal være lagt inn riktig.
+
+
+
+Yadgar har gjort en kanonjobb med å holde oss oppdatert etter nyttår.
+
+Og hver tirsdag går vi sammen gjennom evt. krøll , differ og avvik i regnskapet.
+
+
+
+Fremover er planen å få til månedsavslutning hver måned hvor vi avstemmer Fiken og legger inn oppdatert varebeholdning +++.
+
+Første månedsavslutning er om noen dager og det ser ut som vi er i rute. :)
+
+
+--
+Anders Ulveseth
+Tlf: +47 454 01 840
+www.plantedamp.no<http://www.plantedamp.no>

@@ -1,0 +1,17 @@
+message_id:  <SVZP279MB0750CCD3B3855683287479ABC8F1A@SVZP279MB0750.NORP279.PROD.OUTLOOK.COM>
+source_path: reference/mailbox-anders-plantedamp/Inbox/cur/1774229796.210405_1732.tp-anders,U=1732:2,S
+mailbox_folder: Inbox
+top_level_from: Svein Skorpen <svein@byrknes.no>
+fragment_id: f001
+fragment_type: direct_primary
+confidence: high
+evidence_codes: FROM_EMAIL_MATCH, FROM_EXACT, FROM_NAME_MATCH
+
+## PRIMARY_TEXT
+Se vedlagte oversettelse til Norsk
+
+Se under , siste email fra Peter oversatt til Norsk .
+
+Svein
+
+[cid:image001.png@01DC44B7.7A3FAE90]

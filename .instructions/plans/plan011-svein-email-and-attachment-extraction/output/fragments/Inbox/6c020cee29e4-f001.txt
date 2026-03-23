@@ -1,0 +1,186 @@
+message_id:  <OLAP279MB0216D0AEC17AE5A20DE40E4FC8AE9@OLAP279MB0216.NORP279.PROD.OUTLOOK.COM>
+source_path: reference/mailbox-anders-plantedamp/Inbox/cur/1774229763.210405_214.tp-anders,U=214:2,S
+mailbox_folder: Inbox
+top_level_from: Svein Skorpen <svein@byrknes.no>
+fragment_id: f001
+fragment_type: direct_primary
+confidence: high
+evidence_codes: FROM_EMAIL_MATCH, FROM_EXACT, FROM_NAME_MATCH, QUOTED_CONTEXT_PRESENT
+
+## PRIMARY_TEXT
+God morgen, Anders !
+
+Se vedlagte aksjonæravtale mellom deg og meg /kun signert opp av oss 2, ingen andre har blitt tilknyttet/har signert en aksjonæravtale.  Ligger også med ansettelsesavtaler ( de jeg fant i mitt arkiv)  Even, Stian, Frode og deg. Espen sin kontrakt sitter jeg ikke på, men jeg antar at alle sitter med 3 måneders oppsigelse i sine avtaler .
+
+Ligger ved usignert, men godkjent styrereferat dater 07 02 2023. Dette har ikke du sett, men innhold kjenner du fra før .
+
+Jeg antar at det kommer en innkalling til styremøte over helgen , hvor dette tema vil være hovedtema .  Her vil jeg får en tilbakemelding etter avholdte møter med deg og SU Soft og med en skisse til alternative løsninger presentert av Frode og Svein Ove.
+
+Jeg sendte en email til Frode før helgen mht. tidspunkt for styremøte neste uke og hvordan det hadde gått med SU Soft . Ikke besvart av Frode p.t.  Jeg tror at de uavhengig av en eventuell avtale med SU Soft AS ønsker at du overtar programvaredelen . Jeg tror at de og Frode spesielt undervurderer hvilke krav som vil komme fra deg for å overta programvaredelen . Tror at de er litt forsiktige å involvere meg for mye i prosessen, da de nok er litt usikker på meg og min relasjon og loyalitet til deg i dette case .
+
+Mht. å bruke aksjonæravtale oss imellom i dette case skal vi være litt forsiktige med . Vi har ikke knyttet til de andre til aksjonæravtalen ( Even, Stian og Frode) . Avtalen og avtalens intensjoner gjelder mellom oss, mens de andre er ikke slik jeg husker det blitt tilknyttet til aksjonæravtalen .
+
+For meg er det enkelt å argumentere for å selge aksjene til deg, da forankret i vår interne avtale og vår intensjon når jeg gikk inn som aksjonær i selskapet i 2016.   Har ingen tro på at de vil ta en kamp i sakens anledning, da jeg tror at de ser at de vil tape en kamp med deg ( og meg ) i sakens anledning . Hvis de krever utøvelse av forkjøpsrett og alle benytter seg av den så vi vil man sitte med følgende aksjesits etter :
+
+[cid:image002.png@01D949C2.81E06470]
+
+[cid:image006.png@01D949C2.81E06470]
+
+En gjennomføring av en slik transaksjon vil uansett krev 2/3 flertall blant aksjonærene . Så uansett om du sitter med 42,35 % eller 51 % ( ved direkte kjøp fra meg) så kan ingen av partene tvinge frem en transaksjon her. Dette må forankres i en fremforhandlet avtale med 2/3 flertall fra aksjonærene- På den annen side så vet du at du reelt sett sitter i en posisjon hvor du har kontroll over denne prosess og kan tvinge frem noen løsninger her.
+
+Vi får se hva som kommer. Jeg har forstått deg slik at du har fått signaler om at det vil komme et forslag fra Frode/Even med støtte fra Svein Ove innen kort tid . Vi får se hva som kommer og vurdere hva vi gjør underveis .  Er uansett redd for at dette vil ta noe tid, og i mellomtiden så taper selskapet penger. Jeg hadde håpt av vi kunne finne en løsning som kunne gjennomføres raskest mulig, men det vil være opp til partene å finne frem til en slik løsning. Jeg ønsker å engasjere meg minst mulig i dette case og ønsker raskest mulig å selge mine aksjer til deg og trekke meg som styremedlem. Bryr meg lite om vederlagets størrelse og hvordan dette gjøre opp over tid. Det finner du og jeg ut av.
+
+Jeg avventer et initiativ fra styrets leder og daglig leder rett over helgen.  La oss ta en prat i forkant av styremøte , når jeg har sett agenda og forslag til tiltak .
+
+Svein
+
+## QUOTED_CONTEXT
+Fra: Anders Ulveseth <anders@definit.no>
+Sendt: lørdag 25. februar 2023 17:58
+Til: Svein Skorpen <svein@byrknes.no>
+Emne: Sv: Kjappe tanker og notater - Litt rotete
+
+Tror vi er ganske så samstemt. 🙂
+
+Men husk:  Dette er ikke noe jeg har tenkt å bruke så mye tid og krefter på i nærmeste fremtid. Her og nå har jeg mer enn nok med Omnishop utvikling, Plantedamp etablering og Barcelona tur om 1.5 uke.
+
+Jeg tenker å la disse ideene synke og justere av mot deg underveis. I utgangspunktet venter jeg på at Frode/Even/Svein Ove kommer med sine utspill/tilbud som de har signalisert de skal.
+
+Så lufter jeg/vi disse ideene, når det passer seg, lar det modne seg og ser hvordan det utvikler seg.
+
+Jeg kan se for meg noe slikt (kun løse tanker foreløpig):
+
+  *   Slutten av mars. Svein trer ut av styret. Overdrar (eller overlater disposionsrett) av sine aksjer til Anders. Dette begrunnes med tidligere avtaler mellom A & S.
+
+
+  *   Anders innkaller til EOG. Kjører hardt på at Definit skal vekk fra all drift/support og tilbake til ren leverandør av programvare og relaterte "høykompetanse" tjenester.
+
+  *   Legger frem forslag/tilbud til Frode og Even om å la de overta drift/supportinntekter i eget selskap.
+
+  *   Alternativ hvis de ikke er interessert i å overt drift/support: Alle ansatte utenom om meg sies opp. Kunder varsles om at drift/support vil bli avviklet innnen 6-12 mndr.. Vi ønsker  å fortsette som ren programvareleverandør. Men er forberedt på og aksepterer at vi kan miste alt hvis kunden insisterer på ny totalleverandør. I overgangs/oppsigelsestiden står vi til disposijon for kundene  med rådgivning, bygge opp intern drift/support (overta noen av de oppsagte ansatte) og/eller finne ekstern partner, etc.
+
+
+
+
+________________________________
+Fra: Svein Skorpen <svein@byrknes.no<mailto:svein@byrknes.no>>
+Sendt: lørdag 25. februar 2023 15:14
+Til: Anders Ulveseth <anders@definit.no<mailto:anders@definit.no>>
+Emne: SV: Kjappe tanker og notater - Litt rotete
+
+
+Hei , Anders !
+
+
+
+Disse forhandlinger kjører du alene mot Frode /Even ( og Svein Ove)  , Anders, jeg bistår deg med formalia i saken .  Jeg sitter nok en gang ( som alltid med meg) i en liten dobbel roller. Derfor forslag under.
+
+
+
+  *   På gitt tidspunkt , koordinert oss imellom så melder jeg at jeg har solgt aksjene i Definit AS til deg, slik at du eier 50 % av aksjene når du går i forhandlinger med Frode /Even.
+  *   Vi henviser her til gammel aksjonæravtale oss imellom ( som vi etablerte når jeg kjøpte 50 % av selskapet fra deg i 2016 )
+  *   Vi må blir enige om hva vi skal prise 15 % av aksjene i Definit AS til . Vi må her tenke strategisk.  Jeg har ikke behov for noe oppgjør nå , Anders , men prisen bør være strategisk riktig i forhold til de forhandlinger du skal igjennom.
+  *   Vi lager til avtale over helgen, så varsler jeg salg av aksjene til deg når vi er enige om dette , og melder da samtidig om at jeg ønsker å fratre styre i selskapet, da litt avhengig av valg av modell .
+  *   Om vi skal utfisjonere drift/support eller programvare er vel egentlig det samme, men jeg støtter deg (mest praktisk)  i at drift utfisjoneres eller at de stifter nytt AS og får overført driftsavtalene .
+  *   Hvis du (vi beholder) Definit AS ( mest praktisk) , så trer du inn som daglig leder og styreleder. Jeg beholder posisjonen som styremedlem, så ordner vi formalia rundt fremtidig oppgjør for posten senere.
+  *   Jeg bistår med regnskapsførsel . Hvis vi beholder Definit AS , så viderefører vi regnskapet i Uni . Hvis overføring til nytt selskap , OS, så fører vi regnskapet i Fiken.
+  *   Hva Frode/Even ( Stian) vil gjøre med sine posisjoner , må nesten de avklare. De må da bygge et selskap forankret i de inntekter de får. Om de klarer å øke inntekter og /eller om de selger driftsavtalene til SU SOFT , mot jobb ? , så må det være opp til de .
+
+
+
+Hører dette ut som en plan, Anders !  Vi må tenke strategisk i forhold til mål .
+
+
+
+Vi snakkes over helgen !
+
+
+
+Svein
+
+
+
+
+
+Fra: Anders Ulveseth <anders@definit.no<mailto:anders@definit.no>>
+Sendt: lørdag 25. februar 2023 14:16
+Til: Svein Skorpen <svein@byrknes.no<mailto:svein@byrknes.no>>
+Emne: Kjappe tanker og notater - Litt rotete
+
+
+
+Kjappe kommentarer til dine punkter
+
+  *   Kan ikke se noen grunn til at Frode/Even/Driftsselskap skal ha provisjon for, eller være mellomledd i avtaler annet med lisenser eller programvare som mitt/vårt selskap eier.
+  *   Lisensinntektene er stort sett passive inntekter som krever minimalt med jobb. Tanken min er at dette er fint mulig å ha ved siden av annen jobb / prosjekter / engasjementer.
+  *   For alt som gjelder programvare (avtaler, prosjekter, utviklingsopppdrag) ønsker jeg å forholde meg direkte til kundene. Frode/Even sitt selskap er kun involvert som leverandør av support og drift.
+
+
+
+
+
+
+
+Etter møtet med Svein Ove sitter jeg igjen med følgende.
+
+
+
+  *   Svein Ove er engasjert på initiativ fra Frode og Even.
+
+Det oppleves som hans mandat og fokus først og fremst er å ivareta Frode og Evens interesser og bistå dem med å overta selskapet.
+
+(For ordens skyld: Jeg har ingen problemer med dette. Det er jeg som er har valgt å la andre ta styringen og har lagt til rette for en slik situasjon)
+
+  *   Etter å kjøpt seg inn i programvarefirmaet Definit AS har Frode og Even har ombestemt seg (realitetsorientert seg). De har konkludert med at de ikke ønsker å drive/eie et programvareselskap. De ønsker likevel å fortsette som eiere/ansatte i Definit. Man jobber derfor nå med å lage en plan/strategi for Definits fremtid tilpasset dette.
+
+Det vil i praksis si at Definit skal endre formål/fokus/strategi fra å være programvareleverandør, som også tilbyr driftsavtaler for egen programvare til ren kasseleverandør som ikke leverer egne programvareløsninger eller prosjekter.
+
+
+
+Mitt nyeste forslag:
+
+  *   Definit AS går tilbake til opprinnelig modell hvor all drift/support utføres av partnere, kundens egne folk/leverandører eller av underleverandører som vi outsourcer til.
+  *   Fisjonerer ut "Kassesystemer og Brukerstøtte AS". Even, Frode (og evt. Stians) eierandeler i Definit overføres her.
+  *   Varebeholdning, systemer/utstyr nødvendig for drift/support, o.l. blir med over i det nye selskapet.
+  *   Alle ansatte sies opp fra Definit. Det nye selskapet velger hvem de vil ansatte, og evt. deltid/innleie, underleverandører, o.l.
+  *   Definit fortsetter å fakturere lisenser direkte til kunder.  Det nye selskapet fakturerer de samme kundene for drift/support, enten direkte eller gjennom Definit AS.
+  *   Frode og Even kan da velge om de fortsetter å drive dette selskapet, eller om de prøver å få noen andre (Su-Soft) til å overta og gi dem jobb.
+
+
+
+
+
+Definit AS - Tilbake til opprinnelig plan, men uten ambisjoner eller stress.
+
+  *   Svein og Anders ansatt. Anders som daglig leder.
+  *   Svein får en liten fastlønn (nn nnn,-), finansieres av lisensinntekter, utfører enkelte faste arbeidsoppgaver (regnskap, økonomi,)
+  *   I tillegg får Svein nn% av alle timer han fakturerer (Slik at bittelitt ligger igjen til Definit, resten i lønn/FP/OTP til Svein)
+  *   Tilsvarende avtale for Anders.
+
+
+
+
+
+
+
+
+
+
+
+  *
+
+
+
+
+
+
+
+  *
+
+
+
+
+
+
+
+  *

@@ -1,0 +1,150 @@
+message_id:  <OLAP279MB0216E3C092E56DE51F45E260C8549@OLAP279MB0216.NORP279.PROD.OUTLOOK.COM>
+source_path: reference/mailbox-anders-plantedamp/Inbox/cur/1774229759.210405_7.tp-anders,U=7:2,S
+mailbox_folder: Inbox
+top_level_from: Svein Skorpen <svein@byrknes.no>
+fragment_id: f001
+fragment_type: direct_primary
+confidence: high
+evidence_codes: FROM_EMAIL_MATCH, FROM_EXACT, FROM_NAME_MATCH, QUOTED_CONTEXT_PRESENT
+
+## PRIMARY_TEXT
+Imponerende disposisjon og grunnlag for en forretningsplan, Anders !
+
+Tenk om alle hadde laget en så grundig kartlegging av markedet. Så er det gjennomføring og gjennomføringsevne som gjenstår,  som tross alt er det viktigste i alle grunder prosjekter. Du virker veldig motivert for dette og når jeg leser igjennom dette
+Så er det tydelig at du nå er på vei fra et hobbyprosjekt til reell butikk. Jeg kjenner ikke dette markedet, Anders , som har ikke p.t. så mye å bidra med i dette case.
+
+Vi snakkes på fredag, Anders !
+
+Svein
+
+## QUOTED_CONTEXT
+Fra: Anders Ulveseth <anders.ulveseth@plantedamp.no>
+Sendt: tirsdag 27. september 2022 21:13
+Til: Grant Aalborg <grant.aalborg@gmail.com>; jon.beider@gmail.com; ellingsen.trond@gmail.com; sverre.holbye@gmail.com; Svein Skorpen <svein@byrknes.no>; espen@definit.no
+Emne: Vaporizere - Produktkategorier, bruksområde, teknologi, brukersegmenter/use-cases
+
+Hei,
+
+Jeg fortsetter med å klore ned litt av det som virrer i hodet. Hensikten er å få strukturert og dokumentert litt av det jeg har funnet ut så langt, og så skal jeg tilbake til å konsentrere meg om produktutvikling, produktutvalg og det praktiske som må til for å lansere fungerede nettbutikk med noe som kan selges.
+
+Nedenfor har jeg prøvd å beskrive hvilke typer vaporizere som finnes og hvordan de brukes.
+
+Foreløpig har jeg valgt å begrense "Prosjekt Plantedamp" til å fokusere på batteridrevne enheter (2.3.1 og 2.3.2 nedenfor). Vekst i markedet drives av denne typen. Norge / Nord-Europa er i helt tidlig innovatør/early adopter, i Europa er de kommet lengre og USA er det nesten etablert marked.
+Hvis det går den veien at Plantedamp setter mål om å bli seriøs aktør i Vaporizer markedet bør vi etterhvert ha løsninger/produkter innenfor de fleste av områdene som nevnes nedenfor. Hvis det er segmenter/produkttyper/bruksområder vi ikke skal ha løsninger for, bør vi i hvertfall ha en mening om hvorfor ikke.
+
+Stasjonære vaporizere har eksistert i mange år, men som veldig smal nisje. "Markedsført" som maksimal rus for hele vennegjengen, alternativ til bøtter og bong.
+Min magefølelse/intuisjon er at det nå/snart kommer stor oppsving i etterspørsel etter moderne stasjonære vaporizere.
+Brukere av portable vaporizere bruker dem like mye/mer hjemme i sin egen stue som ute. Hvorfor stresse med lading og batteri da? Og brukeropplevelsen kan fort bli mye bedre når man ikke har de samme constraints rundt fysisk størrelse og strømforbruk.
+
+Tanken er at det aller meste av det vi lærer og oppnår med portable batteridrevne enheter kan vi ta med oss når/hvis vi går videre med andre typer vaporizere.
+
+
+1. Vaporizere for væske (e-sigaretter)
+Disse består normalt av to deler:
+* Mod eller penn (også kalt batteripakke eller batteri) .Inneholder: Batteri, Brukergrensesnitt (knapper, lys, display)
+* Tank (også kalt Atomizer). Denne inneholder varmeelement, veiker (bomull) og munnstykke/åpning hvor bruker puster inn dampen.
+
+Det vanligste er at tanken også inneholder væsken som vapes, men det finnes varianter hvor væsken er i Mod (squonk-mod) og sprutes inn i tanken eller hvor brukeren selv drypper rett ned i tanken fra medbragt flaske.
+
+Det er etablert industristandard for kobling mellom mod og tank, denne koblingen kalles 510. Det aller meste av utstyr på i dag markedet bruker 510 tilkobling.
+
+1.1. e-sigaretter for vape-juice (streite vapere)
+e-sigarett tank (tom tank, bruker fyller selv med vape-juice)
+e-sigarett engangstank (POD / cartridge) (tom eller ferdig fylt med vape-juice)
+vape-juice / e-juice / vape-væske (med eller uten nikotin)
+
+Kan se ut som om i markedet i Norge er synkende (i en bølgedal?) etter noen år med kraftig vekst fra 0.- Markedet på verdensbasis er visstnok kraftig økende.
+
+Det er 1-2 aktørerer (kjeder/grossister) av betydning innen e-sigaretter i Norge. (NorDamp).
+Det er uendelig med norske / svorske / europeise nettbutikker som selger e-sigaretter. De fleste (alle?) av disse er "virtuelle" butikker som aldri har sett en vare. Alt skjer via drop-shipping o.l.
+
+I tillegg til NorDamp i Norge har jeg funnet distributører i Danmark, Tyskland og UK som virker interessante. Planen er å registrere oss som forhandler hos disse.
+
+1.2. e-sigaretter for væske med cannabis  (THC og/eller CBD)
+Samme system/konsept produkter som for e-sigaretter brukes også til vaping av væske som inneholder Cannabis. Denne væsken er annerledes (seigere, olje) enn standard vape-juice.
+Tankene som brukes til denne type væske er derfor litt annerledes enn tankene som brukes til e-juice. (Har kun sett engangstanker, tror jeg).
+
+I USA/Kanada er dette svært utbredt. Mange brukere som kjøper ferdigfylte tanker (cartridte) fra sitt faste merke med sin faste smak. Akkurat som de før gjorde med sigaretter / tobakk.
+https://dabconnection.com/culture/best-cartridges-california/. (Har lest/hørt at væske utgjør like mye omsetning som planter)
+
+Ser ut som det er etablert marked i Europa for væske med kun CBD og ingen THC (pga. lovgivning).  Antar THC vil komme umiddelbart når det er lov.
+I Norge er det et illegalt marked hvor tomme engangstanker kjøpes fra Kina og fylles med lokalprodusert væske/olje. Nytt for 4-5 år siden. Virker som det i dag er liten nisje, men kan gjerne fort endre seg.
+I et modent legalisert marked vil jeg tro at store produsenter/merker med høyt volum har mye å tjene på selge Cannabis på denne måten i stedet for som ferskvare.
+
+
+2. Vaporizere og utstyr for planter/urter og annet fast materiale
+
+2.1 Typer materiale
+2.1.1 Dry Herb - Tørket plantemateriale (marijuana)
+Vape-opplevelsen varierer kraftig avhengig av hvor fuktig/tørt materialet er og hvor oppmalt (grindet) det er.
+Var totalt dominerende i Amerika før ekstrakt og vaping ble etablert.
+Streit alternativ: Andre urter? Eucalyptus og kanskje andre planter/urter er har visstnok dokumentert positivt på effekt på lunger og noe.
+
+2.1.2 Concentrates - Komprimert plantemateriale (hasj)
+Store variasjoner i konsistens, f.eks: svart, seigt (som oljete modellerkitt), porøs lysebrun (pollenaktig), hardere varianter
+Marokko er storprodusent/eksportør av materialet.
+Er og har vært lite utbredt i USA (?). Er/har vært dominerende i Europa.
+Streit alternativ: ????
+
+2.1.3 Ekstrakt (Wax/Dab/Oil) - Olje/gugge ekstrahert fra plantemateriale
+Nytt at dette er alment tilgjengelig i større skala. Har tidligere vært en eksotisk, eksklusiv ting.
+Grisete og klissete. Kombinert med at ekstrakt på størrelse med ert tilsvarer snusdåse med plantemateriale (pris, virkning) blir det lett mye svinn.
+
+Enkelt å lage vaporizer for denne typen materiale. Finnes enormt utvalg av billig/kjipa løsninger, men som gjerne er "god nok".
+Man legger materialet veldig nærme eller direkte på coil/varmetråder, siden materialet er oljete skal det mye til at det blir svidd. Varme på lav effekt og kort tid, siden det bare er en liten dråpe som ligger rett på varmelementet som skal fordampe.
+Det fører igjen til =>Lavt batteriforbruk og lite varmeutvikling rundt kammer/munnstykke. Som igjen fører til at billige/enkle/små vaporizere som i praksis er utbrukelige til planter og konsentrat (pga. bruker brenner seg, svidd smak, batterikapasitet) funker til ekstrakt.
+
+Streit alternativ: Essensielle oljer eller lignende?
+
+
+2.2 Bruksområder / Use-case / Brukergrupper
+Session vs. On-Demand
+Session: Patte på fyilling i 20 minutter,
+On-Demand: Små/kjappe trekk av samme fylling fordelt over mange timer
+Sammenligning med alkohol: smatte seg gjennom en craft-beer -  nippe til et glass rødvin - styrte shots sammen med venner - flaske i lommen som man nipper på gjennom dagen når man tror ingen ser - tømme lommelerken i to slurker,
+Samme brukere/brukergrupper kan ha ulike behov til ulike tider (noen ganger session, noen ganger on-demand, etc.)
+
+Begrenset temperaturkontroll vs full temperaturkontroll vs. manuell kontroll.
+Medisinsk vs. rekreasjonell
+
+Varmeteknologl:
+Convection -Indirekte varme, fylling varmes kun opp av varm luft som dras gjennom kammeret.
+Convention - Direkte varme. Materiale er i direkte kontakt med varmeelement. Varmelement kan være selve kammeret (noenlunde jevn oppvarming) eller coil som er direkte eksponert.
+Induction-
+
+Convention blir ofte anbefalt, er dyrere og regnes som bedre for plantemateriale. Begrepene går igjen i markedsføring, artikler og anmeldelser. Forenkling av virkeligheten. Mange andre ting som spiller inn. Og de aller fleste dry-herb vaporizere ender etterhvert opp med elementer av begge varmetypene (hybrid).
+
+
+2.3 Typer vaporizere
+2.3.1. Portable/håndholdte vaporizere  - Batteridrevet standalone
+De fleste modellene på markedet i dag har fast batteri (ikke utskiftbart).
+Alle modeller jeg har kommet over baserer seg på kun temperaturkontroll. Det vil si at bruker setter temperatur og har ikke mer kontroll over varmeelement og vapeopplevelse enn det man får ved å puste.
+Enkleste modeller har ikke temperaturkontroll, eller kan kun velge mellom 3-5 faste temp.
+Størrelser fra markertusj til
+
+2.3.2. Portable/håndholdte vaporizere  - Atomizer (tank) med 510 tilkobling til standard mod
+For det meste: Småskala/hobby/entusiast merker/produkter
+En del billig fra Kina, hovedsaklig rettet inn mot ekstrakt (wax/dab/oil)
+Mod lar bruker  kontrollere varmeeffekt og temperatur på en måte som ikke er vanlig på ordinære portable/håndholdte vaporizere
+
+2.3.3. Portable/håndholdte vaporizere - Gass (eller ekstern varme)
+
+2.3.4. Stasjonære vaporizere - Temperaturkontoll (enkel)
+
+2.3.5 - Stasjonære vaporizere - DIY, avansert, manuell
+
+2.3.6 Manuelle / Andre / Multi
+Dynavap
+
+2.3.7 Aromaterapi greier - Helsekost produkt?
+
+
+2.4 Utstyr for å presse ut olje/dab/voks fra planter
+Kan da blandes med olje/væske og fylles på tanker (pod/cartridge) for e-Sigarett
+Evt. kan dab/voks oppbevares og vapes direkte i vaporizer for fast materiale
+
+
+2.5 Tilbehør / Periferi
+Grinder, oppbevaring
+Batterier, ladere
+Kapsler, Coiler, Reservedeler

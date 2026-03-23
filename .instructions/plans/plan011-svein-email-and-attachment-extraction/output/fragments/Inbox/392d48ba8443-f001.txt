@@ -1,0 +1,56 @@
+message_id: <4522D10E-4A6A-4C0A-B125-F844E9E36A19@vikingaqua.no>
+source_path: reference/mailbox-anders-plantedamp/Inbox/cur/1774229778.210405_908.tp-anders,U=908:2,S
+mailbox_folder: Inbox
+top_level_from: Svein Skorpen <svein.skorpen@vikingaqua.no>
+fragment_id: f001
+fragment_type: direct_primary
+confidence: high
+evidence_codes: FROM_NAME_MATCH, QUOTED_CONTEXT_PRESENT
+
+## PRIMARY_TEXT
+Sendt fra min iPad
+
+Videresendt melding:
+
+## QUOTED_CONTEXT
+Fra: Proff Forvalt <forvalt@proff.no>
+Dato: 8. august 2024 kl. 20:06:32 CEST
+Til: Svein Skorpen <svein.skorpen@vikingaqua.no>
+Emne: Firmaovervåking fra Proff Forvalt
+
+﻿
+[Proff® Forvalt] <https://forvalt.no>
+Overvåking
+[X]
+
+Vår overvåkingstjeneste har registrert følgende endringer i dine overvåkede firmaer/søk.
+
+Merk at du må logge inn for å se informasjonen.
+
+Negativ endring i rating/scoringsmodell
+Endre varsel<https://forvalt.no/foretaksindex/abonnement/Overvaaking>
+Firmanavn       Org. nr.        Sted    Forrige Ny
+PLANTEDAMP AS<https://forvalt.no/foretaksindex/Firma/FirmaSide/930078158>       930078158       BERGEN
+[B - Moderat risiko]
+[C - Høy risiko]
+Rating/scoringsmodell
+[A++]
+[A+]
+[A]
+[B]
+[C]
+Særdeles lav risiko     Meget Lav risiko        Lav risiko      Moderat risiko  Høy Risiko
+Denne modellen baserer seg på firmaets regnskapstall, aksjonærer/eiere, roller og styreinformasjon, panteheftelser, betalingsanmerkninger med mer og kan ikke ene og alene si om et firma er på vei til å gå konkurs. Derimot gir den en meget god indikasjon på selskapets betalingsevne og tilstand. Proff® Forvalt tar forbehold om feil i regnskapstallene, som medfører at ratingen ikke blir korrekt.
+Kilder: Sist innleverte årsregnskap, Løsøre-registret, aksjebok, offisielt foretaksregister, inkassobyråer samt Proff® sine egne data.
+________________________________
+Vis mine firmaer<https://forvalt.no/foretaksindex/abonnement/MineFirmaer>       Endre overvåking<https://forvalt.no/foretaksindex/abonnement/Overvaaking>
+
+Med vennlig hilsen
+Proff® Forvalt
+
+Proff® Forvalt<https://forvalt.no> er et næringslivsverktøy med raske tilstandssjekker og mulighet for dybdeinformasjon. Vi kan også levere via tjenester via API og skreddersydd firmainformasjon på fil.
+
+Ønsker du å stanse overvåkingen og ikke lenger motta e-post når det skjer endringer? Endre innstillinger<https://forvalt.no/foretaksindex/abonnement/Overvaaking>  på Proff® Forvalts overvåkingsside.
+
+Har du ros, ris eller spørsmål, send gjerne en e-post til forvalt@proff.no eller kontakt oss på
+tlf. 21 51 66 02

@@ -1,0 +1,34 @@
+message_id:  <OLAP279MB02162B03B08298963A42CC0CC8899@OLAP279MB0216.NORP279.PROD.OUTLOOK.COM>
+source_path: reference/mailbox-anders-plantedamp/Inbox/cur/1774229767.210405_264.tp-anders,U=264:2,S
+mailbox_folder: Inbox
+top_level_from: Svein Skorpen <svein@byrknes.no>
+fragment_id: f001
+fragment_type: direct_primary
+confidence: high
+evidence_codes: FROM_EMAIL_MATCH, FROM_EXACT, FROM_NAME_MATCH
+
+## PRIMARY_TEXT
+Hei, Anders !
+
+Jeg sier ikke noe mer i sakens anledning nå , Anders !  Håper at vi kan ta en samtale rundt tema på et senere tidspunkt .
+
+Vedlagt følger kopi av din arbeidsavtale, signert av meg og deg 1.april 2016 . Jeg tror ikke at din arbeidsavtale er oppdatert etter dette tidspunkt .
+
+
+  *   Ref. avtalen så gjelder det en gjensidig oppsigelsesfrist på 3 måneder .
+  *   Ligger også ved den avtale jeg fikk da vi etablerte vårt felles eierskap i april 2016 .
+  *   Ref. lønn under sykdom, så trodde jeg at lønn under sykdom var regulert til 100 % refusjon av lønn i opp til 1 år, men jeg finner ikke dette i signert avtale, se vedlegg
+  *   Antar at vi da som 50/50 aksjonærer ved etablering avtaler 2016 valgte å fjerne dette, da selskapet i den situasjon vi da var i med kun oss 2, så kunne ikke vi på vegne av selskapet ta på oss en slik forpliktelse.
+  *   I en normalsituasjon så vil jeg alltid sørge for dette for meg selv og normalt også for alle ansatte som har over 6 G i lønn .
+  *   Dvs. at du i utgangspunktet kun vil få en lønn på 6 G fra NAV i en situasjon hvor du blir sykemeldt over lengre tid , hvis du da ikke får en annen avtale med selskapet .
+  *    Mht. aksjonæravtalen så er nok denne utløpt etter som vi har tatt inn nye aksjonærer underveis uten å tilknytte de andre til aksjonæravtalen .
+
+Mht. ditt spørsmål rundt forkjøpsrett så er det aksjelovens regler som gjelder. Du kan fritt selge dine aksjer til hvem du vil , men øvrige aksjonærer vil ha en forkjøpsrett og dette må du da eventuelt ta forbehold om hvis du kommer i en situasjon hvor du har en kjøper til dine aksjer .
+
+
+Mvh
+
+Svein Skorpen
+
+Email: svein@byrknes.no<mailto:svein@byrknes.no>
+Telefon:  48281280

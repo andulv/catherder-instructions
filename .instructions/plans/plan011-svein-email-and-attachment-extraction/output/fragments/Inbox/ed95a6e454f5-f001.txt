@@ -1,0 +1,46 @@
+message_id:  <SVZP279MB075063DF410C41F7C0C623B2C8A3A@SVZP279MB0750.NORP279.PROD.OUTLOOK.COM>
+source_path: reference/mailbox-anders-plantedamp/Inbox/cur/1774229800.210405_1886.tp-anders,U=1886:2,S
+mailbox_folder: Inbox
+top_level_from: Svein Skorpen <svein@byrknes.no>
+fragment_id: f001
+fragment_type: direct_primary
+confidence: high
+evidence_codes: FROM_EMAIL_MATCH, FROM_EXACT, FROM_NAME_MATCH, QUOTED_CONTEXT_PRESENT
+
+## PRIMARY_TEXT
+Hei på deg, Anders !
+
+Jeg vil ha en gjennomgang av oversendt grunnlag fra deg i løpet av uken. Fint om du kan følge opp og innhente regnskap mm. for Gro Pro AS pr. 31 10 2025.
+
+Når dette er på plass og avklart dere imellom så er jeg klar til å utarbeide utkast til avtaleverk i tråd med oppdragsbeskrivelse.
+
+Jeg henter ut nødvendige rapporter fra Fiken selv og kommer tilbake med eventuelle spørsmål i sakens anledning .
+
+Svein
+
+## QUOTED_CONTEXT
+Fra: Anders Ulveseth <anders.ulveseth@plantedamp.no>
+Sendt: mandag 8. desember 2025 23:28
+Til: Svein Skorpen <svein@byrknes.no>
+Kopi: yadgar@plantedamp.no; mitch@plantedamp.no
+Emne: Lagerliste for Plantedamp 31.10.2025
+
+
+Se vedlagte Exel fil.
+
+Jeg har også lagt inn postering 31.10.2025 i Fiken med denne varelagerverdien.
+
+Så jeg tror at saldobalansen, resultat og balanse pr. 31.10. i Fiken skal gi noenlunde korrekt bilde av stoda.
+
+
+
+Jeg antar du kan logge inn i Fiken og sjekke ut det du trenger? Gi beskjed hvis jeg skal hente ut noe.
+
+Og skrik ut hvis du ser noe som er så galt at det må korrigeres for å komme videre. :)
+
+
+--
+Anders Ulveseth
+Daglig leder | Plantedamp AS
+Tlf: +47 454 01 840
+www.plantedamp.no<http://www.plantedamp.no>
