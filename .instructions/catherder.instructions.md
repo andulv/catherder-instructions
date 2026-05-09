@@ -61,10 +61,9 @@ Do not silently change plan scope during execution.
 1. **Understand** — Read instructions and identify constraints.
 2. **Plan** — Create/update a plan. Do not execute while planning.
 3. **Prepare** — Gather prerequisites required by the plan.
-4. **Task** — Execute one task at a time.
-5. **Complete** — Mark the task done immediately. Update timestamps.
-6. **Verify** — Validate against the plan. Run tests or reason.
-7. **Report** — Summarize outcome, risks, and follow-ups.
+4. **Task** — Execute one task. Mark it as complete update timestamp. Then move to next task
+5. **Verify** — Validate against the plan. Run tests or reason.
+6. **Report** — Summarize outcome, risks, and follow-ups.
 
 ## Task Rules
 
